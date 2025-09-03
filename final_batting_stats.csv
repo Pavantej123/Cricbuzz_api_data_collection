@@ -1,0 +1,1417 @@
+,teamId,teamName,name,id,battingStyle,bowlingStyle,ROWHEADER,Matches,Innings,Runs,Balls,Highest,Average,SR,Not Out,Fours,Sixes,Ducks,50s,100s,200s,300s,400s
+0,2,India,Shubman Gill,11808,Right-hand bat,Right-arm offbreak,Test,34,63,2478,3951,269,42.72,62.72,5,273,43,5,7,8,1,0,0
+1,2,India,Shubman Gill,11808,Right-hand bat,Right-arm offbreak,ODI,55,55,2775,2787,208,59.04,99.57,8,314,59,1,15,8,1,0,0
+2,2,India,Shubman Gill,11808,Right-hand bat,Right-arm offbreak,T20,21,21,578,415,126,30.42,139.28,2,60,22,1,3,1,0,0,0
+3,2,India,Shubman Gill,11808,Right-hand bat,Right-arm offbreak,IPL,118,115,3866,2787,129,39.45,138.72,17,372,119,4,26,4,0,0,0
+4,2,India,Yashasvi Jaiswal,13940,Left-hand bat,Right-arm legbreak,Test,21,40,2018,3037,214,53.11,66.45,2,243,40,3,11,5,2,0,0
+5,2,India,Yashasvi Jaiswal,13940,Left-hand bat,Right-arm legbreak,ODI,1,1,15,22,15,15.0,68.19,0,3,0,0,0,0,0,0,0
+6,2,India,Yashasvi Jaiswal,13940,Left-hand bat,Right-arm legbreak,T20,23,22,723,440,100,36.15,164.32,2,82,38,2,5,1,0,0,0
+7,2,India,Yashasvi Jaiswal,13940,Left-hand bat,Right-arm legbreak,IPL,66,66,2166,1417,124,34.38,152.86,3,258,92,4,15,2,0,0,0
+8,2,India,Sai Sudharsan,13866,Left-hand bat,Right-arm legbreak,Test,1,2,30,52,30,15.0,57.7,0,4,0,1,0,0,0,0,0
+9,2,India,Sai Sudharsan,13866,Left-hand bat,Right-arm legbreak,ODI,3,3,127,142,62,63.5,89.44,1,17,1,0,2,0,0,0,0
+10,2,India,Sai Sudharsan,13866,Left-hand bat,Right-arm legbreak,T20,1,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+11,2,India,Sai Sudharsan,13866,Left-hand bat,Right-arm legbreak,IPL,40,40,1793,1229,108,49.81,145.9,4,183,52,0,12,2,0,0,0
+12,2,India,Rohit Sharma,576,Right-hand bat,Right-arm offbreak,Test,67,116,4301,7538,212,40.58,57.06,10,473,88,6,18,12,1,0,0
+13,2,India,Rohit Sharma,576,Right-hand bat,Right-arm offbreak,ODI,273,265,11168,12034,264,48.77,92.81,36,1044,344,16,58,32,3,0,0
+14,2,India,Rohit Sharma,576,Right-hand bat,Right-arm offbreak,T20,159,151,4231,3003,121,31.34,140.9,16,383,205,12,32,5,0,0,0
+15,2,India,Rohit Sharma,576,Right-hand bat,Right-arm offbreak,IPL,272,267,7046,5334,109,29.73,132.1,30,640,302,18,47,2,0,0,0
+16,2,India,Virat Kohli,1413,Right-hand bat,Right-arm medium,Test,123,210,9230,16608,254,46.85,55.58,13,1027,30,15,31,30,7,0,0
+17,2,India,Virat Kohli,1413,Right-hand bat,Right-arm medium,ODI,302,290,14181,15192,183,57.88,93.35,45,1325,153,16,74,51,0,0,0
+18,2,India,Virat Kohli,1413,Right-hand bat,Right-arm medium,T20,125,117,4188,3056,122,48.7,137.05,31,369,124,7,38,1,0,0,0
+19,2,India,Virat Kohli,1413,Right-hand bat,Right-arm medium,IPL,267,259,8661,6519,113,39.55,132.86,40,771,291,10,63,8,0,0,0
+20,2,India,Suryakumar Yadav,7915,Right-hand bat,Right-arm offbreak,Test,1,1,8,20,8,8.0,40.0,0,1,0,0,0,0,0,0,0
+21,2,India,Suryakumar Yadav,7915,Right-hand bat,Right-arm offbreak,ODI,37,35,773,736,72,25.77,105.03,5,80,19,3,4,0,0,0,0
+22,2,India,Suryakumar Yadav,7915,Right-hand bat,Right-arm offbreak,T20,83,79,2598,1555,117,38.21,167.08,11,237,146,5,21,4,0,0,0
+23,2,India,Suryakumar Yadav,7915,Right-hand bat,Right-arm offbreak,IPL,166,151,4311,2900,103,35.05,148.66,28,454,168,10,29,2,0,0,0
+24,2,India,Shreyas Iyer,9428,Right-hand bat,Right-arm legbreak,Test,14,24,811,1287,105,36.86,63.02,2,94,16,2,5,1,0,0,0
+25,2,India,Shreyas Iyer,9428,Right-hand bat,Right-arm legbreak,ODI,70,65,2845,2845,128,48.22,100.0,6,262,72,1,22,5,0,0,0
+26,2,India,Shreyas Iyer,9428,Right-hand bat,Right-arm legbreak,T20,51,47,1104,811,74,30.67,136.13,11,90,44,4,8,0,0,0,0
+27,2,India,Shreyas Iyer,9428,Right-hand bat,Right-arm legbreak,IPL,132,132,3731,2798,97,34.23,133.35,23,314,152,7,27,0,0,0,0
+28,2,India,Rinku Singh,10896,Left-hand bat,Right-arm offbreak,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+29,2,India,Rinku Singh,10896,Left-hand bat,Right-arm offbreak,ODI,2,2,55,41,38,27.5,134.15,0,5,3,0,0,0,0,0,0
+30,2,India,Rinku Singh,10896,Left-hand bat,Right-arm offbreak,T20,33,24,546,339,69,42.0,161.07,11,45,31,1,3,0,0,0,0
+31,2,India,Rinku Singh,10896,Left-hand bat,Right-arm offbreak,IPL,58,51,1099,757,67,30.53,145.18,15,87,56,0,4,0,0,0,0
+32,2,India,Tilak Varma,14504,Left-hand bat,Right-arm offbreak,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+33,2,India,Tilak Varma,14504,Left-hand bat,Right-arm offbreak,ODI,4,4,68,119,52,22.67,57.15,1,6,1,0,1,0,0,0,0
+34,2,India,Tilak Varma,14504,Left-hand bat,Right-arm offbreak,T20,25,24,749,483,120,49.93,155.08,9,61,43,3,3,2,0,0,0
+35,2,India,Tilak Varma,14504,Left-hand bat,Right-arm offbreak,IPL,54,51,1499,1038,84,37.48,144.42,11,113,74,1,8,0,0,0,0
+36,2,India,Ruturaj Gaikwad,11813,Right-hand bat,Right-arm offbreak,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+37,2,India,Ruturaj Gaikwad,11813,Right-hand bat,Right-arm offbreak,ODI,6,6,115,157,71,19.17,73.25,0,16,0,0,1,0,0,0,0
+38,2,India,Ruturaj Gaikwad,11813,Right-hand bat,Right-arm offbreak,T20,23,20,633,441,123,39.56,143.54,4,65,24,1,4,1,0,0,0
+39,2,India,Ruturaj Gaikwad,11813,Right-hand bat,Right-arm offbreak,IPL,71,70,2502,1820,108,40.35,137.48,8,231,95,7,20,2,0,0,0
+40,2,India,Rajat Patidar,10636,Right-hand bat,Right-arm offbreak,Test,3,6,63,164,32,10.5,38.42,0,9,0,2,0,0,0,0,0
+41,2,India,Rajat Patidar,10636,Right-hand bat,Right-arm offbreak,ODI,1,1,22,16,22,22.0,137.5,0,3,1,0,0,0,0,0,0
+42,2,India,Rajat Patidar,10636,Right-hand bat,Right-arm offbreak,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+43,2,India,Rajat Patidar,10636,Right-hand bat,Right-arm offbreak,IPL,42,38,1111,720,112,30.86,154.31,2,76,68,1,9,1,0,0,0
+44,2,India,Sarfaraz Khan,9429,Right-hand bat,Right-arm legbreak,Test,6,11,371,495,150,37.1,74.95,1,44,8,3,3,1,0,0,0
+45,2,India,Sarfaraz Khan,9429,Right-hand bat,Right-arm legbreak,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+46,2,India,Sarfaraz Khan,9429,Right-hand bat,Right-arm legbreak,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+47,2,India,Sarfaraz Khan,9429,Right-hand bat,Right-arm legbreak,IPL,50,37,585,448,67,22.5,130.59,11,63,14,3,1,0,0,0,0
+48,2,India,Abhimanyu Easwaran,9716,Right-hand bat,Right-arm legbreak,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+49,2,India,Abhimanyu Easwaran,9716,Right-hand bat,Right-arm legbreak,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+50,2,India,Abhimanyu Easwaran,9716,Right-hand bat,Right-arm legbreak,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+51,2,India,Abhimanyu Easwaran,9716,Right-hand bat,Right-arm legbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+52,2,India,Karun Nair,8257,Right-hand bat,Right-arm offbreak,Test,8,11,451,660,303,45.1,68.34,1,54,4,2,0,1,1,1,0
+53,2,India,Karun Nair,8257,Right-hand bat,Right-arm offbreak,ODI,2,2,46,88,39,23.0,52.28,0,6,0,0,0,0,0,0,0
+54,2,India,Karun Nair,8257,Right-hand bat,Right-arm offbreak,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+55,2,India,Karun Nair,8257,Right-hand bat,Right-arm offbreak,IPL,84,76,1694,1286,89,23.86,131.73,5,185,49,5,11,0,0,0,0
+56,2,India,Nitish Kumar Reddy,14701,Right-hand bat,Right-arm fast-medium,Test,7,11,300,472,114,30.0,63.56,1,30,8,1,0,1,0,0,0
+57,2,India,Nitish Kumar Reddy,14701,Right-hand bat,Right-arm fast-medium,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+58,2,India,Nitish Kumar Reddy,14701,Right-hand bat,Right-arm fast-medium,T20,4,3,90,50,74,45.0,180.0,1,4,8,1,1,0,0,0,0
+59,2,India,Nitish Kumar Reddy,14701,Right-hand bat,Right-arm fast-medium,IPL,28,22,485,365,76,28.53,132.88,5,31,25,1,2,0,0,0,0
+60,2,India,Hardik Pandya,9647,Right-hand bat,Right-arm fast-medium,Test,11,18,532,720,108,31.29,73.89,1,68,12,2,4,1,0,0,0
+61,2,India,Hardik Pandya,9647,Right-hand bat,Right-arm fast-medium,ODI,94,68,1904,1717,92,32.83,110.9,10,141,76,4,11,0,0,0,0
+62,2,India,Hardik Pandya,9647,Right-hand bat,Right-arm fast-medium,T20,114,90,1812,1279,71,27.88,141.68,25,135,95,3,5,0,0,0,0
+63,2,India,Hardik Pandya,9647,Right-hand bat,Right-arm fast-medium,IPL,152,140,2749,1871,91,28.34,146.93,43,207,148,6,10,0,0,0,0
+64,2,India,Shivam Dube,11195,Left-hand bat,Right-arm medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+65,2,India,Shivam Dube,11195,Left-hand bat,Right-arm medium,ODI,4,4,43,48,25,10.75,89.59,0,3,2,1,0,0,0,0,0
+66,2,India,Shivam Dube,11195,Left-hand bat,Right-arm medium,T20,35,26,531,379,63,31.24,140.11,9,37,28,1,4,0,0,0,0
+67,2,India,Shivam Dube,11195,Left-hand bat,Right-arm medium,IPL,79,75,1859,1294,95,30.48,143.67,14,108,122,3,10,0,0,0,0
+68,2,India,Abhishek Sharma,12086,Left-hand bat,Left-arm orthodox,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+69,2,India,Abhishek Sharma,12086,Left-hand bat,Left-arm orthodox,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+70,2,India,Abhishek Sharma,12086,Left-hand bat,Left-arm orthodox,T20,17,16,535,276,135,33.44,193.85,0,46,41,1,2,2,0,0,0
+71,2,India,Abhishek Sharma,12086,Left-hand bat,Left-arm orthodox,IPL,77,74,1815,1114,141,27.09,162.93,7,174,101,3,9,1,0,0,0
+72,2,India,Ravindra Jadeja,587,Left-hand bat,Left-arm orthodox,Test,82,122,3564,6410,175,36.0,55.61,23,349,72,8,24,4,0,0,0
+73,2,India,Ravindra Jadeja,587,Left-hand bat,Left-arm orthodox,ODI,204,137,2806,3284,87,32.63,85.45,51,205,54,6,13,0,0,0,0
+74,2,India,Ravindra Jadeja,587,Left-hand bat,Left-arm orthodox,T20,74,41,515,405,46,21.46,127.17,17,39,14,3,0,0,0,0,0
+75,2,India,Ravindra Jadeja,587,Left-hand bat,Left-arm orthodox,IPL,254,198,3260,2503,77,27.86,130.25,81,240,117,9,5,0,0,0,0
+76,2,India,Shardul Thakur,8683,Right-hand bat,Right-arm fast-medium,Test,12,20,336,542,67,17.68,62.0,1,41,9,3,4,0,0,0,0
+77,2,India,Shardul Thakur,8683,Right-hand bat,Right-arm fast-medium,ODI,47,25,329,313,50,17.32,105.12,6,31,9,1,1,0,0,0,0
+78,2,India,Shardul Thakur,8683,Right-hand bat,Right-arm fast-medium,T20,25,6,69,38,22,23.0,181.58,3,5,4,2,0,0,0,0,0
+79,2,India,Shardul Thakur,8683,Right-hand bat,Right-arm fast-medium,IPL,105,42,325,233,68,11.61,139.49,14,30,13,8,1,0,0,0,0
+80,2,India,Washington Sundar,10945,Left-hand bat,Right-arm offbreak,Test,10,18,522,1130,96,43.5,46.2,6,48,11,2,4,0,0,0,0
+81,2,India,Washington Sundar,10945,Left-hand bat,Right-arm offbreak,ODI,23,15,329,394,51,23.5,83.51,1,24,10,0,1,0,0,0,0
+82,2,India,Washington Sundar,10945,Left-hand bat,Right-arm offbreak,T20,54,22,193,159,50,13.79,121.39,8,16,9,4,1,0,0,0,0
+83,2,India,Washington Sundar,10945,Left-hand bat,Right-arm offbreak,IPL,66,45,511,405,49,15.97,126.18,13,42,16,2,0,0,0,0,0
+84,2,India,Axar Patel,8808,Left-hand bat,Left-arm orthodox,Test,14,22,646,1235,84,35.89,52.31,4,70,18,1,4,0,0,0,0
+85,2,India,Axar Patel,8808,Left-hand bat,Left-arm orthodox,ODI,68,47,783,856,64,22.37,91.48,12,45,31,3,3,0,0,0,0
+86,2,India,Axar Patel,8808,Left-hand bat,Left-arm orthodox,T20,71,44,535,384,65,18.45,139.33,15,41,23,2,1,0,0,0,0
+87,2,India,Axar Patel,8808,Left-hand bat,Left-arm orthodox,IPL,162,124,1916,1430,66,22.02,133.99,37,130,94,7,3,0,0,0,0
+88,2,India,Rishabh Pant,10744,Left-hand bat,,Test,45,79,3290,4423,159,44.46,74.39,5,357,86,3,16,8,0,0,0
+89,2,India,Rishabh Pant,10744,Left-hand bat,,ODI,31,27,871,820,125,33.5,106.22,1,91,26,3,5,1,0,0,0
+90,2,India,Rishabh Pant,10744,Left-hand bat,,T20,76,66,1209,949,65,23.25,127.4,14,111,44,4,3,0,0,0,0
+91,2,India,Rishabh Pant,10744,Left-hand bat,,IPL,125,123,3553,2407,128,34.16,147.62,19,319,170,6,19,2,0,0,0
+92,2,India,KL Rahul,8733,Right-hand bat,,Test,60,105,3493,6603,199,34.58,52.91,4,422,26,9,18,9,0,0,0
+93,2,India,KL Rahul,8733,Right-hand bat,,ODI,85,79,3043,3451,112,49.08,88.18,17,235,67,3,18,7,0,0,0
+94,2,India,KL Rahul,8733,Right-hand bat,,T20,72,68,2265,1628,110,37.75,139.13,8,191,99,5,22,2,0,0,0
+95,2,India,KL Rahul,8733,Right-hand bat,,IPL,145,136,5222,3839,132,46.21,136.03,23,452,208,4,40,5,0,0,0
+96,2,India,Dhruv Jurel,14691,Right-hand bat,,Test,4,6,202,380,90,40.4,53.16,1,14,7,0,1,0,0,0,0
+97,2,India,Dhruv Jurel,14691,Right-hand bat,,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+98,2,India,Dhruv Jurel,14691,Right-hand bat,,T20,4,3,12,23,6,4.0,52.18,0,1,0,0,0,0,0,0,0
+99,2,India,Dhruv Jurel,14691,Right-hand bat,,IPL,41,35,680,442,70,28.33,153.85,11,51,38,3,4,0,0,0,0
+100,2,India,Sanju Samson,8271,Right-hand bat,,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+101,2,India,Sanju Samson,8271,Right-hand bat,,ODI,16,14,510,512,108,56.67,99.61,5,34,22,0,3,1,0,0,0
+102,2,India,Sanju Samson,8271,Right-hand bat,,T20,42,38,861,565,111,25.32,152.39,4,71,49,6,2,3,0,0,0
+103,2,India,Sanju Samson,8271,Right-hand bat,,IPL,176,172,4704,3383,119,30.75,139.05,19,379,219,11,26,3,0,0,0
+104,2,India,Ishan Kishan,10276,Left-hand bat,,Test,2,3,78,91,52,78.0,85.72,2,8,2,0,1,0,0,0,0
+105,2,India,Ishan Kishan,10276,Left-hand bat,,ODI,27,24,933,913,210,42.41,102.2,2,95,33,1,7,1,1,0,0
+106,2,India,Ishan Kishan,10276,Left-hand bat,,T20,32,32,796,640,89,25.68,124.38,1,79,36,1,6,0,0,0,0
+107,2,India,Ishan Kishan,10276,Left-hand bat,,IPL,119,112,2998,2178,106,29.11,137.65,9,288,134,9,17,1,0,0,0
+108,2,India,Mohammed Siraj,10808,Right-hand bat,Right-arm fast,Test,39,52,142,387,16,4.9,36.69,23,15,2,12,0,0,0,0,0
+109,2,India,Mohammed Siraj,10808,Right-hand bat,Right-arm fast,ODI,44,17,55,129,9,7.86,42.64,10,3,0,1,0,0,0,0,0
+110,2,India,Mohammed Siraj,10808,Right-hand bat,Right-arm fast,T20,16,5,14,16,7,7.0,87.5,3,1,0,1,0,0,0,0,0
+111,2,India,Mohammed Siraj,10808,Right-hand bat,Right-arm fast,IPL,108,26,112,123,14,11.2,91.06,16,10,4,2,0,0,0,0,0
+112,2,India,Jasprit Bumrah,9311,Right-hand bat,Right-arm fast,Test,47,71,332,748,34,6.78,44.39,22,35,11,27,0,0,0,0,0
+113,2,India,Jasprit Bumrah,9311,Right-hand bat,Right-arm fast,ODI,89,26,91,159,16,7.58,57.24,14,10,1,5,0,0,0,0,0
+114,2,India,Jasprit Bumrah,9311,Right-hand bat,Right-arm fast,T20,70,8,8,14,7,2.67,57.15,5,1,0,2,0,0,0,0,0
+115,2,India,Jasprit Bumrah,9311,Right-hand bat,Right-arm fast,IPL,145,31,68,79,16,9.71,86.08,24,5,1,5,0,0,0,0,0
+116,2,India,Prasidh Krishna,10551,Right-hand bat,Right-arm fast,Test,5,8,10,61,5,2.5,16.4,4,0,0,2,0,0,0,0,0
+117,2,India,Prasidh Krishna,10551,Right-hand bat,Right-arm fast,ODI,17,7,2,17,2,1.0,11.77,5,0,0,2,0,0,0,0,0
+118,2,India,Prasidh Krishna,10551,Right-hand bat,Right-arm fast,T20,5,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+119,2,India,Prasidh Krishna,10551,Right-hand bat,Right-arm fast,IPL,66,10,9,24,4,3.0,37.5,7,0,0,2,0,0,0,0,0
+120,2,India,Akash Deep,14726,Right-hand bat,Right-arm fast-medium,Test,9,11,89,181,31,8.09,49.17,0,8,5,3,0,0,0,0,0
+121,2,India,Akash Deep,14726,Right-hand bat,Right-arm fast-medium,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+122,2,India,Akash Deep,14726,Right-hand bat,Right-arm fast-medium,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+123,2,India,Akash Deep,14726,Right-hand bat,Right-arm fast-medium,IPL,14,5,25,14,17,8.33,178.58,2,2,2,2,0,0,0,0,0
+124,2,India,Kuldeep Yadav,8292,Left-hand bat,Left-arm wrist-spin,Test,13,17,199,698,40,13.27,28.52,2,18,1,4,0,0,0,0,0
+125,2,India,Kuldeep Yadav,8292,Left-hand bat,Left-arm wrist-spin,ODI,113,42,207,407,19,9.86,50.86,21,14,0,3,0,0,0,0,0
+126,2,India,Kuldeep Yadav,8292,Left-hand bat,Left-arm wrist-spin,T20,40,7,46,59,23,11.5,77.97,3,2,0,2,0,0,0,0,0
+127,2,India,Kuldeep Yadav,8292,Left-hand bat,Left-arm wrist-spin,IPL,98,38,201,232,35,13.4,86.64,23,18,3,5,0,0,0,0,0
+128,2,India,Arshdeep Singh,13217,Left-hand bat,Left-arm fast-medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+129,2,India,Arshdeep Singh,13217,Left-hand bat,Left-arm fast-medium,ODI,9,6,39,35,18,7.8,111.43,1,1,3,1,0,0,0,0,0
+130,2,India,Arshdeep Singh,13217,Left-hand bat,Left-arm fast-medium,T20,63,21,71,61,12,8.88,116.4,13,6,3,3,0,0,0,0,0
+131,2,India,Arshdeep Singh,13217,Left-hand bat,Left-arm fast-medium,IPL,82,14,31,46,10,5.17,67.4,8,4,0,3,0,0,0,0,0
+132,2,India,Harshit Rana,24729,Right-hand bat,Right-arm fast-medium,Test,2,3,7,20,7,2.33,35.0,0,1,0,2,0,0,0,0,0
+133,2,India,Harshit Rana,24729,Right-hand bat,Right-arm fast-medium,ODI,5,1,13,10,13,13.0,130.0,0,1,1,0,0,0,0,0,0
+134,2,India,Harshit Rana,24729,Right-hand bat,Right-arm fast-medium,T20,1,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+135,2,India,Harshit Rana,24729,Right-hand bat,Right-arm fast-medium,IPL,33,10,59,56,34,9.83,105.36,4,5,3,1,0,0,0,0,0
+136,2,India,Ravi Bishnoi,14659,Right-hand bat,Right-arm legbreak,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+137,2,India,Ravi Bishnoi,14659,Right-hand bat,Right-arm legbreak,ODI,1,1,4,2,4,0.0,200.0,1,1,0,0,0,0,0,0,0
+138,2,India,Ravi Bishnoi,14659,Right-hand bat,Right-arm legbreak,T20,42,13,55,42,9,7.86,130.96,6,8,1,2,0,0,0,0,0
+139,2,India,Ravi Bishnoi,14659,Right-hand bat,Right-arm legbreak,IPL,77,18,45,66,13,4.5,68.19,8,2,2,2,0,0,0,0,0
+140,2,India,Mukesh Kumar,10754,Right-hand bat,Right-arm fast-medium,Test,3,4,0,6,0,0.0,0.0,3,0,0,1,0,0,0,0,0
+141,2,India,Mukesh Kumar,10754,Right-hand bat,Right-arm fast-medium,ODI,6,2,10,16,6,10.0,62.5,1,2,0,0,0,0,0,0,0
+142,2,India,Mukesh Kumar,10754,Right-hand bat,Right-arm fast-medium,T20,17,4,5,5,4,5.0,100.0,3,1,0,1,0,0,0,0,0
+143,2,India,Mukesh Kumar,10754,Right-hand bat,Right-arm fast-medium,IPL,32,5,10,18,6,10.0,55.56,4,0,0,0,0,0,0,0,0
+144,2,India,Varun Chakaravarthy,12926,Right-hand bat,Right-arm legbreak,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+145,2,India,Varun Chakaravarthy,12926,Right-hand bat,Right-arm legbreak,ODI,4,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+146,2,India,Varun Chakaravarthy,12926,Right-hand bat,Right-arm legbreak,T20,18,3,1,6,1,0.5,16.67,1,0,0,2,0,0,0,0,0
+147,2,India,Varun Chakaravarthy,12926,Right-hand bat,Right-arm legbreak,IPL,83,13,26,47,10,6.5,55.32,9,2,0,1,0,0,0,0,0
+148,96,Afghanistan,Hashmatullah Shahidi,8277,Left-hand bat,Right-arm offbreak,Test,10,19,757,1596,246,50.47,47.44,4,85,1,0,2,2,2,0,0
+149,96,Afghanistan,Hashmatullah Shahidi,8277,Left-hand bat,Right-arm offbreak,ODI,90,88,2435,3614,97,33.36,67.38,15,209,13,6,22,0,0,0,0
+150,96,Afghanistan,Hashmatullah Shahidi,8277,Left-hand bat,Right-arm offbreak,T20,6,4,48,55,36,24.0,87.28,2,5,0,0,0,0,0,0,0
+151,96,Afghanistan,Hashmatullah Shahidi,8277,Left-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+152,96,Afghanistan,Rahmat Shah,8571,Right-hand bat,Right-arm legbreak,Test,11,21,970,1820,234,46.19,53.3,0,117,6,4,5,3,1,0,0
+153,96,Afghanistan,Rahmat Shah,8571,Right-hand bat,Right-arm legbreak,ODI,123,118,3976,5579,114,35.19,71.27,5,344,40,5,31,5,0,0,0
+154,96,Afghanistan,Rahmat Shah,8571,Right-hand bat,Right-arm legbreak,T20,1,1,3,6,3,3.0,50.0,0,0,0,0,0,0,0,0,0
+155,96,Afghanistan,Rahmat Shah,8571,Right-hand bat,Right-arm legbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+156,96,Afghanistan,Riaz Hassan,14200,Right-hand bat,,Test,1,2,23,53,12,11.5,43.4,0,3,0,0,0,0,0,0,0
+157,96,Afghanistan,Riaz Hassan,14200,Right-hand bat,,ODI,7,6,165,272,50,27.5,60.67,0,15,3,0,1,0,0,0,0
+158,96,Afghanistan,Riaz Hassan,14200,Right-hand bat,,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+159,96,Afghanistan,Riaz Hassan,14200,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+160,96,Afghanistan,Sediqullah Atal,14204,Left-hand bat,,Test,1,1,3,6,3,3.0,50.0,0,0,0,0,0,0,0,0,0
+161,96,Afghanistan,Sediqullah Atal,14204,Left-hand bat,,ODI,9,8,335,408,104,41.88,82.11,0,29,9,0,2,1,0,0,0
+162,96,Afghanistan,Sediqullah Atal,14204,Left-hand bat,,T20,9,9,96,110,35,10.67,87.28,0,6,4,0,0,0,0,0,0
+163,96,Afghanistan,Sediqullah Atal,14204,Left-hand bat,,IPL,1,1,22,16,22,22.0,137.5,0,0,2,0,0,0,0,0,0
+164,96,Afghanistan,Bahir Shah,15753,Right-hand bat,Right-arm offbreak,Test,0,1,7,13,7,7.0,53.85,0,1,0,0,0,0,0,0,0
+165,96,Afghanistan,Bahir Shah,15753,Right-hand bat,Right-arm offbreak,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+166,96,Afghanistan,Bahir Shah,15753,Right-hand bat,Right-arm offbreak,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+167,96,Afghanistan,Bahir Shah,15753,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+168,96,Afghanistan,Darwish Rasooli,12069,Right-hand bat,Right-arm offbreak,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+169,96,Afghanistan,Darwish Rasooli,12069,Right-hand bat,Right-arm offbreak,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+170,96,Afghanistan,Darwish Rasooli,12069,Right-hand bat,Right-arm offbreak,T20,9,9,118,113,58,14.75,104.43,1,10,2,1,1,0,0,0,0
+171,96,Afghanistan,Darwish Rasooli,12069,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+172,96,Afghanistan,Hazratullah Zazai,12068,Left-hand bat,Left-arm orthodox,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+173,96,Afghanistan,Hazratullah Zazai,12068,Left-hand bat,Left-arm orthodox,ODI,16,16,361,409,67,22.56,88.27,0,38,17,1,2,0,0,0,0
+174,96,Afghanistan,Hazratullah Zazai,12068,Left-hand bat,Left-arm orthodox,T20,45,45,1161,874,162,27.64,132.84,3,110,66,3,3,1,0,0,0
+175,96,Afghanistan,Hazratullah Zazai,12068,Left-hand bat,Left-arm orthodox,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+176,96,Afghanistan,Abdul Malik,15752,Right-hand bat,Right-arm offbreak,Test,4,7,63,128,23,9.0,49.22,0,5,0,2,0,0,0,0,0
+177,96,Afghanistan,Abdul Malik,15752,Right-hand bat,Right-arm offbreak,ODI,4,3,122,186,84,40.67,65.6,0,16,1,0,1,0,0,0,0
+178,96,Afghanistan,Abdul Malik,15752,Right-hand bat,Right-arm offbreak,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+179,96,Afghanistan,Abdul Malik,15752,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+180,96,Afghanistan,Ismat Alam,1449069,Right-hand bat,Right-arm fast-medium,Test,1,2,101,183,101,50.5,55.2,0,9,0,1,0,1,0,0,0
+181,96,Afghanistan,Ismat Alam,1449069,Right-hand bat,Right-arm fast-medium,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+182,96,Afghanistan,Ismat Alam,1449069,Right-hand bat,Right-arm fast-medium,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+183,96,Afghanistan,Ismat Alam,1449069,Right-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+184,96,Afghanistan,Gulbadin Naib,8030,Right-hand bat,Right-arm fast-medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+185,96,Afghanistan,Gulbadin Naib,8030,Right-hand bat,Right-arm fast-medium,ODI,89,78,1332,1767,82,19.88,75.39,11,115,33,7,5,0,0,0,0
+186,96,Afghanistan,Gulbadin Naib,8030,Right-hand bat,Right-arm fast-medium,T20,74,64,945,775,57,20.54,121.94,18,70,44,7,3,0,0,0,0
+187,96,Afghanistan,Gulbadin Naib,8030,Right-hand bat,Right-arm fast-medium,IPL,2,1,19,15,19,19.0,126.67,0,1,1,0,0,0,0,0,0
+188,96,Afghanistan,Azmatullah Omarzai,13214,Right-hand bat,Right-arm fast-medium,Test,1,1,0,1,0,0.0,0.0,0,0,0,1,0,0,0,0,0
+189,96,Afghanistan,Azmatullah Omarzai,13214,Right-hand bat,Right-arm fast-medium,ODI,39,31,1033,1054,149,44.91,98.01,8,69,45,2,8,1,0,0,0
+190,96,Afghanistan,Azmatullah Omarzai,13214,Right-hand bat,Right-arm fast-medium,T20,47,37,474,427,34,14.36,111.01,4,30,18,4,0,0,0,0,0
+191,96,Afghanistan,Azmatullah Omarzai,13214,Right-hand bat,Right-arm fast-medium,IPL,16,9,99,74,21,12.38,133.79,1,8,5,0,0,0,0,0,0
+192,96,Afghanistan,Zahir Shehzad,14281,Right-hand bat,Left-arm orthodox,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+193,96,Afghanistan,Zahir Shehzad,14281,Right-hand bat,Left-arm orthodox,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+194,96,Afghanistan,Zahir Shehzad,14281,Right-hand bat,Left-arm orthodox,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+195,96,Afghanistan,Zahir Shehzad,14281,Right-hand bat,Left-arm orthodox,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+196,96,Afghanistan,Rashid Khan,10738,Right-hand bat,Right-arm legbreak,Test,6,9,154,180,51,17.11,85.56,0,18,4,0,1,0,0,0,0
+197,96,Afghanistan,Rashid Khan,10738,Right-hand bat,Right-arm legbreak,ODI,114,87,1384,1320,60,19.49,104.85,16,120,49,8,5,0,0,0,0
+198,96,Afghanistan,Rashid Khan,10738,Right-hand bat,Right-arm legbreak,T20,96,59,467,370,48,13.74,126.22,25,31,28,7,0,0,0,0,0
+199,96,Afghanistan,Rashid Khan,10738,Right-hand bat,Right-arm legbreak,IPL,136,68,585,365,79,13.93,160.28,26,41,41,16,1,0,0,0,0
+200,96,Afghanistan,Bashir Ahmad,53160,Left-hand bat,Left-arm medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+201,96,Afghanistan,Bashir Ahmad,53160,Left-hand bat,Left-arm medium,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+202,96,Afghanistan,Bashir Ahmad,53160,Left-hand bat,Left-arm medium,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+203,96,Afghanistan,Bashir Ahmad,53160,Left-hand bat,Left-arm medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+204,96,Afghanistan,Mohammad Nabi,3007,Right-hand bat,Right-arm offbreak,Test,3,6,33,68,24,5.5,48.53,0,4,1,3,0,0,0,0,0
+205,96,Afghanistan,Mohammad Nabi,3007,Right-hand bat,Right-arm offbreak,ODI,173,151,3655,4190,136,26.88,87.24,15,237,113,6,17,2,0,0,0
+206,96,Afghanistan,Mohammad Nabi,3007,Right-hand bat,Right-arm offbreak,T20,131,124,2237,1642,89,22.6,136.24,25,156,109,8,6,0,0,0,0
+207,96,Afghanistan,Mohammad Nabi,3007,Right-hand bat,Right-arm offbreak,IPL,24,19,215,150,31,13.44,143.34,3,18,11,1,0,0,0,0,0
+208,96,Afghanistan,Nangeyalia Kharote,22956,Left-hand bat,Left-arm orthodox,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+209,96,Afghanistan,Nangeyalia Kharote,22956,Left-hand bat,Left-arm orthodox,ODI,7,4,41,51,27,13.67,80.4,1,3,1,1,0,0,0,0,0
+210,96,Afghanistan,Nangeyalia Kharote,22956,Left-hand bat,Left-arm orthodox,T20,6,5,7,19,4,3.5,36.85,3,0,0,1,0,0,0,0,0
+211,96,Afghanistan,Nangeyalia Kharote,22956,Left-hand bat,Left-arm orthodox,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+212,96,Afghanistan,Karim Janat,11077,Right-hand bat,Right-arm fast-medium,Test,2,4,95,182,41,31.67,52.2,1,9,2,0,0,0,0,0,0
+213,96,Afghanistan,Karim Janat,11077,Right-hand bat,Right-arm fast-medium,ODI,3,3,32,47,22,10.67,68.09,0,1,2,0,0,0,0,0,0
+214,96,Afghanistan,Karim Janat,11077,Right-hand bat,Right-arm fast-medium,T20,67,48,691,596,56,17.72,115.94,9,49,28,4,4,0,0,0,0
+215,96,Afghanistan,Karim Janat,11077,Right-hand bat,Right-arm fast-medium,IPL,1,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+216,96,Afghanistan,Zubaid Akbari,47000,Left-hand bat,Left-arm orthodox,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+217,96,Afghanistan,Zubaid Akbari,47000,Left-hand bat,Left-arm orthodox,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+218,96,Afghanistan,Zubaid Akbari,47000,Left-hand bat,Left-arm orthodox,T20,3,3,8,15,5,2.67,53.34,0,1,0,0,0,0,0,0,0
+219,96,Afghanistan,Zubaid Akbari,47000,Left-hand bat,Left-arm orthodox,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+220,96,Afghanistan,Ikram Alikhil,11071,Left-hand bat,,Test,2,3,29,96,21,9.67,30.21,0,3,0,0,0,0,0,0,0
+221,96,Afghanistan,Ikram Alikhil,11071,Left-hand bat,,ODI,32,22,384,567,86,22.59,67.73,5,30,5,0,3,0,0,0,0
+222,96,Afghanistan,Ikram Alikhil,11071,Left-hand bat,,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+223,96,Afghanistan,Ikram Alikhil,11071,Left-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+224,96,Afghanistan,Afsar Zazai,8278,Right-hand bat,,Test,8,13,348,672,113,29.0,51.79,1,31,5,1,0,1,0,0,0
+225,96,Afghanistan,Afsar Zazai,8278,Right-hand bat,,ODI,17,16,264,487,60,17.6,54.21,1,15,0,3,2,0,0,0,0
+226,96,Afghanistan,Afsar Zazai,8278,Right-hand bat,,T20,8,8,141,172,48,17.63,81.98,0,9,3,0,0,0,0,0,0
+227,96,Afghanistan,Afsar Zazai,8278,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+228,96,Afghanistan,Mohammad Ishaq,14195,Right-hand bat,,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+229,96,Afghanistan,Mohammad Ishaq,14195,Right-hand bat,,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+230,96,Afghanistan,Mohammad Ishaq,14195,Right-hand bat,,T20,5,5,76,58,32,19.0,131.04,1,10,1,1,0,0,0,0,0
+231,96,Afghanistan,Mohammad Ishaq,14195,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+232,96,Afghanistan,Rahmanullah Gurbaz,13213,Right-hand bat,,Test,1,2,51,105,46,25.5,48.58,0,4,2,0,0,0,0,0,0
+233,96,Afghanistan,Rahmanullah Gurbaz,13213,Right-hand bat,,ODI,49,49,1785,2033,151,37.19,87.81,1,160,67,3,6,8,0,0,0
+234,96,Afghanistan,Rahmanullah Gurbaz,13213,Right-hand bat,,T20,66,66,1683,1252,100,25.5,134.43,0,128,95,8,10,1,0,0,0
+235,96,Afghanistan,Rahmanullah Gurbaz,13213,Right-hand bat,,IPL,18,18,363,269,81,21.35,134.95,1,34,22,2,2,0,0,0,0
+236,96,Afghanistan,Zahir Khan,10828,Left-hand bat,Left-arm wrist-spin,Test,6,11,8,59,4,1.33,13.56,5,2,0,5,0,0,0,0,0
+237,96,Afghanistan,Zahir Khan,10828,Left-hand bat,Left-arm wrist-spin,ODI,1,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+238,96,Afghanistan,Zahir Khan,10828,Left-hand bat,Left-arm wrist-spin,T20,4,1,0,2,0,0.0,0.0,0,0,0,1,0,0,0,0,0
+239,96,Afghanistan,Zahir Khan,10828,Left-hand bat,Left-arm wrist-spin,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+240,96,Afghanistan,Zia-ur-Rehman Akbar,9858,Right-hand bat,Left-arm orthodox,Test,4,7,42,106,13,7.0,39.63,1,6,0,1,0,0,0,0,0
+241,96,Afghanistan,Zia-ur-Rehman Akbar,9858,Right-hand bat,Left-arm orthodox,ODI,1,1,5,30,5,5.0,16.67,0,1,0,0,0,0,0,0,0
+242,96,Afghanistan,Zia-ur-Rehman Akbar,9858,Right-hand bat,Left-arm orthodox,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+243,96,Afghanistan,Zia-ur-Rehman Akbar,9858,Right-hand bat,Left-arm orthodox,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+244,96,Afghanistan,Yamin Ahmadzai,9609,Right-hand bat,Right-arm fast-medium,Test,7,13,54,172,19,4.15,31.4,0,5,3,4,0,0,0,0,0
+245,96,Afghanistan,Yamin Ahmadzai,9609,Right-hand bat,Right-arm fast-medium,ODI,9,5,9,32,5,3.0,28.13,2,0,0,1,0,0,0,0,0
+246,96,Afghanistan,Yamin Ahmadzai,9609,Right-hand bat,Right-arm fast-medium,T20,2,1,1,1,1,0.0,100.0,1,0,0,0,0,0,0,0,0
+247,96,Afghanistan,Yamin Ahmadzai,9609,Right-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+248,96,Afghanistan,Naveed Zadran,23106,Right-hand bat,Right-arm medium,Test,3,5,41,116,25,10.25,35.35,1,6,0,1,0,0,0,0,0
+249,96,Afghanistan,Naveed Zadran,23106,Right-hand bat,Right-arm medium,ODI,4,2,10,11,9,10.0,90.91,1,0,1,0,0,0,0,0,0
+250,96,Afghanistan,Naveed Zadran,23106,Right-hand bat,Right-arm medium,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+251,96,Afghanistan,Naveed Zadran,23106,Right-hand bat,Right-arm medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+252,96,Afghanistan,Fareed Ahmad Malik,9848,Left-hand bat,Left-arm fast-medium,Test,1,2,19,25,17,19.0,76.0,1,1,1,0,0,0,0,0,0
+253,96,Afghanistan,Fareed Ahmad Malik,9848,Left-hand bat,Left-arm fast-medium,ODI,19,8,46,87,17,11.5,52.88,4,2,1,1,0,0,0,0,0
+254,96,Afghanistan,Fareed Ahmad Malik,9848,Left-hand bat,Left-arm fast-medium,T20,32,5,32,33,24,32.0,96.97,4,5,0,0,0,0,0,0,0
+255,96,Afghanistan,Fareed Ahmad Malik,9848,Left-hand bat,Left-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+256,96,Afghanistan,AM Ghazanfar,36501,Right-hand bat,Right-arm offbreak,Test,1,1,6,4,6,6.0,150.0,0,0,1,0,0,0,0,0,0
+257,96,Afghanistan,AM Ghazanfar,36501,Right-hand bat,Right-arm offbreak,ODI,11,4,37,35,31,12.33,105.72,1,2,3,1,0,0,0,0,0
+258,96,Afghanistan,AM Ghazanfar,36501,Right-hand bat,Right-arm offbreak,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+259,96,Afghanistan,AM Ghazanfar,36501,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+260,96,Afghanistan,Fazalhaq Farooqi,14282,Right-hand bat,Left-arm fast-medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+261,96,Afghanistan,Fazalhaq Farooqi,14282,Right-hand bat,Left-arm fast-medium,ODI,42,21,21,67,6,3.5,31.35,15,2,0,4,0,0,0,0,0
+262,96,Afghanistan,Fazalhaq Farooqi,14282,Right-hand bat,Left-arm fast-medium,T20,43,12,12,19,4,4.0,63.16,9,1,0,2,0,0,0,0,0
+263,96,Afghanistan,Fazalhaq Farooqi,14282,Right-hand bat,Left-arm fast-medium,IPL,12,3,5,15,2,0.0,33.34,3,0,0,0,0,0,0,0,0
+264,96,Afghanistan,Bilal Sami,22861,Right-hand bat,Right-arm medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+265,96,Afghanistan,Bilal Sami,22861,Right-hand bat,Right-arm medium,ODI,1,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+266,96,Afghanistan,Bilal Sami,22861,Right-hand bat,Right-arm medium,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+267,96,Afghanistan,Bilal Sami,22861,Right-hand bat,Right-arm medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+268,96,Afghanistan,Mujeeb Ur Rahman,12071,Right-hand bat,Right-arm offbreak,Test,1,2,18,17,15,9.0,105.89,0,2,1,0,0,0,0,0,0
+269,96,Afghanistan,Mujeeb Ur Rahman,12071,Right-hand bat,Right-arm offbreak,ODI,75,40,236,262,64,9.08,90.08,14,25,9,12,1,0,0,0,0
+270,96,Afghanistan,Mujeeb Ur Rahman,12071,Right-hand bat,Right-arm offbreak,T20,49,14,54,44,21,9.0,122.73,8,6,3,2,0,0,0,0,0
+271,96,Afghanistan,Mujeeb Ur Rahman,12071,Right-hand bat,Right-arm offbreak,IPL,20,7,12,15,10,4.0,80.0,4,2,0,2,0,0,0,0,0
+272,96,Afghanistan,Naveen-ul-Haq,11289,Right-hand bat,Right-arm fast-medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+273,96,Afghanistan,Naveen-ul-Haq,11289,Right-hand bat,Right-arm fast-medium,ODI,15,10,37,54,10,7.4,68.52,5,5,0,2,0,0,0,0,0
+274,96,Afghanistan,Naveen-ul-Haq,11289,Right-hand bat,Right-arm fast-medium,T20,48,14,44,65,13,4.89,67.7,5,5,1,3,0,0,0,0,0
+275,96,Afghanistan,Naveen-ul-Haq,11289,Right-hand bat,Right-arm fast-medium,IPL,18,6,18,25,13,18.0,72.0,5,2,0,0,0,0,0,0,0
+276,96,Afghanistan,Noor Ahmad,15452,Right-hand bat,Left-arm wrist-spin,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+277,96,Afghanistan,Noor Ahmad,15452,Right-hand bat,Left-arm wrist-spin,ODI,13,6,46,64,26,9.2,71.88,1,5,0,1,0,0,0,0,0
+278,96,Afghanistan,Noor Ahmad,15452,Right-hand bat,Left-arm wrist-spin,T20,14,8,41,53,12,6.83,77.36,2,1,3,1,0,0,0,0,0
+279,96,Afghanistan,Noor Ahmad,15452,Right-hand bat,Left-arm wrist-spin,IPL,37,13,20,35,7,2.5,57.15,5,2,0,2,0,0,0,0,0
+280,27,Ireland,Andrew Balbirnie,6710,Right-hand bat,Right-arm offbreak,Test,10,20,476,935,95,25.05,50.91,1,55,0,3,5,0,0,0,0
+281,27,Ireland,Andrew Balbirnie,6710,Right-hand bat,Right-arm offbreak,ODI,116,110,3264,4397,145,31.69,74.24,7,309,43,8,17,9,0,0,0
+282,27,Ireland,Andrew Balbirnie,6710,Right-hand bat,Right-arm offbreak,T20,109,106,2392,1941,83,23.22,123.24,3,254,68,6,12,0,0,0,0
+283,27,Ireland,Andrew Balbirnie,6710,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+284,27,Ireland,Cade Carmichael,1451963,Right-hand bat,Right-arm medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+285,27,Ireland,Cade Carmichael,1451963,Right-hand bat,Right-arm medium,ODI,3,2,64,82,48,32.0,78.05,0,7,1,0,0,0,0,0,0
+286,27,Ireland,Cade Carmichael,1451963,Right-hand bat,Right-arm medium,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+287,27,Ireland,Cade Carmichael,1451963,Right-hand bat,Right-arm medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+288,27,Ireland,Harry Tector,11130,Right-hand bat,Right-arm offbreak,Test,7,14,391,896,85,27.93,43.64,0,39,7,3,4,0,0,0,0
+289,27,Ireland,Harry Tector,11130,Right-hand bat,Right-arm offbreak,ODI,54,49,1992,2392,140,46.33,83.28,6,155,46,4,14,5,0,0,0
+290,27,Ireland,Harry Tector,11130,Right-hand bat,Right-arm offbreak,T20,85,77,1443,1205,64,22.55,119.76,13,118,35,5,5,0,0,0,0
+291,27,Ireland,Harry Tector,11130,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+292,27,Ireland,Ross Adair,36594,Right-hand bat,Left-arm orthodox,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+293,27,Ireland,Ross Adair,36594,Right-hand bat,Left-arm orthodox,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+294,27,Ireland,Ross Adair,36594,Right-hand bat,Left-arm orthodox,T20,11,11,316,216,100,28.73,146.3,0,23,22,0,1,1,0,0,0
+295,27,Ireland,Ross Adair,36594,Right-hand bat,Left-arm orthodox,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+296,27,Ireland,Morgan Topping,13310,Right-hand bat,,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+297,27,Ireland,Morgan Topping,13310,Right-hand bat,,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+298,27,Ireland,Morgan Topping,13310,Right-hand bat,,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+299,27,Ireland,Morgan Topping,13310,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+300,27,Ireland,Paul Stirling,1114,Right-hand bat,Right-arm offbreak,Test,8,16,382,652,103,23.88,58.59,0,48,6,1,1,1,0,0,0
+301,27,Ireland,Paul Stirling,1114,Right-hand bat,Right-arm offbreak,ODI,169,162,6005,6865,177,37.77,87.48,3,643,149,13,32,14,0,0,0
+302,27,Ireland,Paul Stirling,1114,Right-hand bat,Right-arm offbreak,T20,151,148,3669,2720,115,26.59,134.89,10,428,130,13,24,1,0,0,0
+303,27,Ireland,Paul Stirling,1114,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+304,27,Ireland,Gareth Delany,13983,Right-hand bat,Right-arm legbreak,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+305,27,Ireland,Gareth Delany,13983,Right-hand bat,Right-arm legbreak,ODI,21,18,234,246,22,18.0,95.13,5,20,6,1,0,0,0,0,0
+306,27,Ireland,Gareth Delany,13983,Right-hand bat,Right-arm legbreak,T20,78,67,1078,806,89,20.34,133.75,14,85,49,3,3,0,0,0,0
+307,27,Ireland,Gareth Delany,13983,Right-hand bat,Right-arm legbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+308,27,Ireland,George Dockrell,6329,Right-hand bat,Left-arm orthodox,Test,2,4,98,257,39,24.5,38.14,0,14,0,0,0,0,0,0,0
+309,27,Ireland,George Dockrell,6329,Right-hand bat,Left-arm orthodox,ODI,133,94,1459,1792,91,22.45,81.42,29,115,29,6,6,0,0,0,0
+310,27,Ireland,George Dockrell,6329,Right-hand bat,Left-arm orthodox,T20,144,95,1194,910,58,19.9,131.21,35,88,43,8,2,0,0,0,0
+311,27,Ireland,George Dockrell,6329,Right-hand bat,Left-arm orthodox,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+312,27,Ireland,Andy McBrine,9667,Left-hand bat,Right-arm offbreak,Test,9,17,503,918,90,35.93,54.8,3,61,3,1,4,0,0,0,0
+313,27,Ireland,Andy McBrine,9667,Left-hand bat,Right-arm offbreak,ODI,95,65,920,1287,79,18.04,71.49,14,87,14,5,2,0,0,0,0
+314,27,Ireland,Andy McBrine,9667,Left-hand bat,Right-arm offbreak,T20,32,18,155,132,36,12.92,117.43,6,11,5,1,0,0,0,0,0
+315,27,Ireland,Andy McBrine,9667,Left-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+316,27,Ireland,Matthew Humphreys,23506,Right-hand bat,Left-arm orthodox,Test,3,5,47,117,27,23.5,40.18,3,7,1,0,0,0,0,0,0
+317,27,Ireland,Matthew Humphreys,23506,Right-hand bat,Left-arm orthodox,ODI,6,3,6,10,4,6.0,60.0,2,1,0,1,0,0,0,0,0
+318,27,Ireland,Matthew Humphreys,23506,Right-hand bat,Left-arm orthodox,T20,5,1,0,1,0,0.0,0.0,1,0,0,0,0,0,0,0,0
+319,27,Ireland,Matthew Humphreys,23506,Right-hand bat,Left-arm orthodox,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+320,27,Ireland,Jordan Neill,54252,Right-hand bat,Right-arm medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+321,27,Ireland,Jordan Neill,54252,Right-hand bat,Right-arm medium,ODI,1,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+322,27,Ireland,Jordan Neill,54252,Right-hand bat,Right-arm medium,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+323,27,Ireland,Jordan Neill,54252,Right-hand bat,Right-arm medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+324,27,Ireland,Fionn Hand,29018,Right-hand bat,Right-arm medium,Test,1,2,8,41,7,4.0,19.52,0,0,0,0,0,0,0,0,0
+325,27,Ireland,Fionn Hand,29018,Right-hand bat,Right-arm medium,ODI,1,1,0,1,0,0.0,0.0,0,0,0,1,0,0,0,0,0
+326,27,Ireland,Fionn Hand,29018,Right-hand bat,Right-arm medium,T20,14,10,63,48,36,9.0,131.25,3,8,2,2,0,0,0,0,0
+327,27,Ireland,Fionn Hand,29018,Right-hand bat,Right-arm medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+328,27,Ireland,Lorcan Tucker,11131,Right-hand bat,,Test,7,14,571,895,108,43.92,63.8,1,76,2,1,3,1,0,0,0
+329,27,Ireland,Lorcan Tucker,11131,Right-hand bat,,ODI,58,48,1054,1258,85,25.1,83.79,6,95,14,3,5,0,0,0,0
+330,27,Ireland,Lorcan Tucker,11131,Right-hand bat,,T20,78,72,1364,1112,94,21.31,122.67,8,131,30,7,9,0,0,0,0
+331,27,Ireland,Lorcan Tucker,11131,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+332,27,Ireland,Stephen Doheny,11127,Right-hand bat,,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+333,27,Ireland,Stephen Doheny,11127,Right-hand bat,,ODI,11,9,165,264,84,18.33,62.5,0,16,2,1,1,0,0,0,0
+334,27,Ireland,Stephen Doheny,11127,Right-hand bat,,T20,3,3,19,21,15,6.33,90.48,0,2,0,0,0,0,0,0,0
+335,27,Ireland,Stephen Doheny,11127,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+336,27,Ireland,Peter Moor,10195,Right-hand bat,Right-arm offbreak,Test,15,30,734,1569,83,25.31,46.79,1,83,7,4,6,0,0,0,0
+337,27,Ireland,Peter Moor,10195,Right-hand bat,Right-arm offbreak,ODI,49,45,828,1225,58,20.7,67.6,5,48,30,3,4,0,0,0,0
+338,27,Ireland,Peter Moor,10195,Right-hand bat,Right-arm offbreak,T20,21,19,364,286,92,24.27,127.28,4,22,24,0,1,0,0,0,0
+339,27,Ireland,Peter Moor,10195,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+340,27,Ireland,Neil Rock,13309,Left-hand bat,,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+341,27,Ireland,Neil Rock,13309,Left-hand bat,,ODI,3,2,7,23,5,3.5,30.44,0,0,0,0,0,0,0,0,0
+342,27,Ireland,Neil Rock,13309,Left-hand bat,,T20,25,17,161,153,37,10.06,105.23,1,13,3,1,0,0,0,0,0
+343,27,Ireland,Neil Rock,13309,Left-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+344,27,Ireland,Joshua Little,11128,Right-hand bat,Left-arm fast-medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+345,27,Ireland,Joshua Little,11128,Right-hand bat,Left-arm fast-medium,ODI,42,15,81,87,29,8.1,93.11,5,11,2,3,0,0,0,0,0
+346,27,Ireland,Joshua Little,11128,Right-hand bat,Left-arm fast-medium,T20,72,32,132,154,22,11.0,85.72,20,11,3,4,0,0,0,0,0
+347,27,Ireland,Joshua Little,11128,Right-hand bat,Left-arm fast-medium,IPL,11,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+348,27,Ireland,Barry McCarthy,10451,Right-hand bat,Right-arm fast-medium,Test,3,4,17,70,11,4.25,24.29,0,0,0,1,0,0,0,0,0
+349,27,Ireland,Barry McCarthy,10451,Right-hand bat,Right-arm fast-medium,ODI,48,31,220,357,41,9.17,61.63,7,18,3,5,0,0,0,0,0
+350,27,Ireland,Barry McCarthy,10451,Right-hand bat,Right-arm fast-medium,T20,57,36,286,246,51,12.43,116.27,13,19,15,7,1,0,0,0,0
+351,27,Ireland,Barry McCarthy,10451,Right-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+352,27,Ireland,Thomas Mayes,41928,Right-hand bat,Right-arm fast-medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+353,27,Ireland,Thomas Mayes,41928,Right-hand bat,Right-arm fast-medium,ODI,2,1,8,5,8,0.0,160.0,1,1,0,0,0,0,0,0,0
+354,27,Ireland,Thomas Mayes,41928,Right-hand bat,Right-arm fast-medium,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+355,27,Ireland,Thomas Mayes,41928,Right-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+356,27,Ireland,Liam McCarthy,1451972,Left-hand bat,Right-arm fast-medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+357,27,Ireland,Liam McCarthy,1451972,Left-hand bat,Right-arm fast-medium,ODI,3,1,0,5,0,0.0,0.0,1,0,0,0,0,0,0,0,0
+358,27,Ireland,Liam McCarthy,1451972,Left-hand bat,Right-arm fast-medium,T20,1,1,16,15,16,0.0,106.67,1,1,1,0,0,0,0,0,0
+359,27,Ireland,Liam McCarthy,1451972,Left-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+360,27,Ireland,Craig Young,6575,Right-hand bat,Right-arm fast-medium,Test,3,4,11,38,5,3.67,28.95,1,0,0,0,0,0,0,0,0
+361,27,Ireland,Craig Young,6575,Right-hand bat,Right-arm fast-medium,ODI,48,27,166,189,40,13.83,87.84,15,13,6,5,0,0,0,0,0
+362,27,Ireland,Craig Young,6575,Right-hand bat,Right-arm fast-medium,T20,68,24,79,105,22,7.18,75.24,13,6,2,3,0,0,0,0,0
+363,27,Ireland,Craig Young,6575,Right-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+364,27,Ireland,Mark Adair,10449,Right-hand bat,Right-arm fast,Test,7,13,313,443,88,28.45,70.66,2,42,5,2,2,0,0,0,0
+365,27,Ireland,Mark Adair,10449,Right-hand bat,Right-arm fast,ODI,54,39,469,452,32,18.04,103.77,13,35,21,3,0,0,0,0,0
+366,27,Ireland,Mark Adair,10449,Right-hand bat,Right-arm fast,T20,89,64,755,591,72,15.1,127.75,14,51,37,5,1,0,0,0,0
+367,27,Ireland,Mark Adair,10449,Right-hand bat,Right-arm fast,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+368,27,Ireland,Benjamin White,11124,Right-hand bat,Right-arm legbreak,Test,3,6,1,30,1,0.5,3.34,4,0,0,1,0,0,0,0,0
+369,27,Ireland,Benjamin White,11124,Right-hand bat,Right-arm legbreak,ODI,2,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+370,27,Ireland,Benjamin White,11124,Right-hand bat,Right-arm legbreak,T20,36,9,22,45,7,22.0,48.89,8,1,0,0,0,0,0,0,0
+371,27,Ireland,Benjamin White,11124,Right-hand bat,Right-arm legbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+372,27,Ireland,Graham Hume,19178,Left-hand bat,Right-arm fast-medium,Test,3,6,36,138,14,7.2,26.09,1,6,0,1,0,0,0,0,0
+373,27,Ireland,Graham Hume,19178,Left-hand bat,Right-arm fast-medium,ODI,21,10,79,124,21,15.8,63.71,5,5,2,0,0,0,0,0,0
+374,27,Ireland,Graham Hume,19178,Left-hand bat,Right-arm fast-medium,T20,9,5,38,29,20,19.0,131.04,3,2,2,0,0,0,0,0,0
+375,27,Ireland,Graham Hume,19178,Left-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+376,27,Ireland,Gavin Hoey,1428460,Right-hand bat,Right-arm legbreak,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+377,27,Ireland,Gavin Hoey,1428460,Right-hand bat,Right-arm legbreak,ODI,2,2,24,28,23,12.0,85.72,0,2,1,0,0,0,0,0,0
+378,27,Ireland,Gavin Hoey,1428460,Right-hand bat,Right-arm legbreak,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+379,27,Ireland,Gavin Hoey,1428460,Right-hand bat,Right-arm legbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+380,3,Pakistan,Imam-ul-Haq,8364,Left-hand bat,,Test,24,46,1568,3404,157,37.33,46.07,4,170,12,4,9,3,0,0,0
+381,3,Pakistan,Imam-ul-Haq,8364,Left-hand bat,,ODI,75,74,3152,3846,151,46.35,81.96,6,253,30,3,20,9,0,0,0
+382,3,Pakistan,Imam-ul-Haq,8364,Left-hand bat,,T20,2,2,21,25,14,10.5,84.0,0,2,0,0,0,0,0,0,0
+383,3,Pakistan,Imam-ul-Haq,8364,Left-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+384,3,Pakistan,Muhammad Hurraira,15847,Right-hand bat,Right-arm offbreak,Test,2,4,46,95,29,11.5,48.43,0,4,0,0,0,0,0,0,0
+385,3,Pakistan,Muhammad Hurraira,15847,Right-hand bat,Right-arm offbreak,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+386,3,Pakistan,Muhammad Hurraira,15847,Right-hand bat,Right-arm offbreak,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+387,3,Pakistan,Muhammad Hurraira,15847,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+388,3,Pakistan,Babar Azam,8359,Right-hand bat,Right-arm offbreak,Test,59,108,4235,7787,196,42.78,54.39,9,495,23,8,29,9,0,0,0
+389,3,Pakistan,Babar Azam,8359,Right-hand bat,Right-arm offbreak,ODI,131,128,6235,7089,158,55.18,87.96,15,574,67,4,37,19,0,0,0
+390,3,Pakistan,Babar Azam,8359,Right-hand bat,Right-arm offbreak,T20,128,121,4223,3268,122,39.84,129.23,15,447,73,7,36,3,0,0,0
+391,3,Pakistan,Babar Azam,8359,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+392,3,Pakistan,Shan Masood,9545,Left-hand bat,Right-arm medium,Test,42,80,2380,4539,156,30.13,52.44,1,232,21,8,11,6,0,0,0
+393,3,Pakistan,Shan Masood,9545,Left-hand bat,Right-arm medium,ODI,9,9,163,234,50,18.11,69.66,0,19,0,2,1,0,0,0,0
+394,3,Pakistan,Shan Masood,9545,Left-hand bat,Right-arm medium,T20,19,17,396,324,66,30.46,122.23,4,30,7,2,3,0,0,0,0
+395,3,Pakistan,Shan Masood,9545,Left-hand bat,Right-arm medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+396,3,Pakistan,Saim Ayub,14241,Left-hand bat,Right-arm offbreak,Test,8,14,364,657,77,26.0,55.41,0,38,4,1,3,0,0,0,0
+397,3,Pakistan,Saim Ayub,14241,Left-hand bat,Right-arm offbreak,ODI,9,9,515,488,113,64.38,105.54,1,59,16,0,1,3,0,0,0
+398,3,Pakistan,Saim Ayub,14241,Left-hand bat,Right-arm offbreak,T20,30,28,547,395,98,21.04,138.49,2,62,26,4,1,0,0,0,0
+399,3,Pakistan,Saim Ayub,14241,Left-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+400,3,Pakistan,Fakhar Zaman,10863,Left-hand bat,Left-arm orthodox,Test,3,6,192,359,94,32.0,53.49,0,20,1,0,2,0,0,0,0
+401,3,Pakistan,Fakhar Zaman,10863,Left-hand bat,Left-arm orthodox,ODI,86,85,3651,3890,210,46.22,93.86,6,409,79,6,17,11,1,0,0
+402,3,Pakistan,Fakhar Zaman,10863,Left-hand bat,Left-arm orthodox,T20,93,85,1849,1394,91,22.55,132.64,3,172,76,6,11,0,0,0,0
+403,3,Pakistan,Fakhar Zaman,10863,Left-hand bat,Left-arm orthodox,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+404,3,Pakistan,Khushdil Shah,12565,Left-hand bat,Left-arm orthodox,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+405,3,Pakistan,Khushdil Shah,12565,Left-hand bat,Left-arm orthodox,ODI,15,12,328,334,69,32.8,98.21,2,25,10,0,1,0,0,0,0
+406,3,Pakistan,Khushdil Shah,12565,Left-hand bat,Left-arm orthodox,T20,34,29,389,364,36,17.68,106.87,7,25,18,0,0,0,0,0,0
+407,3,Pakistan,Khushdil Shah,12565,Left-hand bat,Left-arm orthodox,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+408,3,Pakistan,Hasan Nawaz,41113,Right-hand bat,Right-arm offbreak,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+409,3,Pakistan,Hasan Nawaz,41113,Right-hand bat,Right-arm offbreak,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+410,3,Pakistan,Hasan Nawaz,41113,Right-hand bat,Right-arm offbreak,T20,8,8,227,118,105,37.83,192.38,2,16,16,3,1,1,0,0,0
+411,3,Pakistan,Hasan Nawaz,41113,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+412,3,Pakistan,Abdullah Shafique,12139,Right-hand bat,Right-arm offbreak,Test,22,42,1504,3405,201,38.56,44.18,3,145,20,6,5,5,1,0,0
+413,3,Pakistan,Abdullah Shafique,12139,Right-hand bat,Right-arm offbreak,ODI,24,24,682,863,113,31.0,79.03,2,62,18,4,6,1,0,0,0
+414,3,Pakistan,Abdullah Shafique,12139,Right-hand bat,Right-arm offbreak,T20,6,6,64,53,41,12.8,120.76,1,5,3,4,0,0,0,0,0
+415,3,Pakistan,Abdullah Shafique,12139,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+416,3,Pakistan,Tayyab Tahir,37572,Right-hand bat,Right-arm legbreak,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+417,3,Pakistan,Tayyab Tahir,37572,Right-hand bat,Right-arm legbreak,ODI,11,10,181,177,38,22.63,102.26,2,18,3,0,0,0,0,0,0
+418,3,Pakistan,Tayyab Tahir,37572,Right-hand bat,Right-arm legbreak,T20,8,7,123,104,39,20.5,118.27,1,12,3,0,0,0,0,0,0
+419,3,Pakistan,Tayyab Tahir,37572,Right-hand bat,Right-arm legbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+420,3,Pakistan,Omair Yousuf,13239,Right-hand bat,,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+421,3,Pakistan,Omair Yousuf,13239,Right-hand bat,,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+422,3,Pakistan,Omair Yousuf,13239,Right-hand bat,,T20,7,7,91,83,24,18.2,109.64,2,8,3,1,0,0,0,0,0
+423,3,Pakistan,Omair Yousuf,13239,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+424,3,Pakistan,Abdul Samad,1433121,Right-hand bat,,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+425,3,Pakistan,Abdul Samad,1433121,Right-hand bat,,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+426,3,Pakistan,Abdul Samad,1433121,Right-hand bat,,T20,5,4,66,58,44,16.5,113.8,0,4,3,0,0,0,0,0,0
+427,3,Pakistan,Abdul Samad,1433121,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+428,3,Pakistan,Saud Shakeel,9812,Left-hand bat,Left-arm orthodox,Test,19,36,1658,3345,208,50.24,49.57,3,165,2,2,9,4,1,0,0
+429,3,Pakistan,Saud Shakeel,9812,Left-hand bat,Left-arm orthodox,ODI,19,16,408,478,68,27.2,85.36,1,45,1,0,4,0,0,0,0
+430,3,Pakistan,Saud Shakeel,9812,Left-hand bat,Left-arm orthodox,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+431,3,Pakistan,Saud Shakeel,9812,Left-hand bat,Left-arm orthodox,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+432,3,Pakistan,Kamran Ghulam,9807,Right-hand bat,Left-arm orthodox,Test,6,11,312,552,118,28.36,56.53,0,39,2,0,1,1,0,0,0
+433,3,Pakistan,Kamran Ghulam,9807,Right-hand bat,Left-arm orthodox,ODI,10,7,210,212,103,30.0,99.06,0,19,9,1,1,1,0,0,0
+434,3,Pakistan,Kamran Ghulam,9807,Right-hand bat,Left-arm orthodox,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+435,3,Pakistan,Kamran Ghulam,9807,Right-hand bat,Left-arm orthodox,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+436,3,Pakistan,Salman Agha,10101,Right-hand bat,Right-arm offbreak,Test,21,40,1317,2113,132,38.74,62.33,6,150,12,2,9,3,0,0,0
+437,3,Pakistan,Salman Agha,10101,Right-hand bat,Right-arm offbreak,ODI,38,31,1054,1061,134,42.16,99.35,6,92,22,0,6,1,0,0,0
+438,3,Pakistan,Salman Agha,10101,Right-hand bat,Right-arm offbreak,T20,14,13,307,244,56,27.91,125.82,2,35,7,1,3,0,0,0,0
+439,3,Pakistan,Salman Agha,10101,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+440,3,Pakistan,Irfan Khan,15460,Right-hand bat,Right-arm fast-medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+441,3,Pakistan,Irfan Khan,15460,Right-hand bat,Right-arm fast-medium,ODI,9,6,48,74,22,8.0,64.87,0,3,1,1,0,0,0,0,0
+442,3,Pakistan,Irfan Khan,15460,Right-hand bat,Right-arm fast-medium,T20,14,11,189,140,37,27.0,135.0,4,20,7,1,0,0,0,0,0
+443,3,Pakistan,Irfan Khan,15460,Right-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+444,3,Pakistan,Hussain Talat,9804,Left-hand bat,Right-arm medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+445,3,Pakistan,Hussain Talat,9804,Left-hand bat,Right-arm medium,ODI,1,1,2,14,2,2.0,14.29,0,0,0,0,0,0,0,0,0
+446,3,Pakistan,Hussain Talat,9804,Left-hand bat,Right-arm medium,T20,18,17,394,333,63,24.63,118.32,1,37,5,1,2,0,0,0,0
+447,3,Pakistan,Hussain Talat,9804,Left-hand bat,Right-arm medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+448,3,Pakistan,Noman Ali,14545,Left-hand bat,Left-arm orthodox,Test,19,26,368,770,97,16.73,47.8,4,42,9,6,1,0,0,0,0
+449,3,Pakistan,Noman Ali,14545,Left-hand bat,Left-arm orthodox,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+450,3,Pakistan,Noman Ali,14545,Left-hand bat,Left-arm orthodox,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+451,3,Pakistan,Noman Ali,14545,Left-hand bat,Left-arm orthodox,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+452,3,Pakistan,Faheem Ashraf,11265,Left-hand bat,Right-arm medium,Test,17,27,687,1268,91,26.42,54.18,1,100,3,4,4,0,0,0,0
+453,3,Pakistan,Faheem Ashraf,11265,Left-hand bat,Right-arm medium,ODI,37,27,322,379,73,13.42,84.97,3,26,10,2,1,0,0,0,0
+454,3,Pakistan,Faheem Ashraf,11265,Left-hand bat,Right-arm medium,T20,51,35,323,249,31,12.42,129.72,9,19,19,4,0,0,0,0,0
+455,3,Pakistan,Faheem Ashraf,11265,Left-hand bat,Right-arm medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+456,3,Pakistan,Shadab Khan,11186,Right-hand bat,Right-arm legbreak,Test,6,11,300,479,56,33.33,62.64,2,38,0,0,3,0,0,0,0
+457,3,Pakistan,Shadab Khan,11186,Right-hand bat,Right-arm legbreak,ODI,70,44,855,997,86,25.91,85.76,11,51,19,3,4,0,0,0,0
+458,3,Pakistan,Shadab Khan,11186,Right-hand bat,Right-arm legbreak,T20,112,58,792,565,52,18.0,140.18,14,56,38,6,1,0,0,0,0
+459,3,Pakistan,Shadab Khan,11186,Right-hand bat,Right-arm legbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+460,3,Pakistan,Jahandad Khan,55256,Left-hand bat,Left-arm fast-medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+461,3,Pakistan,Jahandad Khan,55256,Left-hand bat,Left-arm fast-medium,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+462,3,Pakistan,Jahandad Khan,55256,Left-hand bat,Left-arm fast-medium,T20,8,5,29,34,17,7.25,85.3,1,0,2,1,0,0,0,0,0
+463,3,Pakistan,Jahandad Khan,55256,Left-hand bat,Left-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+464,3,Pakistan,Rohail Nazir,13192,Right-hand bat,,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+465,3,Pakistan,Rohail Nazir,13192,Right-hand bat,,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+466,3,Pakistan,Rohail Nazir,13192,Right-hand bat,,T20,3,2,23,23,13,11.5,100.0,0,0,3,0,0,0,0,0,0
+467,3,Pakistan,Rohail Nazir,13192,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+468,3,Pakistan,Mohammad Rizwan,9468,Right-hand bat,,Test,39,65,2273,4184,171,40.59,54.33,9,236,16,4,11,3,0,0,0
+469,3,Pakistan,Mohammad Rizwan,9468,Right-hand bat,,ODI,91,82,2644,3051,131,41.31,86.67,18,220,35,2,15,4,0,0,0
+470,3,Pakistan,Mohammad Rizwan,9468,Right-hand bat,,T20,106,93,3414,2723,104,46.77,125.38,20,286,95,5,30,1,0,0,0
+471,3,Pakistan,Mohammad Rizwan,9468,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+472,3,Pakistan,Sahibzada Farhan,13625,Right-hand bat,,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+473,3,Pakistan,Sahibzada Farhan,13625,Right-hand bat,,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+474,3,Pakistan,Sahibzada Farhan,13625,Right-hand bat,,T20,11,11,161,135,74,14.64,119.26,0,11,10,1,1,0,0,0,0
+475,3,Pakistan,Sahibzada Farhan,13625,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+476,3,Pakistan,Mohammad Haris,15038,Right-hand bat,Right-arm offbreak,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+477,3,Pakistan,Mohammad Haris,15038,Right-hand bat,Right-arm offbreak,ODI,6,5,30,35,17,7.5,85.72,1,2,1,1,0,0,0,0,0
+478,3,Pakistan,Mohammad Haris,15038,Right-hand bat,Right-arm offbreak,T20,17,17,370,243,107,23.13,152.27,1,33,21,2,0,1,0,0,0
+479,3,Pakistan,Mohammad Haris,15038,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+480,3,Pakistan,Usman Khan,19013,Right-hand bat,Right-arm offbreak,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+481,3,Pakistan,Usman Khan,19013,Right-hand bat,Right-arm offbreak,ODI,2,2,51,50,39,25.5,102.0,0,5,2,0,0,0,0,0,0
+482,3,Pakistan,Usman Khan,19013,Right-hand bat,Right-arm offbreak,T20,19,17,239,196,52,14.94,121.94,1,21,6,0,1,0,0,0,0
+483,3,Pakistan,Usman Khan,19013,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+484,3,Pakistan,Abrar Ahmed,12555,Right-hand bat,Right-arm legbreak,Test,10,15,68,120,17,8.5,56.67,7,8,3,1,0,0,0,0,0
+485,3,Pakistan,Abrar Ahmed,12555,Right-hand bat,Right-arm legbreak,ODI,9,5,28,18,23,28.0,155.56,4,5,0,0,0,0,0,0,0
+486,3,Pakistan,Abrar Ahmed,12555,Right-hand bat,Right-arm legbreak,T20,13,2,3,8,2,3.0,37.5,1,0,0,0,0,0,0,0,0
+487,3,Pakistan,Abrar Ahmed,12555,Right-hand bat,Right-arm legbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+488,3,Pakistan,Sajid Khan,19066,Right-hand bat,Right-arm offbreak,Test,12,16,206,359,48,14.71,57.39,2,22,5,1,0,0,0,0,0
+489,3,Pakistan,Sajid Khan,19066,Right-hand bat,Right-arm offbreak,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+490,3,Pakistan,Sajid Khan,19066,Right-hand bat,Right-arm offbreak,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+491,3,Pakistan,Sajid Khan,19066,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+492,3,Pakistan,Mohammad Ali,35250,Right-hand bat,Right-arm fast-medium,Test,4,7,2,66,2,0.4,3.04,2,0,0,4,0,0,0,0,0
+493,3,Pakistan,Mohammad Ali,35250,Right-hand bat,Right-arm fast-medium,ODI,1,1,0,2,0,0.0,0.0,1,0,0,0,0,0,0,0,0
+494,3,Pakistan,Mohammad Ali,35250,Right-hand bat,Right-arm fast-medium,T20,3,2,1,1,1,0.0,100.0,2,0,0,0,0,0,0,0,0
+495,3,Pakistan,Mohammad Ali,35250,Right-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+496,3,Pakistan,Khurram Shahzad,19627,Right-hand bat,Right-arm medium,Test,6,11,83,224,18,9.22,37.06,2,11,0,3,0,0,0,0,0
+497,3,Pakistan,Khurram Shahzad,19627,Right-hand bat,Right-arm medium,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+498,3,Pakistan,Khurram Shahzad,19627,Right-hand bat,Right-arm medium,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+499,3,Pakistan,Khurram Shahzad,19627,Right-hand bat,Right-arm medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+500,3,Pakistan,Kashif Ali,1450089,Right-hand bat,Right-arm medium,Test,1,2,1,12,1,0.5,8.34,0,0,0,1,0,0,0,0,0
+501,3,Pakistan,Kashif Ali,1450089,Right-hand bat,Right-arm medium,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+502,3,Pakistan,Kashif Ali,1450089,Right-hand bat,Right-arm medium,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+503,3,Pakistan,Kashif Ali,1450089,Right-hand bat,Right-arm medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+504,3,Pakistan,Haris Rauf,14561,Right-hand bat,Right-arm fast,Test,1,2,12,34,12,6.0,35.3,0,0,0,1,0,0,0,0,0
+505,3,Pakistan,Haris Rauf,14561,Right-hand bat,Right-arm fast,ODI,50,21,105,124,35,7.5,84.68,7,6,9,2,0,0,0,0,0
+506,3,Pakistan,Haris Rauf,14561,Right-hand bat,Right-arm fast,T20,85,27,100,97,13,6.67,103.1,12,7,5,4,0,0,0,0,0
+507,3,Pakistan,Haris Rauf,14561,Right-hand bat,Right-arm fast,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+508,3,Pakistan,Naseem Shah,14247,Right-hand bat,Right-arm fast,Test,20,27,144,457,33,7.58,31.51,8,15,8,5,0,0,0,0,0
+509,3,Pakistan,Naseem Shah,14247,Right-hand bat,Right-arm fast,ODI,28,15,212,235,51,23.56,90.22,6,13,11,1,1,0,0,0,0
+510,3,Pakistan,Naseem Shah,14247,Right-hand bat,Right-arm fast,T20,30,11,51,46,16,7.29,110.87,4,4,3,4,0,0,0,0,0
+511,3,Pakistan,Naseem Shah,14247,Right-hand bat,Right-arm fast,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+512,3,Pakistan,Hasan Ali,11320,Right-hand bat,Right-arm fast-medium,Test,24,38,382,527,30,11.94,72.49,6,34,20,7,0,0,0,0,0
+513,3,Pakistan,Hasan Ali,11320,Right-hand bat,Right-arm fast-medium,ODI,66,38,383,327,59,14.19,117.13,11,28,24,4,2,0,0,0,0
+514,3,Pakistan,Hasan Ali,11320,Right-hand bat,Right-arm fast-medium,T20,54,20,130,70,23,14.44,185.72,11,7,11,4,0,0,0,0,0
+515,3,Pakistan,Hasan Ali,11320,Right-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+516,3,Pakistan,Abbas Afridi,15034,Right-hand bat,Right-arm fast-medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+517,3,Pakistan,Abbas Afridi,15034,Right-hand bat,Right-arm fast-medium,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+518,3,Pakistan,Abbas Afridi,15034,Right-hand bat,Right-arm fast-medium,T20,21,12,92,79,20,10.22,116.46,3,8,6,1,0,0,0,0,0
+519,3,Pakistan,Abbas Afridi,15034,Right-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+520,3,Pakistan,Akif Javed,15751,Right-hand bat,Left-arm fast-medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+521,3,Pakistan,Akif Javed,15751,Right-hand bat,Left-arm fast-medium,ODI,3,3,10,14,8,5.0,71.43,1,2,0,0,0,0,0,0,0
+522,3,Pakistan,Akif Javed,15751,Right-hand bat,Left-arm fast-medium,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+523,3,Pakistan,Akif Javed,15751,Right-hand bat,Left-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+524,3,Pakistan,Mohammad Wasim Jr,15040,Right-hand bat,Right-arm fast-medium,Test,2,4,55,74,43,18.33,74.33,1,5,2,0,0,0,0,0,0
+525,3,Pakistan,Mohammad Wasim Jr,15040,Right-hand bat,Right-arm fast-medium,ODI,22,11,81,85,17,9.0,95.3,2,5,5,2,0,0,0,0,0
+526,3,Pakistan,Mohammad Wasim Jr,15040,Right-hand bat,Right-arm fast-medium,T20,29,11,46,53,12,11.5,86.8,7,5,1,1,0,0,0,0,0
+527,3,Pakistan,Mohammad Wasim Jr,15040,Right-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+528,3,Pakistan,Sufiyan Muqeem,41169,Left-hand bat,Left-arm wrist-spin,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+529,3,Pakistan,Sufiyan Muqeem,41169,Left-hand bat,Left-arm wrist-spin,ODI,3,3,15,17,13,15.0,88.24,2,1,1,0,0,0,0,0,0
+530,3,Pakistan,Sufiyan Muqeem,41169,Left-hand bat,Left-arm wrist-spin,T20,10,6,8,13,5,2.0,61.54,2,0,0,2,0,0,0,0,0
+531,3,Pakistan,Sufiyan Muqeem,41169,Left-hand bat,Left-arm wrist-spin,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+532,3,Pakistan,Shaheen Afridi,12160,Left-hand bat,Left-arm fast-medium,Test,31,41,249,556,29,8.03,44.79,10,31,5,9,0,0,0,0,0
+533,3,Pakistan,Shaheen Afridi,12160,Left-hand bat,Left-arm fast-medium,ODI,64,37,261,310,25,13.05,84.2,17,23,10,6,0,0,0,0,0
+534,3,Pakistan,Shaheen Afridi,12160,Left-hand bat,Left-arm fast-medium,T20,79,27,211,174,23,12.41,121.27,10,12,15,4,0,0,0,0,0
+535,3,Pakistan,Shaheen Afridi,12160,Left-hand bat,Left-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+536,3,Pakistan,Mohammad Hasnain,14248,Right-hand bat,Right-arm fast-medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+537,3,Pakistan,Mohammad Hasnain,14248,Right-hand bat,Right-arm fast-medium,ODI,15,7,53,34,28,17.67,155.89,4,9,1,1,0,0,0,0,0
+538,3,Pakistan,Mohammad Hasnain,14248,Right-hand bat,Right-arm fast-medium,T20,28,12,24,26,8,24.0,92.31,11,2,1,0,0,0,0,0,0
+539,3,Pakistan,Mohammad Hasnain,14248,Right-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+540,4,Australia,Steven Smith,2250,Right-hand bat,Right-arm legbreak,Test,118,210,10424,19438,239,56.35,53.63,25,1134,62,11,43,36,4,0,0
+541,4,Australia,Steven Smith,2250,Right-hand bat,Right-arm legbreak,ODI,170,154,5800,6669,164,43.28,86.97,20,521,58,8,35,12,0,0,0
+542,4,Australia,Steven Smith,2250,Right-hand bat,Right-arm legbreak,T20,67,55,1094,872,90,24.86,125.46,11,96,26,1,5,0,0,0,0
+543,4,Australia,Steven Smith,2250,Right-hand bat,Right-arm legbreak,IPL,103,93,2485,1940,101,34.51,128.1,21,225,60,1,11,1,0,0,0
+544,4,Australia,Marnus Labuschagne,10182,Right-hand bat,Right-arm legbreak,Test,58,104,4435,8583,215,46.2,51.68,8,493,12,4,23,11,2,0,0
+545,4,Australia,Marnus Labuschagne,10182,Right-hand bat,Right-arm legbreak,ODI,63,56,1869,2228,124,35.94,83.89,4,154,10,3,12,2,0,0,0
+546,4,Australia,Marnus Labuschagne,10182,Right-hand bat,Right-arm legbreak,T20,1,1,2,4,2,2.0,50.0,0,0,0,0,0,0,0,0,0
+547,4,Australia,Marnus Labuschagne,10182,Right-hand bat,Right-arm legbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+548,4,Australia,Travis Head,8497,Left-hand bat,Right-arm offbreak,Test,59,99,3927,5779,175,42.23,67.96,6,480,32,7,20,9,0,0,0
+549,4,Australia,Travis Head,8497,Left-hand bat,Right-arm offbreak,ODI,73,70,2767,2638,154,43.23,104.9,6,315,67,3,17,6,0,0,0
+550,4,Australia,Travis Head,8497,Left-hand bat,Right-arm offbreak,T20,38,37,1093,681,91,33.12,160.5,4,114,53,2,5,0,0,0,0
+551,4,Australia,Travis Head,8497,Left-hand bat,Right-arm offbreak,IPL,38,37,1146,674,102,34.73,170.03,4,126,55,5,8,1,0,0,0
+552,5,Sri Lanka,Pathum Nissanka,13682,Right-hand bat,,Test,18,31,1305,2299,187,45.0,56.77,2,150,5,0,7,4,0,0,0
+553,5,Sri Lanka,Pathum Nissanka,13682,Right-hand bat,,ODI,69,69,2548,2846,210,39.81,89.53,5,319,32,6,16,6,1,0,0
+554,5,Sri Lanka,Pathum Nissanka,13682,Right-hand bat,,T20,63,62,1776,1456,90,29.6,121.98,2,187,44,5,14,0,0,0,0
+555,5,Sri Lanka,Pathum Nissanka,13682,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+556,5,Sri Lanka,Pavan Rathnayake,15081,Right-hand bat,,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+557,5,Sri Lanka,Pavan Rathnayake,15081,Right-hand bat,,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+558,5,Sri Lanka,Pavan Rathnayake,15081,Right-hand bat,,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+559,5,Sri Lanka,Pavan Rathnayake,15081,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+560,5,Sri Lanka,Oshada Fernando,11545,Right-hand bat,Right-arm legbreak,Test,22,39,1104,2224,102,31.54,49.65,4,127,11,2,7,1,0,0,0
+561,5,Sri Lanka,Oshada Fernando,11545,Right-hand bat,Right-arm legbreak,ODI,8,8,148,230,49,18.5,64.35,0,15,3,1,0,0,0,0,0
+562,5,Sri Lanka,Oshada Fernando,11545,Right-hand bat,Right-arm legbreak,T20,7,6,128,114,78,25.6,112.29,1,11,4,0,1,0,0,0,0
+563,5,Sri Lanka,Oshada Fernando,11545,Right-hand bat,Right-arm legbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+564,5,Sri Lanka,Pasindu Sooriyabandara,13884,Right-hand bat,,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+565,5,Sri Lanka,Pasindu Sooriyabandara,13884,Right-hand bat,,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+566,5,Sri Lanka,Pasindu Sooriyabandara,13884,Right-hand bat,,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+567,5,Sri Lanka,Pasindu Sooriyabandara,13884,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+568,5,Sri Lanka,Avishka Fernando,10939,Right-hand bat,Right-arm fast-medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+569,5,Sri Lanka,Avishka Fernando,10939,Right-hand bat,Right-arm fast-medium,ODI,51,50,1589,1787,127,31.78,88.92,0,165,31,5,9,4,0,0,0
+570,5,Sri Lanka,Avishka Fernando,10939,Right-hand bat,Right-arm fast-medium,T20,38,36,374,403,37,11.33,92.81,3,28,8,5,0,0,0,0,0
+571,5,Sri Lanka,Avishka Fernando,10939,Right-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+572,5,Sri Lanka,Nuwanidu Fernando,13187,Right-hand bat,Right-arm offbreak,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+573,5,Sri Lanka,Nuwanidu Fernando,13187,Right-hand bat,Right-arm offbreak,ODI,5,4,75,105,50,18.75,71.43,0,10,0,0,1,0,0,0,0
+574,5,Sri Lanka,Nuwanidu Fernando,13187,Right-hand bat,Right-arm offbreak,T20,1,1,5,8,5,5.0,62.5,0,1,0,0,0,0,0,0,0
+575,5,Sri Lanka,Nuwanidu Fernando,13187,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+576,5,Sri Lanka,Angelo Mathews,1629,Right-hand bat,Right-arm fast-medium,Test,119,212,8214,16970,200,44.4,48.41,27,835,90,6,45,16,1,0,0
+577,5,Sri Lanka,Angelo Mathews,1629,Right-hand bat,Right-arm fast-medium,ODI,226,194,5916,7135,139,40.52,82.92,48,468,90,16,40,3,0,0,0
+578,5,Sri Lanka,Angelo Mathews,1629,Right-hand bat,Right-arm fast-medium,T20,90,73,1416,1175,81,27.76,120.52,22,92,50,1,6,0,0,0,0
+579,5,Sri Lanka,Angelo Mathews,1629,Right-hand bat,Right-arm fast-medium,IPL,49,42,724,575,65,23.35,125.92,11,44,29,3,1,0,0,0,0
+580,5,Sri Lanka,Kamindu Mendis,10940,Left-hand bat,Right-arm offbreak,Test,14,24,1316,2063,182,62.67,63.8,3,137,24,0,5,5,0,0,0
+581,5,Sri Lanka,Kamindu Mendis,10940,Left-hand bat,Right-arm offbreak,ODI,22,21,402,555,64,25.13,72.44,5,28,9,2,2,0,0,0,0
+582,5,Sri Lanka,Kamindu Mendis,10940,Left-hand bat,Right-arm offbreak,T20,23,21,381,311,65,19.05,122.51,1,39,13,2,2,0,0,0,0
+583,5,Sri Lanka,Kamindu Mendis,10940,Left-hand bat,Right-arm offbreak,IPL,5,5,92,69,32,23.0,133.34,1,7,2,1,0,0,0,0,0
+584,5,Sri Lanka,Dhananjaya de Silva,7872,Right-hand bat,Right-arm offbreak,Test,65,115,4133,7089,173,38.27,58.31,7,499,36,10,19,12,0,0,0
+585,5,Sri Lanka,Dhananjaya de Silva,7872,Right-hand bat,Right-arm offbreak,ODI,90,82,1865,2373,93,25.9,78.6,10,186,17,4,10,0,0,0,0
+586,5,Sri Lanka,Dhananjaya de Silva,7872,Right-hand bat,Right-arm offbreak,T20,45,44,847,731,66,21.18,115.87,4,71,18,2,3,0,0,0,0
+587,5,Sri Lanka,Dhananjaya de Silva,7872,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+588,5,Sri Lanka,Charith Asalanka,10934,Left-hand bat,Right-arm offbreak,Test,3,6,88,171,29,14.67,51.47,0,11,3,0,0,0,0,0,0
+589,5,Sri Lanka,Charith Asalanka,10934,Left-hand bat,Right-arm offbreak,ODI,76,68,2544,2799,127,43.86,90.89,10,212,63,5,16,5,0,0,0
+590,5,Sri Lanka,Charith Asalanka,10934,Left-hand bat,Right-arm offbreak,T20,59,58,1255,975,80,24.61,128.72,7,86,61,7,6,0,0,0,0
+591,5,Sri Lanka,Charith Asalanka,10934,Left-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+592,5,Sri Lanka,Janith Liyanage,13694,Right-hand bat,Right-arm fast-medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+593,5,Sri Lanka,Janith Liyanage,13694,Right-hand bat,Right-arm fast-medium,ODI,26,20,723,879,101,45.19,82.26,4,54,19,0,5,1,0,0,0
+594,5,Sri Lanka,Janith Liyanage,13694,Right-hand bat,Right-arm fast-medium,T20,3,3,28,45,11,9.33,62.23,0,0,0,0,0,0,0,0,0
+595,5,Sri Lanka,Janith Liyanage,13694,Right-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+596,5,Sri Lanka,Sonal Dinusha,13930,Left-hand bat,Left-arm orthodox,Test,1,1,11,16,11,11.0,68.75,0,1,0,0,0,0,0,0,0
+597,5,Sri Lanka,Sonal Dinusha,13930,Left-hand bat,Left-arm orthodox,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+598,5,Sri Lanka,Sonal Dinusha,13930,Left-hand bat,Left-arm orthodox,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+599,5,Sri Lanka,Sonal Dinusha,13930,Left-hand bat,Left-arm orthodox,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+600,5,Sri Lanka,Tharindu Rathnayake,18515,Left-hand bat,Right-arm offbreak,Test,2,2,10,27,10,5.0,37.04,0,0,1,1,0,0,0,0,0
+601,5,Sri Lanka,Tharindu Rathnayake,18515,Left-hand bat,Right-arm offbreak,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+602,5,Sri Lanka,Tharindu Rathnayake,18515,Left-hand bat,Right-arm offbreak,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+603,5,Sri Lanka,Tharindu Rathnayake,18515,Left-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+604,5,Sri Lanka,Milan Priyanath Rathnayake,39678,Left-hand bat,Right-arm fast-medium,Test,5,6,190,324,72,31.67,58.65,0,22,3,0,1,0,0,0,0
+605,5,Sri Lanka,Milan Priyanath Rathnayake,39678,Left-hand bat,Right-arm fast-medium,ODI,1,1,22,31,22,22.0,70.97,0,3,0,0,0,0,0,0,0
+606,5,Sri Lanka,Milan Priyanath Rathnayake,39678,Left-hand bat,Right-arm fast-medium,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+607,5,Sri Lanka,Milan Priyanath Rathnayake,39678,Left-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+608,5,Sri Lanka,Dunith Wellalage,14251,Left-hand bat,Left-arm orthodox,Test,1,2,29,47,18,14.5,61.71,0,3,0,0,0,0,0,0,0
+609,5,Sri Lanka,Dunith Wellalage,14251,Left-hand bat,Left-arm orthodox,ODI,31,24,386,483,67,20.32,79.92,5,30,10,3,1,0,0,0,0
+610,5,Sri Lanka,Dunith Wellalage,14251,Left-hand bat,Left-arm orthodox,T20,4,2,12,16,11,12.0,75.0,1,1,1,0,0,0,0,0,0
+611,5,Sri Lanka,Dunith Wellalage,14251,Left-hand bat,Left-arm orthodox,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+612,5,Sri Lanka,Wanindu Hasaranga,10926,Right-hand bat,Right-arm legbreak,Test,4,7,196,227,59,28.0,86.35,0,29,1,0,1,0,0,0,0
+613,5,Sri Lanka,Wanindu Hasaranga,10926,Right-hand bat,Right-arm legbreak,ODI,66,54,1030,952,80,22.39,108.2,8,90,36,3,4,0,0,0,0
+614,5,Sri Lanka,Wanindu Hasaranga,10926,Right-hand bat,Right-arm legbreak,T20,79,67,712,552,71,13.43,128.99,14,71,16,8,2,0,0,0,0
+615,5,Sri Lanka,Wanindu Hasaranga,10926,Right-hand bat,Right-arm legbreak,IPL,37,19,81,88,18,5.4,92.05,4,7,1,5,0,0,0,0,0
+616,5,Sri Lanka,Dinesh Chandimal,6245,Right-hand bat,Right-arm offbreak,Test,90,161,6361,12703,206,43.27,50.08,14,668,44,8,34,16,1,0,0
+617,5,Sri Lanka,Dinesh Chandimal,6245,Right-hand bat,Right-arm offbreak,ODI,157,142,3854,5192,111,31.59,74.23,20,264,43,11,24,4,0,0,0
+618,5,Sri Lanka,Dinesh Chandimal,6245,Right-hand bat,Right-arm offbreak,T20,68,61,1062,1025,66,19.67,103.61,7,90,22,0,6,0,0,0,0
+619,5,Sri Lanka,Dinesh Chandimal,6245,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+620,5,Sri Lanka,Kusal Mendis,9494,Right-hand bat,,Test,73,135,4757,8116,245,36.88,58.62,6,572,52,14,22,10,1,0,0
+621,5,Sri Lanka,Kusal Mendis,9494,Right-hand bat,,ODI,146,143,4654,5264,143,35.26,88.42,11,478,76,14,34,6,0,0,0
+622,5,Sri Lanka,Kusal Mendis,9494,Right-hand bat,,T20,79,79,1993,1509,86,26.22,132.08,3,170,84,6,16,0,0,0,0
+623,5,Sri Lanka,Kusal Mendis,9494,Right-hand bat,,IPL,1,1,20,10,20,20.0,200.0,0,1,2,0,0,0,0,0,0
+624,5,Sri Lanka,Lahiru Udara,15586,Right-hand bat,,Test,2,3,78,112,40,26.0,69.65,0,12,0,0,0,0,0,0,0
+625,5,Sri Lanka,Lahiru Udara,15586,Right-hand bat,,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+626,5,Sri Lanka,Lahiru Udara,15586,Right-hand bat,,T20,1,1,0,3,0,0.0,0.0,0,0,0,1,0,0,0,0,0
+627,5,Sri Lanka,Lahiru Udara,15586,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+628,5,Sri Lanka,Nishan Madushka,13236,Right-hand bat,,Test,10,18,571,1030,205,33.59,55.44,1,69,4,1,2,1,1,0,0
+629,5,Sri Lanka,Nishan Madushka,13236,Right-hand bat,,ODI,7,6,182,212,69,30.33,85.85,0,21,2,0,2,0,0,0,0
+630,5,Sri Lanka,Nishan Madushka,13236,Right-hand bat,,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+631,5,Sri Lanka,Nishan Madushka,13236,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+632,5,Sri Lanka,Sadeera Samarawickrama,9495,Right-hand bat,,Test,9,14,308,407,104,23.69,75.68,1,40,2,3,0,1,0,0,0
+633,5,Sri Lanka,Sadeera Samarawickrama,9495,Right-hand bat,,ODI,50,45,1261,1356,108,31.53,93.0,5,130,7,5,8,1,0,0,0
+634,5,Sri Lanka,Sadeera Samarawickrama,9495,Right-hand bat,,T20,19,17,259,240,61,17.27,107.92,2,27,2,2,1,0,0,0,0
+635,5,Sri Lanka,Sadeera Samarawickrama,9495,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+636,5,Sri Lanka,Asitha Fernando,10938,Right-hand bat,Right-arm fast-medium,Test,24,34,58,222,11,3.22,26.13,16,10,1,11,0,0,0,0,0
+637,5,Sri Lanka,Asitha Fernando,10938,Right-hand bat,Right-arm fast-medium,ODI,23,7,7,27,3,2.33,25.93,4,0,0,2,0,0,0,0,0
+638,5,Sri Lanka,Asitha Fernando,10938,Right-hand bat,Right-arm fast-medium,T20,7,3,11,5,10,0.0,220.0,3,2,0,0,0,0,0,0,0
+639,5,Sri Lanka,Asitha Fernando,10938,Right-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+640,5,Sri Lanka,Prabath Jayasuriya,11498,Right-hand bat,Left-arm orthodox,Test,22,34,255,772,28,7.97,33.04,2,27,0,6,0,0,0,0,0
+641,5,Sri Lanka,Prabath Jayasuriya,11498,Right-hand bat,Left-arm orthodox,ODI,2,2,10,13,10,10.0,76.93,1,1,0,1,0,0,0,0,0
+642,5,Sri Lanka,Prabath Jayasuriya,11498,Right-hand bat,Left-arm orthodox,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+643,5,Sri Lanka,Prabath Jayasuriya,11498,Right-hand bat,Left-arm orthodox,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+644,5,Sri Lanka,Kasun Rajitha,10472,Right-hand bat,Right-arm fast-medium,Test,17,24,133,551,22,7.0,24.14,5,14,0,6,0,0,0,0,0
+645,5,Sri Lanka,Kasun Rajitha,10472,Right-hand bat,Right-arm fast-medium,ODI,34,19,117,184,33,9.75,63.59,7,14,1,4,0,0,0,0,0
+646,5,Sri Lanka,Kasun Rajitha,10472,Right-hand bat,Right-arm fast-medium,T20,18,8,31,53,9,10.33,58.5,5,2,0,1,0,0,0,0,0
+647,5,Sri Lanka,Kasun Rajitha,10472,Right-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+648,5,Sri Lanka,Akila Dananjaya,8483,Left-hand bat,Right-arm offbreak,Test,6,10,135,254,43,16.88,53.15,2,14,0,3,0,0,0,0,0
+649,5,Sri Lanka,Akila Dananjaya,8483,Left-hand bat,Right-arm offbreak,ODI,42,32,323,451,50,12.42,71.62,6,29,3,3,1,0,0,0,0
+650,5,Sri Lanka,Akila Dananjaya,8483,Left-hand bat,Right-arm offbreak,T20,33,16,65,72,11,8.13,90.28,8,7,0,2,0,0,0,0,0
+651,5,Sri Lanka,Akila Dananjaya,8483,Left-hand bat,Right-arm offbreak,IPL,1,1,4,5,4,0.0,80.0,1,0,0,0,0,0,0,0,0
+652,5,Sri Lanka,Isitha Wijesundera,41309,Left-hand bat,Right-arm fast-medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+653,5,Sri Lanka,Isitha Wijesundera,41309,Left-hand bat,Right-arm fast-medium,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+654,5,Sri Lanka,Isitha Wijesundera,41309,Left-hand bat,Right-arm fast-medium,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+655,5,Sri Lanka,Isitha Wijesundera,41309,Left-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+656,5,Sri Lanka,Lahiru Kumara,10928,Left-hand bat,Right-arm fast-medium,Test,34,50,135,458,13,4.66,29.48,21,21,0,16,0,0,0,0,0
+657,5,Sri Lanka,Lahiru Kumara,10928,Left-hand bat,Right-arm fast-medium,ODI,32,19,62,140,10,5.64,44.29,8,8,1,1,0,0,0,0,0
+658,5,Sri Lanka,Lahiru Kumara,10928,Left-hand bat,Right-arm fast-medium,T20,26,6,10,11,4,3.33,90.91,3,2,0,1,0,0,0,0,0
+659,5,Sri Lanka,Lahiru Kumara,10928,Left-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+660,5,Sri Lanka,Nishan Peiris,13675,Left-hand bat,Right-arm offbreak,Test,3,4,9,40,5,3.0,22.5,1,1,0,2,0,0,0,0,0
+661,5,Sri Lanka,Nishan Peiris,13675,Left-hand bat,Right-arm offbreak,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+662,5,Sri Lanka,Nishan Peiris,13675,Left-hand bat,Right-arm offbreak,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+663,5,Sri Lanka,Nishan Peiris,13675,Left-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+664,5,Sri Lanka,Vishwa Fernando,8413,Right-hand bat,Left-arm fast-medium,Test,28,40,161,618,38,7.0,26.06,17,16,1,13,0,0,0,0,0
+665,5,Sri Lanka,Vishwa Fernando,8413,Right-hand bat,Left-arm fast-medium,ODI,8,8,30,61,7,15.0,49.19,6,3,0,1,0,0,0,0,0
+666,5,Sri Lanka,Vishwa Fernando,8413,Right-hand bat,Left-arm fast-medium,T20,1,1,2,2,2,2.0,100.0,0,0,0,0,0,0,0,0,0
+667,5,Sri Lanka,Vishwa Fernando,8413,Right-hand bat,Left-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+668,5,Sri Lanka,Jeffrey Vandersay,10469,Right-hand bat,Right-arm legbreak,Test,2,4,71,77,53,17.75,92.21,0,10,2,0,1,0,0,0,0
+669,5,Sri Lanka,Jeffrey Vandersay,10469,Right-hand bat,Right-arm legbreak,ODI,27,15,112,234,25,11.2,47.87,5,5,0,2,0,0,0,0,0
+670,5,Sri Lanka,Jeffrey Vandersay,10469,Right-hand bat,Right-arm legbreak,T20,15,8,20,20,8,20.0,100.0,7,3,0,0,0,0,0,0,0
+671,5,Sri Lanka,Jeffrey Vandersay,10469,Right-hand bat,Right-arm legbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+672,5,Sri Lanka,Mohamed Shiraz,14574,Right-hand bat,Right-arm fast-medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+673,5,Sri Lanka,Mohamed Shiraz,14574,Right-hand bat,Right-arm fast-medium,ODI,2,1,1,1,1,0.0,100.0,1,0,0,0,0,0,0,0,0
+674,5,Sri Lanka,Mohamed Shiraz,14574,Right-hand bat,Right-arm fast-medium,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+675,5,Sri Lanka,Mohamed Shiraz,14574,Right-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+676,5,Sri Lanka,Eshan Malinga,46926,Left-hand bat,Right-arm fast-medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+677,5,Sri Lanka,Eshan Malinga,46926,Left-hand bat,Right-arm fast-medium,ODI,6,5,15,54,5,5.0,27.78,2,2,0,0,0,0,0,0,0
+678,5,Sri Lanka,Eshan Malinga,46926,Left-hand bat,Right-arm fast-medium,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+679,5,Sri Lanka,Eshan Malinga,46926,Left-hand bat,Right-arm fast-medium,IPL,7,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+680,5,Sri Lanka,Maheesh Theekshana,18504,Right-hand bat,Right-arm offbreak,Test,2,3,59,149,38,19.67,39.6,0,6,1,0,0,0,0,0,0
+681,5,Sri Lanka,Maheesh Theekshana,18504,Right-hand bat,Right-arm offbreak,ODI,55,31,317,592,38,15.85,53.55,11,22,3,4,0,0,0,0,0
+682,5,Sri Lanka,Maheesh Theekshana,18504,Right-hand bat,Right-arm offbreak,T20,61,26,66,103,14,3.88,64.08,9,4,2,7,0,0,0,0,0
+683,5,Sri Lanka,Maheesh Theekshana,18504,Right-hand bat,Right-arm offbreak,IPL,38,6,17,34,7,5.67,50.0,3,0,1,1,0,0,0,0,0
+684,6,Bangladesh,Najmul Hossain Shanto,9864,Left-hand bat,Right-arm offbreak,Test,37,70,2189,4158,163,32.19,52.65,2,246,29,7,5,7,0,0,0
+685,6,Bangladesh,Najmul Hossain Shanto,9864,Left-hand bat,Right-arm offbreak,ODI,52,51,1602,2021,122,33.38,79.27,3,171,15,7,10,3,0,0,0
+686,6,Bangladesh,Najmul Hossain Shanto,9864,Left-hand bat,Right-arm offbreak,T20,50,48,987,905,71,22.95,109.07,5,89,20,0,4,0,0,0,0
+687,6,Bangladesh,Najmul Hossain Shanto,9864,Left-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+688,6,Bangladesh,Mominul Haque,8219,Left-hand bat,Left-arm orthodox,Test,73,136,4627,8544,181,36.72,54.16,10,541,19,18,22,13,0,0,0
+689,6,Bangladesh,Mominul Haque,8219,Left-hand bat,Left-arm orthodox,ODI,28,26,557,749,60,22.28,74.37,1,60,1,1,3,0,0,0,0
+690,6,Bangladesh,Mominul Haque,8219,Left-hand bat,Left-arm orthodox,T20,6,4,60,50,26,20.0,120.0,1,5,2,0,0,0,0,0,0
+691,6,Bangladesh,Mominul Haque,8219,Left-hand bat,Left-arm orthodox,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+692,6,Bangladesh,Towhid Hridoy,13223,Right-hand bat,Right-arm offbreak,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+693,6,Bangladesh,Towhid Hridoy,13223,Right-hand bat,Right-arm offbreak,ODI,38,34,1087,1343,100,35.06,80.94,3,65,23,1,9,1,0,0,0
+694,6,Bangladesh,Towhid Hridoy,13223,Right-hand bat,Right-arm offbreak,T20,39,36,806,629,63,26.0,128.14,5,55,33,2,3,0,0,0,0
+695,6,Bangladesh,Towhid Hridoy,13223,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+696,6,Bangladesh,Shadman Islam,9868,Left-hand bat,Left-arm orthodox,Test,24,46,1207,2560,120,27.43,47.15,2,139,2,5,6,2,0,0,0
+697,6,Bangladesh,Shadman Islam,9868,Left-hand bat,Left-arm orthodox,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+698,6,Bangladesh,Shadman Islam,9868,Left-hand bat,Left-arm orthodox,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+699,6,Bangladesh,Shadman Islam,9868,Left-hand bat,Left-arm orthodox,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+700,6,Bangladesh,Soumya Sarkar,8233,Left-hand bat,Right-arm medium,Test,16,30,831,1442,149,27.7,57.63,0,109,9,2,4,1,0,0,0
+701,6,Bangladesh,Soumya Sarkar,8233,Left-hand bat,Right-arm medium,ODI,76,71,2198,2282,169,32.32,96.32,3,256,52,9,13,3,0,0,0
+702,6,Bangladesh,Soumya Sarkar,8233,Left-hand bat,Right-arm medium,T20,87,86,1462,1197,68,17.83,122.14,4,145,55,13,5,0,0,0,0
+703,6,Bangladesh,Soumya Sarkar,8233,Left-hand bat,Right-arm medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+704,6,Bangladesh,Tanzid Hasan Tamim,14205,Left-hand bat,,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+705,6,Bangladesh,Tanzid Hasan Tamim,14205,Left-hand bat,,ODI,25,25,548,547,84,21.92,100.19,0,71,16,3,4,0,0,0,0
+706,6,Bangladesh,Tanzid Hasan Tamim,14205,Left-hand bat,,T20,25,25,576,447,67,25.04,128.86,2,63,26,3,4,0,0,0,0
+707,6,Bangladesh,Tanzid Hasan Tamim,14205,Left-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+708,6,Bangladesh,Mahmudullah,1121,Right-hand bat,Right-arm offbreak,Test,50,94,2914,5456,150,33.11,53.41,6,338,24,11,16,5,0,0,0
+709,6,Bangladesh,Mahmudullah,1121,Right-hand bat,Right-arm offbreak,ODI,239,209,5689,7330,128,36.47,77.62,53,426,107,10,32,4,0,0,0
+710,6,Bangladesh,Mahmudullah,1121,Right-hand bat,Right-arm offbreak,T20,141,130,2443,2083,64,23.49,117.29,26,184,77,5,8,0,0,0,0
+711,6,Bangladesh,Mahmudullah,1121,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+712,6,Bangladesh,Mahedi Hasan,11871,Right-hand bat,Right-arm offbreak,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+713,6,Bangladesh,Mahedi Hasan,11871,Right-hand bat,Right-arm offbreak,ODI,11,10,122,188,29,15.25,64.9,2,10,2,0,0,0,0,0,0
+714,6,Bangladesh,Mahedi Hasan,11871,Right-hand bat,Right-arm offbreak,T20,57,41,368,373,30,11.87,98.66,10,27,11,7,0,0,0,0,0
+715,6,Bangladesh,Mahedi Hasan,11871,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+716,6,Bangladesh,Mehidy Hasan Miraz,11081,Right-hand bat,Right-arm offbreak,Test,54,98,2110,4159,104,23.98,50.74,10,247,22,6,9,2,0,0,0
+717,6,Bangladesh,Mehidy Hasan Miraz,11081,Right-hand bat,Right-arm offbreak,ODI,108,79,1654,2142,112,23.97,77.22,10,142,28,5,6,2,0,0,0
+718,6,Bangladesh,Mehidy Hasan Miraz,11081,Right-hand bat,Right-arm offbreak,T20,32,27,407,348,46,17.7,116.96,4,35,10,2,0,0,0,0,0
+719,6,Bangladesh,Mehidy Hasan Miraz,11081,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+720,6,Bangladesh,Litton Das,8540,Right-hand bat,,Test,50,88,2929,4967,141,33.67,58.97,1,358,18,2,18,4,0,0,0
+721,6,Bangladesh,Litton Das,8540,Right-hand bat,,ODI,95,94,2569,2990,176,29.19,85.92,6,274,45,16,12,5,0,0,0
+722,6,Bangladesh,Litton Das,8540,Right-hand bat,,T20,102,100,2168,1737,83,22.35,124.82,3,216,65,6,11,0,0,0,0
+723,6,Bangladesh,Litton Das,8540,Right-hand bat,,IPL,1,1,4,4,4,4.0,100.0,0,1,0,0,0,0,0,0,0
+724,6,Bangladesh,Mushfiqur Rahim,394,Right-hand bat,,Test,98,181,6328,13069,219,37.89,48.42,14,737,37,13,27,12,3,0,0
+725,6,Bangladesh,Mushfiqur Rahim,394,Right-hand bat,,ODI,274,256,7795,9780,144,36.26,79.71,41,617,100,12,49,9,0,0,0
+726,6,Bangladesh,Mushfiqur Rahim,394,Right-hand bat,,T20,102,93,1500,1305,72,19.23,114.95,15,126,37,8,6,0,0,0,0
+727,6,Bangladesh,Mushfiqur Rahim,394,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+728,6,Bangladesh,Jaker Ali,11088,Right-hand bat,,Test,6,11,337,595,91,30.64,56.64,0,36,6,0,4,0,0,0,0
+729,6,Bangladesh,Jaker Ali,11088,Right-hand bat,,ODI,10,10,366,443,68,45.75,82.62,2,24,14,0,3,0,0,0,0
+730,6,Bangladesh,Jaker Ali,11088,Right-hand bat,,T20,28,26,497,390,72,27.61,127.44,8,24,32,1,2,0,0,0,0
+731,6,Bangladesh,Jaker Ali,11088,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+732,6,Bangladesh,Anamul Haque,8237,Right-hand bat,,Test,8,15,162,399,39,10.8,40.61,0,20,1,3,0,0,0,0,0
+733,6,Bangladesh,Anamul Haque,8237,Right-hand bat,,ODI,49,46,1352,1808,120,29.39,74.78,0,136,27,6,5,3,0,0,0
+734,6,Bangladesh,Anamul Haque,8237,Right-hand bat,,T20,20,20,445,395,58,24.72,112.66,2,46,14,1,1,0,0,0,0
+735,6,Bangladesh,Anamul Haque,8237,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+736,6,Bangladesh,Mahidul Islam Ankon,12174,Right-hand bat,,Test,1,2,29,66,29,14.5,43.94,0,1,2,1,0,0,0,0,0
+737,6,Bangladesh,Mahidul Islam Ankon,12174,Right-hand bat,,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+738,6,Bangladesh,Mahidul Islam Ankon,12174,Right-hand bat,,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+739,6,Bangladesh,Mahidul Islam Ankon,12174,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+740,6,Bangladesh,Taskin Ahmed,8548,Left-hand bat,Right-arm fast,Test,17,29,261,565,75,10.88,46.2,5,27,3,3,1,0,0,0,0
+741,6,Bangladesh,Taskin Ahmed,8548,Left-hand bat,Right-arm fast,ODI,81,45,233,413,21,7.28,56.42,13,15,8,9,0,0,0,0,0
+742,6,Bangladesh,Taskin Ahmed,8548,Left-hand bat,Right-arm fast,T20,74,35,193,204,31,10.16,94.61,16,17,6,6,0,0,0,0,0
+743,6,Bangladesh,Taskin Ahmed,8548,Left-hand bat,Right-arm fast,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+744,6,Bangladesh,Taijul Islam,8253,Left-hand bat,Left-arm orthodox,Test,55,94,841,2238,47,10.13,37.58,11,94,2,13,0,0,0,0,0
+745,6,Bangladesh,Taijul Islam,8253,Left-hand bat,Left-arm orthodox,ODI,20,12,110,174,39,10.0,63.22,1,10,1,1,0,0,0,0,0
+746,6,Bangladesh,Taijul Islam,8253,Left-hand bat,Left-arm orthodox,T20,2,1,0,1,0,0.0,0.0,1,0,0,0,0,0,0,0,0
+747,6,Bangladesh,Taijul Islam,8253,Left-hand bat,Left-arm orthodox,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+748,6,Bangladesh,Mustafizur Rahman,9863,Left-hand bat,Left-arm fast-medium,Test,15,22,66,162,16,4.4,40.75,7,3,5,8,0,0,0,0,0
+749,6,Bangladesh,Mustafizur Rahman,9863,Left-hand bat,Left-arm fast-medium,ODI,112,57,166,339,20,7.55,48.97,35,18,1,10,0,0,0,0,0
+750,6,Bangladesh,Mustafizur Rahman,9863,Left-hand bat,Left-arm fast-medium,T20,107,32,87,117,15,4.58,74.36,13,3,5,7,0,0,0,0,0
+751,6,Bangladesh,Mustafizur Rahman,9863,Left-hand bat,Left-arm fast-medium,IPL,60,10,13,24,8,6.5,54.17,8,0,1,1,0,0,0,0,0
+752,6,Bangladesh,Hasan Mahmud,13226,Right-hand bat,Right-arm fast-medium,Test,12,20,145,372,38,12.08,38.98,8,15,4,2,0,0,0,0,0
+753,6,Bangladesh,Hasan Mahmud,13226,Right-hand bat,Right-arm fast-medium,ODI,24,15,49,107,15,4.45,45.8,4,6,0,5,0,0,0,0,0
+754,6,Bangladesh,Hasan Mahmud,13226,Right-hand bat,Right-arm fast-medium,T20,26,9,50,51,26,25.0,98.04,7,0,4,1,0,0,0,0,0
+755,6,Bangladesh,Hasan Mahmud,13226,Right-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+756,6,Bangladesh,Nahid Rana,37581,Right-hand bat,Right-arm fast,Test,9,15,13,82,11,1.86,15.86,8,2,0,6,0,0,0,0,0
+757,6,Bangladesh,Nahid Rana,37581,Right-hand bat,Right-arm fast,ODI,4,2,4,9,4,0.0,44.45,2,1,0,0,0,0,0,0,0
+758,6,Bangladesh,Nahid Rana,37581,Right-hand bat,Right-arm fast,T20,1,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+759,6,Bangladesh,Nahid Rana,37581,Right-hand bat,Right-arm fast,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+760,6,Bangladesh,Shoriful Islam,13791,Left-hand bat,Left-arm fast-medium,Test,12,19,144,200,26,8.47,72.0,2,16,4,3,0,0,0,0,0
+761,6,Bangladesh,Shoriful Islam,13791,Left-hand bat,Left-arm fast-medium,ODI,40,23,101,120,16,7.77,84.17,10,8,4,1,0,0,0,0,0
+762,6,Bangladesh,Shoriful Islam,13791,Left-hand bat,Left-arm fast-medium,T20,46,19,58,48,16,5.27,120.84,8,7,2,4,0,0,0,0,0
+763,6,Bangladesh,Shoriful Islam,13791,Left-hand bat,Left-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+764,6,Bangladesh,Rishad Hossain,13794,Right-hand bat,Right-arm legbreak,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+765,6,Bangladesh,Rishad Hossain,13794,Right-hand bat,Right-arm legbreak,ODI,9,7,99,70,48,19.8,141.43,2,8,8,1,0,0,0,0,0
+766,6,Bangladesh,Rishad Hossain,13794,Right-hand bat,Right-arm legbreak,T20,36,23,162,126,53,9.0,128.58,5,9,13,4,1,0,0,0,0
+767,6,Bangladesh,Rishad Hossain,13794,Right-hand bat,Right-arm legbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+768,6,Bangladesh,Tanzim Hasan Sakib,15274,Right-hand bat,Right-arm fast-medium,Test,1,1,41,80,41,41.0,51.25,0,2,1,0,0,0,0,0,0
+769,6,Bangladesh,Tanzim Hasan Sakib,15274,Right-hand bat,Right-arm fast-medium,ODI,13,9,134,159,45,22.33,84.28,3,9,6,1,0,0,0,0,0
+770,6,Bangladesh,Tanzim Hasan Sakib,15274,Right-hand bat,Right-arm fast-medium,T20,25,16,132,129,50,14.67,102.33,7,7,7,1,1,0,0,0,0
+771,6,Bangladesh,Tanzim Hasan Sakib,15274,Right-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+772,6,Bangladesh,Nasum Ahmed ,8543,Left-hand bat,Left-arm orthodox,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+773,6,Bangladesh,Nasum Ahmed ,8543,Left-hand bat,Left-arm orthodox,ODI,18,11,186,205,44,20.67,90.74,2,18,7,0,0,0,0,0,0
+774,6,Bangladesh,Nasum Ahmed ,8543,Left-hand bat,Left-arm orthodox,T20,35,16,64,69,19,9.14,92.76,9,4,2,4,0,0,0,0,0
+775,6,Bangladesh,Nasum Ahmed ,8543,Left-hand bat,Left-arm orthodox,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+776,6,Bangladesh,Khaled Ahmed,13105,Right-hand bat,Right-arm medium,Test,16,28,47,166,22,2.47,28.32,9,6,2,14,0,0,0,0,0
+777,6,Bangladesh,Khaled Ahmed,13105,Right-hand bat,Right-arm medium,ODI,2,2,1,4,1,1.0,25.0,1,0,0,0,0,0,0,0,0
+778,6,Bangladesh,Khaled Ahmed,13105,Right-hand bat,Right-arm medium,T20,1,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+779,6,Bangladesh,Khaled Ahmed,13105,Right-hand bat,Right-arm medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+780,6,Bangladesh,Nayeem Hasan,12081,Right-hand bat,Right-arm offbreak,Test,14,22,235,581,26,13.82,40.45,5,21,0,1,0,0,0,0,0
+781,6,Bangladesh,Nayeem Hasan,12081,Right-hand bat,Right-arm offbreak,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+782,6,Bangladesh,Nayeem Hasan,12081,Right-hand bat,Right-arm offbreak,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+783,6,Bangladesh,Nayeem Hasan,12081,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+784,6,Bangladesh,Ebadot Hossain,11786,Right-hand bat,Right-arm fast-medium,Test,21,34,64,249,21,3.56,25.71,16,8,1,10,0,0,0,0,0
+785,6,Bangladesh,Ebadot Hossain,11786,Right-hand bat,Right-arm fast-medium,ODI,12,6,3,14,1,1.5,21.43,4,0,0,2,0,0,0,0,0
+786,6,Bangladesh,Ebadot Hossain,11786,Right-hand bat,Right-arm fast-medium,T20,4,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+787,6,Bangladesh,Ebadot Hossain,11786,Right-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+788,9,England,Jamie Overton,8512,Right-hand bat,Right-arm fast,Test,1,1,97,136,97,97.0,71.33,0,13,2,0,1,0,0,0,0
+789,9,England,Jamie Overton,8512,Right-hand bat,Right-arm fast,ODI,6,6,82,83,32,13.67,98.8,0,8,1,1,0,0,0,0,0
+790,9,England,Jamie Overton,8512,Right-hand bat,Right-arm fast,T20,12,8,50,47,19,8.33,106.39,2,3,1,1,0,0,0,0,0
+791,9,England,Jamie Overton,8512,Right-hand bat,Right-arm fast,IPL,3,2,15,7,11,0.0,214.29,2,1,1,0,0,0,0,0,0
+792,9,England,Gus Atkinson,13681,Right-hand bat,Right-arm fast-medium,Test,12,16,352,445,118,23.47,79.11,1,39,9,1,0,1,0,0,0
+793,9,England,Gus Atkinson,13681,Right-hand bat,Right-arm fast-medium,ODI,11,8,104,76,38,17.33,136.85,2,16,2,1,0,0,0,0,0
+794,9,England,Gus Atkinson,13681,Right-hand bat,Right-arm fast-medium,T20,4,2,10,23,8,10.0,43.48,1,0,0,0,0,0,0,0,0
+795,9,England,Gus Atkinson,13681,Right-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+796,9,England,Mark Wood,8383,Right-hand bat,Right-arm fast,Test,37,62,807,1141,52,15.82,70.73,11,107,20,10,1,0,0,0,0
+797,9,England,Mark Wood,8383,Right-hand bat,Right-arm fast,ODI,70,29,168,167,43,12.92,100.6,16,16,5,5,0,0,0,0,0
+798,9,England,Mark Wood,8383,Right-hand bat,Right-arm fast,T20,38,7,27,28,10,13.5,96.43,5,2,0,1,0,0,0,0,0
+799,9,England,Mark Wood,8383,Right-hand bat,Right-arm fast,IPL,5,3,12,8,10,6.0,150.0,1,1,1,0,0,0,0,0,0
+800,9,England,Rehan Ahmed,19767,Right-hand bat,Right-arm legbreak,Test,5,10,103,182,28,10.3,56.6,0,14,0,1,0,0,0,0,0
+801,9,England,Rehan Ahmed,19767,Right-hand bat,Right-arm legbreak,ODI,6,4,35,46,15,8.75,76.09,0,2,1,0,0,0,0,0,0
+802,9,England,Rehan Ahmed,19767,Right-hand bat,Right-arm legbreak,T20,10,6,38,29,11,9.5,131.04,2,4,2,1,0,0,0,0,0
+803,9,England,Rehan Ahmed,19767,Right-hand bat,Right-arm legbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+804,9,England,Jofra Archer,11540,Right-hand bat,Right-arm fast,Test,14,21,159,317,30,7.75,50.16,0,22,1,3,0,0,0,0,0
+805,9,England,Jofra Archer,11540,Right-hand bat,Right-arm fast,ODI,31,18,162,150,38,18.0,108.0,9,18,5,2,0,0,0,0,0
+806,9,England,Jofra Archer,11540,Right-hand bat,Right-arm fast,T20,34,12,82,62,21,11.71,132.26,5,6,4,3,0,0,0,0,0
+807,9,England,Jofra Archer,11540,Right-hand bat,Right-arm fast,IPL,52,32,262,178,30,13.79,147.2,13,14,18,5,0,0,0,0,0
+808,9,England,Jack Leach,8578,Left-hand bat,Left-arm orthodox,Test,38,59,498,1334,92,13.46,37.34,22,64,2,7,1,0,0,0,0
+809,9,England,Jack Leach,8578,Left-hand bat,Left-arm orthodox,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+810,9,England,Jack Leach,8578,Left-hand bat,Left-arm orthodox,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+811,9,England,Jack Leach,8578,Left-hand bat,Left-arm orthodox,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+812,9,England,Matthew Potts,12777,Right-hand bat,Right-arm fast-medium,Test,10,13,86,168,21,8.6,51.2,3,12,1,2,0,0,0,0,0
+813,9,England,Matthew Potts,12777,Right-hand bat,Right-arm fast-medium,ODI,11,6,45,62,15,45.0,72.59,5,1,1,0,0,0,0,0,0
+814,9,England,Matthew Potts,12777,Right-hand bat,Right-arm fast-medium,T20,1,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+815,9,England,Matthew Potts,12777,Right-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+816,9,England,Adil Rashid,1742,Right-hand bat,Right-arm legbreak,Test,19,33,540,1270,61,19.29,42.52,5,62,4,3,2,0,0,0,0
+817,9,England,Adil Rashid,1742,Right-hand bat,Right-arm legbreak,ODI,152,81,946,984,69,17.52,96.14,27,93,13,8,1,0,0,0,0
+818,9,England,Adil Rashid,1742,Right-hand bat,Right-arm legbreak,T20,127,41,155,175,22,7.38,88.58,20,12,1,3,0,0,0,0,0
+819,9,England,Adil Rashid,1742,Right-hand bat,Right-arm legbreak,IPL,3,2,22,16,18,11.0,137.5,0,2,1,0,0,0,0,0,0
+820,9,England,Olly Stone,8022,Right-hand bat,Right-arm fast,Test,5,10,102,234,20,11.33,43.59,1,12,1,2,0,0,0,0,0
+821,9,England,Olly Stone,8022,Right-hand bat,Right-arm fast,ODI,10,6,24,35,9,8.0,68.58,3,2,0,0,0,0,0,0,0
+822,9,England,Olly Stone,8022,Right-hand bat,Right-arm fast,T20,1,1,0,1,0,0.0,0.0,0,0,0,1,0,0,0,0,0
+823,9,England,Olly Stone,8022,Right-hand bat,Right-arm fast,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+824,9,England,Reece Topley,8349,Right-hand bat,Left-arm fast-medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+825,9,England,Reece Topley,8349,Right-hand bat,Left-arm fast-medium,ODI,30,14,35,70,15,11.67,50.0,11,3,1,1,0,0,0,0,0
+826,9,England,Reece Topley,8349,Right-hand bat,Left-arm fast-medium,T20,35,10,17,20,9,8.5,85.0,8,1,0,1,0,0,0,0,0
+827,9,England,Reece Topley,8349,Right-hand bat,Left-arm fast-medium,IPL,6,1,3,6,3,0.0,50.0,1,0,0,0,0,0,0,0,0
+828,9,England,Josh Hull,42740,Left-hand bat,Left-arm fast-medium,Test,1,2,9,16,7,9.0,56.25,1,0,1,0,0,0,0,0,0
+829,9,England,Josh Hull,42740,Left-hand bat,Left-arm fast-medium,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+830,9,England,Josh Hull,42740,Left-hand bat,Left-arm fast-medium,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+831,9,England,Josh Hull,42740,Left-hand bat,Left-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+832,9,England,John Turner,19587,Right-hand bat,Right-arm fast-medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+833,9,England,John Turner,19587,Right-hand bat,Right-arm fast-medium,ODI,2,1,2,5,2,0.0,40.0,1,0,0,0,0,0,0,0,0
+834,9,England,John Turner,19587,Right-hand bat,Right-arm fast-medium,T20,2,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+835,9,England,John Turner,19587,Right-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+836,10,West Indies,Brandon King,9791,Right-hand bat,,Test,2,4,115,172,75,28.75,66.87,0,15,3,1,1,0,0,0,0
+837,10,West Indies,Brandon King,9791,Right-hand bat,,ODI,52,52,1458,1744,112,29.16,83.61,2,177,29,5,8,3,0,0,0
+838,10,West Indies,Brandon King,9791,Right-hand bat,,T20,63,61,1499,1118,85,26.3,134.08,4,165,62,5,11,0,0,0,0
+839,10,West Indies,Brandon King,9791,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+840,10,West Indies,Alick Athanaze,13352,Left-hand bat,Right-arm offbreak,Test,13,25,627,1171,92,25.08,53.55,0,71,3,2,4,0,0,0,0
+841,10,West Indies,Alick Athanaze,13352,Left-hand bat,Right-arm offbreak,ODI,13,13,306,368,66,23.54,83.16,0,37,6,0,2,0,0,0,0
+842,10,West Indies,Alick Athanaze,13352,Left-hand bat,Right-arm offbreak,T20,4,4,75,61,40,25.0,122.96,1,4,5,0,0,0,0,0,0
+843,10,West Indies,Alick Athanaze,13352,Left-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+844,10,West Indies,Kraigg Brathwaite,1984,Right-hand bat,Right-arm offbreak,Test,100,193,5950,14571,212,32.51,40.84,10,595,17,19,31,12,1,0,0
+845,10,West Indies,Kraigg Brathwaite,1984,Right-hand bat,Right-arm offbreak,ODI,10,10,278,483,78,27.8,57.56,0,15,0,0,1,0,0,0,0
+846,10,West Indies,Kraigg Brathwaite,1984,Right-hand bat,Right-arm offbreak,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+847,10,West Indies,Kraigg Brathwaite,1984,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+848,10,West Indies,Kavem Hodge,8434,Right-hand bat,Left-arm orthodox,Test,11,22,556,1110,120,25.27,50.1,0,72,2,2,3,1,0,0,0
+849,10,West Indies,Kavem Hodge,8434,Right-hand bat,Left-arm orthodox,ODI,4,3,37,47,26,12.33,78.73,0,5,0,1,0,0,0,0,0
+850,10,West Indies,Kavem Hodge,8434,Right-hand bat,Left-arm orthodox,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+851,10,West Indies,Kavem Hodge,8434,Right-hand bat,Left-arm orthodox,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+852,10,West Indies,Rovman Powell,11445,Right-hand bat,Right-arm fast-medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+853,10,West Indies,Rovman Powell,11445,Right-hand bat,Right-arm fast-medium,ODI,51,48,979,1153,101,21.76,84.91,3,63,42,3,2,1,0,0,0
+854,10,West Indies,Rovman Powell,11445,Right-hand bat,Right-arm fast-medium,T20,95,83,1875,1317,107,26.41,142.37,12,113,123,2,9,1,0,0,0
+855,10,West Indies,Rovman Powell,11445,Right-hand bat,Right-arm fast-medium,IPL,28,23,365,249,67,18.25,146.59,3,22,28,2,1,0,0,0,0
+856,10,West Indies,Shimron Hetmyer,9789,Left-hand bat,,Test,16,30,838,1138,93,27.93,73.64,0,85,27,0,5,0,0,0,0
+857,10,West Indies,Shimron Hetmyer,9789,Left-hand bat,,ODI,57,52,1543,1464,139,31.49,105.4,3,117,56,3,4,5,0,0,0
+858,10,West Indies,Shimron Hetmyer,9789,Left-hand bat,,T20,64,54,983,810,81,20.06,121.36,5,67,50,4,5,0,0,0,0
+859,10,West Indies,Shimron Hetmyer,9789,Left-hand bat,,IPL,86,79,1482,976,75,29.06,151.85,28,93,93,3,5,0,0,0,0
+860,10,West Indies,Evin Lewis,8579,Left-hand bat,,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+861,10,West Indies,Evin Lewis,8579,Left-hand bat,,ODI,67,64,2175,2523,176,36.25,86.21,4,213,70,3,11,5,0,0,0
+862,10,West Indies,Evin Lewis,8579,Left-hand bat,,T20,65,64,1782,1155,125,29.21,154.29,3,135,136,6,13,2,0,0,0
+863,10,West Indies,Evin Lewis,8579,Left-hand bat,,IPL,27,26,654,477,65,27.25,137.11,2,62,36,2,4,0,0,0,0
+864,10,West Indies,Keacy Carty,11217,Right-hand bat,Right-arm medium,Test,7,14,235,513,42,16.79,45.81,0,23,1,2,0,0,0,0,0
+865,10,West Indies,Keacy Carty,11217,Right-hand bat,Right-arm medium,ODI,37,34,1432,1731,170,49.38,82.73,5,128,25,1,5,4,0,0,0
+866,10,West Indies,Keacy Carty,11217,Right-hand bat,Right-arm medium,T20,1,1,49,22,49,0.0,222.73,1,4,4,0,0,0,0,0,0
+867,10,West Indies,Keacy Carty,11217,Right-hand bat,Right-arm medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+868,10,West Indies,Justin Greaves,8433,Right-hand bat,Right-arm medium,Test,8,16,276,530,115,19.71,52.08,2,24,0,0,0,1,0,0,0
+869,10,West Indies,Justin Greaves,8433,Right-hand bat,Right-arm medium,ODI,13,12,246,246,50,24.6,100.0,2,28,4,0,1,0,0,0,0
+870,10,West Indies,Justin Greaves,8433,Right-hand bat,Right-arm medium,T20,1,1,6,5,6,6.0,120.0,0,0,0,0,0,0,0,0,0
+871,10,West Indies,Justin Greaves,8433,Right-hand bat,Right-arm medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+872,10,West Indies,Sherfane Rutherford,13748,Left-hand bat,Right-arm fast-medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+873,10,West Indies,Sherfane Rutherford,13748,Left-hand bat,Right-arm fast-medium,ODI,13,11,567,517,113,70.88,109.68,3,49,27,0,6,1,0,0,0
+874,10,West Indies,Sherfane Rutherford,13748,Left-hand bat,Right-arm fast-medium,T20,31,26,437,315,68,21.85,138.74,6,27,29,2,2,0,0,0,0
+875,10,West Indies,Sherfane Rutherford,13748,Left-hand bat,Right-arm fast-medium,IPL,23,20,397,289,46,24.81,137.38,4,25,26,1,0,0,0,0,0
+876,10,West Indies,John Campbell,8431,Left-hand bat,Right-arm offbreak,Test,22,44,958,1809,68,25.21,52.96,6,115,8,3,3,0,0,0,0
+877,10,West Indies,John Campbell,8431,Left-hand bat,Right-arm offbreak,ODI,6,5,248,214,179,49.6,115.89,0,25,8,0,0,1,0,0,0
+878,10,West Indies,John Campbell,8431,Left-hand bat,Right-arm offbreak,T20,2,2,11,16,11,5.5,68.75,0,2,0,1,0,0,0,0,0
+879,10,West Indies,John Campbell,8431,Left-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+880,10,West Indies,Gudakesh Motie,9793,Left-hand bat,Left-arm orthodox,Test,11,17,265,418,55,22.08,63.4,5,34,1,2,1,0,0,0,0
+881,10,West Indies,Gudakesh Motie,9793,Left-hand bat,Left-arm orthodox,ODI,28,17,296,281,63,24.67,105.34,5,30,13,1,2,0,0,0,0
+882,10,West Indies,Gudakesh Motie,9793,Left-hand bat,Left-arm orthodox,T20,33,15,107,92,33,9.73,116.31,4,8,6,2,0,0,0,0,0
+883,10,West Indies,Gudakesh Motie,9793,Left-hand bat,Left-arm orthodox,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+884,10,West Indies,Roston Chase,11543,Right-hand bat,Right-arm offbreak,Test,51,94,2361,5060,137,26.23,46.67,4,246,21,12,11,5,0,0,0
+885,10,West Indies,Roston Chase,11543,Right-hand bat,Right-arm offbreak,ODI,60,45,953,1253,94,25.76,76.06,8,72,6,5,5,0,0,0,0
+886,10,West Indies,Roston Chase,11543,Right-hand bat,Right-arm offbreak,T20,35,26,440,377,67,23.16,116.72,7,36,13,4,2,0,0,0,0
+887,10,West Indies,Roston Chase,11543,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+888,10,West Indies,Romario Shepherd,13646,Right-hand bat,Right-arm fast-medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+889,10,West Indies,Romario Shepherd,13646,Right-hand bat,Right-arm fast-medium,ODI,37,26,404,391,50,17.57,103.33,3,39,13,3,1,0,0,0,0
+890,10,West Indies,Romario Shepherd,13646,Right-hand bat,Right-arm fast-medium,T20,57,38,591,420,44,25.7,140.72,15,27,44,4,0,0,0,0,0
+891,10,West Indies,Romario Shepherd,13646,Right-hand bat,Right-arm fast-medium,IPL,18,12,185,87,53,26.43,212.65,5,12,17,2,1,0,0,0,0
+892,10,West Indies,Jason Holder,8313,Right-hand bat,Right-arm fast-medium,Test,69,123,3073,5595,202,29.83,54.93,20,359,55,11,14,3,1,0,0
+893,10,West Indies,Jason Holder,8313,Right-hand bat,Right-arm fast-medium,ODI,138,114,2237,2479,99,24.86,90.24,24,160,69,11,12,0,0,0,0
+894,10,West Indies,Jason Holder,8313,Right-hand bat,Right-arm fast-medium,T20,67,48,579,427,38,18.09,135.6,16,37,34,7,0,0,0,0,0
+895,10,West Indies,Jason Holder,8313,Right-hand bat,Right-arm fast-medium,IPL,46,27,259,210,47,12.33,123.34,6,13,18,2,0,0,0,0,0
+896,10,West Indies,Andre Russell,7736,Right-hand bat,Right-arm fast,Test,1,1,2,9,2,2.0,22.23,0,0,0,0,0,0,0,0,0
+897,10,West Indies,Andre Russell,7736,Right-hand bat,Right-arm fast,ODI,56,47,1034,794,92,27.21,130.23,9,94,57,6,4,0,0,0,0
+898,10,West Indies,Andre Russell,7736,Right-hand bat,Right-arm fast,T20,84,73,1078,661,71,22.0,163.09,24,63,90,9,3,0,0,0,0
+899,10,West Indies,Andre Russell,7736,Right-hand bat,Right-arm fast,IPL,139,115,2651,1522,88,28.2,174.18,21,186,223,6,12,0,0,0,0
+900,10,West Indies,Shai Hope,10384,Right-hand bat,,Test,40,76,1814,4312,147,24.85,42.07,3,209,6,2,5,2,0,0,0
+901,10,West Indies,Shai Hope,10384,Right-hand bat,,ODI,139,134,5672,7206,170,48.9,78.72,18,448,109,6,28,17,0,0,0
+902,10,West Indies,Shai Hope,10384,Right-hand bat,,T20,43,41,995,711,82,27.64,139.95,5,78,55,3,6,0,0,0,0
+903,10,West Indies,Shai Hope,10384,Right-hand bat,,IPL,9,9,183,122,41,22.88,150.0,1,12,12,0,0,0,0,0,0
+904,10,West Indies,Joshua Da Silva,16414,Right-hand bat,,Test,33,59,1238,3017,100,24.76,41.04,9,127,7,5,5,1,0,0,0
+905,10,West Indies,Joshua Da Silva,16414,Right-hand bat,,ODI,2,2,14,35,9,7.0,40.0,0,1,0,0,0,0,0,0,0
+906,10,West Indies,Joshua Da Silva,16414,Right-hand bat,,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+907,10,West Indies,Joshua Da Silva,16414,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+908,10,West Indies,Johnson Charles,8101,Right-hand bat,,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+909,10,West Indies,Johnson Charles,8101,Right-hand bat,,ODI,58,58,1537,1802,130,26.5,85.3,0,172,44,9,7,2,0,0,0
+910,10,West Indies,Johnson Charles,8101,Right-hand bat,,T20,63,62,1433,1099,118,23.11,130.4,0,155,67,7,5,1,0,0,0
+911,10,West Indies,Johnson Charles,8101,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+912,10,West Indies,Andre Fletcher,1394,Right-hand bat,,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+913,10,West Indies,Andre Fletcher,1394,Right-hand bat,,ODI,25,25,354,549,54,14.16,64.49,0,42,7,3,2,0,0,0,0
+914,10,West Indies,Andre Fletcher,1394,Right-hand bat,,T20,60,57,984,892,84,19.68,110.32,7,67,53,9,6,0,0,0,0
+915,10,West Indies,Andre Fletcher,1394,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+916,10,West Indies,Jewel Andrew,54287,Right-hand bat,,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+917,10,West Indies,Jewel Andrew,54287,Right-hand bat,,ODI,3,2,8,12,8,4.0,66.67,0,0,1,1,0,0,0,0,0
+918,10,West Indies,Jewel Andrew,54287,Right-hand bat,,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+919,10,West Indies,Jewel Andrew,54287,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+920,10,West Indies,Amir Jangoo,12674,Left-hand bat,,Test,1,2,30,56,30,15.0,53.58,0,3,0,1,0,0,0,0,0
+921,10,West Indies,Amir Jangoo,12674,Left-hand bat,,ODI,5,5,153,166,104,38.25,92.17,1,6,5,1,0,1,0,0,0
+922,10,West Indies,Amir Jangoo,12674,Left-hand bat,,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+923,10,West Indies,Amir Jangoo,12674,Left-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+924,10,West Indies,Alzarri Joseph,11220,Right-hand bat,Right-arm fast,Test,39,63,764,1325,86,12.32,57.67,1,83,28,13,2,0,0,0,0
+925,10,West Indies,Alzarri Joseph,11220,Right-hand bat,Right-arm fast,ODI,81,46,489,638,49,16.3,76.65,16,37,22,5,0,0,0,0,0
+926,10,West Indies,Alzarri Joseph,11220,Right-hand bat,Right-arm fast,T20,42,16,121,116,21,17.29,104.32,9,9,5,2,0,0,0,0,0
+927,10,West Indies,Alzarri Joseph,11220,Right-hand bat,Right-arm fast,IPL,22,7,27,32,15,27.0,84.38,6,3,0,1,0,0,0,0,0
+928,10,West Indies,Shamar Joseph,50458,Left-hand bat,Right-arm fast,Test,10,20,291,321,44,16.17,90.66,2,32,13,1,0,0,0,0,0
+929,10,West Indies,Shamar Joseph,50458,Left-hand bat,Right-arm fast,ODI,3,2,3,6,3,0.0,50.0,2,0,0,0,0,0,0,0,0
+930,10,West Indies,Shamar Joseph,50458,Left-hand bat,Right-arm fast,T20,9,3,5,4,5,0.0,125.0,3,1,0,0,0,0,0,0,0
+931,10,West Indies,Shamar Joseph,50458,Left-hand bat,Right-arm fast,IPL,1,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+932,10,West Indies,Jayden Seales,15817,Left-hand bat,Right-arm medium,Test,20,34,141,357,22,7.42,39.5,15,10,7,6,0,0,0,0,0
+933,10,West Indies,Jayden Seales,15817,Left-hand bat,Right-arm medium,ODI,22,8,51,61,29,12.75,83.61,4,3,3,2,0,0,0,0,0
+934,10,West Indies,Jayden Seales,15817,Left-hand bat,Right-arm medium,T20,1,1,4,2,4,0.0,200.0,1,1,0,0,0,0,0,0,0
+935,10,West Indies,Jayden Seales,15817,Left-hand bat,Right-arm medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+936,10,West Indies,Akeal Hosein,8435,Left-hand bat,Left-arm orthodox,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+937,10,West Indies,Akeal Hosein,8435,Left-hand bat,Left-arm orthodox,ODI,38,28,266,364,60,14.0,73.08,9,14,10,3,1,0,0,0,0
+938,10,West Indies,Akeal Hosein,8435,Left-hand bat,Left-arm orthodox,T20,70,30,245,228,44,15.31,107.46,14,14,12,3,0,0,0,0,0
+939,10,West Indies,Akeal Hosein,8435,Left-hand bat,Left-arm orthodox,IPL,1,1,16,10,16,0.0,160.0,1,1,1,0,0,0,0,0,0
+940,10,West Indies,Terrance Hinds,13958,Right-hand bat,Right-arm fast-medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+941,10,West Indies,Terrance Hinds,13958,Right-hand bat,Right-arm fast-medium,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+942,10,West Indies,Terrance Hinds,13958,Right-hand bat,Right-arm fast-medium,T20,2,1,5,3,5,0.0,166.67,1,1,0,0,0,0,0,0,0
+943,10,West Indies,Terrance Hinds,13958,Right-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+944,10,West Indies,Obed McCoy,11221,Left-hand bat,Left-arm fast-medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+945,10,West Indies,Obed McCoy,11221,Left-hand bat,Left-arm fast-medium,ODI,2,1,0,1,0,0.0,0.0,1,0,0,0,0,0,0,0,0
+946,10,West Indies,Obed McCoy,11221,Left-hand bat,Left-arm fast-medium,T20,42,13,68,64,23,9.71,106.25,6,7,4,2,0,0,0,0,0
+947,10,West Indies,Obed McCoy,11221,Left-hand bat,Left-arm fast-medium,IPL,8,1,8,5,8,8.0,160.0,0,0,1,0,0,0,0,0,0
+948,10,West Indies,Shamar Springer,11223,Right-hand bat,Right-arm fast-medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+949,10,West Indies,Shamar Springer,11223,Right-hand bat,Right-arm fast-medium,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+950,10,West Indies,Shamar Springer,11223,Right-hand bat,Right-arm fast-medium,T20,2,1,7,6,7,7.0,116.67,0,1,0,0,0,0,0,0,0
+951,10,West Indies,Shamar Springer,11223,Right-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+952,10,West Indies,Matthew Forde,15809,Right-hand bat,Right-arm fast-medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+953,10,West Indies,Matthew Forde,15809,Right-hand bat,Right-arm fast-medium,ODI,13,10,172,138,58,21.5,124.64,2,10,14,1,1,0,0,0,0
+954,10,West Indies,Matthew Forde,15809,Right-hand bat,Right-arm fast-medium,T20,6,3,21,18,13,10.5,116.67,1,3,0,0,0,0,0,0,0
+955,10,West Indies,Matthew Forde,15809,Right-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+956,10,West Indies,Jediah Blades,1429041,Right-hand bat,Left-arm medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+957,10,West Indies,Jediah Blades,1429041,Right-hand bat,Left-arm medium,ODI,1,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+958,10,West Indies,Jediah Blades,1429041,Right-hand bat,Left-arm medium,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+959,10,West Indies,Jediah Blades,1429041,Right-hand bat,Left-arm medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+960,11,South Africa,David Miller,6349,Left-hand bat,,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+961,11,South Africa,David Miller,6349,Left-hand bat,,ODI,178,154,4611,4447,139,42.3,103.69,45,342,144,9,24,7,0,0,0
+962,11,South Africa,David Miller,6349,Left-hand bat,,T20,130,114,2593,1842,106,33.24,140.78,36,168,130,3,8,2,0,0,0
+963,11,South Africa,David Miller,6349,Left-hand bat,,IPL,141,135,3077,2220,101,35.78,138.61,49,220,138,4,13,1,0,0,0
+964,11,South Africa,Aiden Markram,9582,Right-hand bat,Right-arm offbreak,Test,46,84,2993,5016,152,36.5,59.67,2,426,14,7,13,8,0,0,0
+965,11,South Africa,Aiden Markram,9582,Right-hand bat,Right-arm offbreak,ODI,77,73,2371,2436,175,37.05,97.34,9,236,55,4,12,3,0,0,0
+966,11,South Africa,Aiden Markram,9582,Right-hand bat,Right-arm offbreak,T20,57,53,1367,950,70,30.38,143.9,8,123,56,2,9,0,0,0,0
+967,11,South Africa,Aiden Markram,9582,Right-hand bat,Right-arm offbreak,IPL,57,55,1440,1066,68,31.3,135.09,9,111,57,2,10,0,0,0,0
+968,11,South Africa,Rassie van der Dussen,9554,Right-hand bat,Right-arm legbreak,Test,18,32,905,2221,98,30.17,40.75,2,101,4,3,6,0,0,0,0
+969,11,South Africa,Rassie van der Dussen,9554,Right-hand bat,Right-arm legbreak,ODI,71,66,2657,3053,134,50.13,87.03,13,206,50,3,17,6,0,0,0
+970,11,South Africa,Rassie van der Dussen,9554,Right-hand bat,Right-arm legbreak,T20,50,46,1257,971,94,33.97,129.46,9,73,60,2,9,0,0,0,0
+971,11,South Africa,Rassie van der Dussen,9554,Right-hand bat,Right-arm legbreak,IPL,3,3,22,24,12,11.0,91.67,1,2,0,0,0,0,0,0,0
+972,11,South Africa,Temba Bavuma,8583,Right-hand bat,Right-arm medium,Test,64,110,3708,7544,172,38.23,49.16,13,424,16,10,25,4,0,0,0
+973,11,South Africa,Temba Bavuma,8583,Right-hand bat,Right-arm medium,ODI,48,47,1847,2105,144,41.98,87.75,3,186,26,2,7,5,0,0,0
+974,11,South Africa,Temba Bavuma,8583,Right-hand bat,Right-arm medium,T20,36,35,670,567,72,20.94,118.17,3,62,16,6,1,0,0,0,0
+975,11,South Africa,Temba Bavuma,8583,Right-hand bat,Right-arm medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+976,11,South Africa,Tony de Zorzi,11196,Left-hand bat,Right-arm offbreak,Test,13,23,641,1182,177,27.87,54.24,0,69,6,3,2,1,0,0,0
+977,11,South Africa,Tony de Zorzi,11196,Left-hand bat,Right-arm offbreak,ODI,14,14,482,503,119,37.08,95.83,1,45,18,0,1,1,0,0,0
+978,11,South Africa,Tony de Zorzi,11196,Left-hand bat,Right-arm offbreak,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+979,11,South Africa,Tony de Zorzi,11196,Left-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+980,11,South Africa,Reeza Hendricks,9491,Right-hand bat,Right-arm offbreak,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+981,11,South Africa,Reeza Hendricks,9491,Right-hand bat,Right-arm offbreak,ODI,38,38,974,1264,102,27.06,77.06,2,101,9,2,7,1,0,0,0
+982,11,South Africa,Reeza Hendricks,9491,Right-hand bat,Right-arm offbreak,T20,78,77,2271,1724,117,30.28,131.73,2,250,63,5,17,1,0,0,0
+983,11,South Africa,Reeza Hendricks,9491,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+984,11,South Africa,Dewald Brevis,20538,Right-hand bat,Right-arm legbreak,Test,2,3,84,85,51,28.0,98.83,0,7,4,0,1,0,0,0,0
+985,11,South Africa,Dewald Brevis,20538,Right-hand bat,Right-arm legbreak,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+986,11,South Africa,Dewald Brevis,20538,Right-hand bat,Right-arm legbreak,T20,2,2,5,7,5,2.5,71.43,0,0,0,1,0,0,0,0,0
+987,11,South Africa,Dewald Brevis,20538,Right-hand bat,Right-arm legbreak,IPL,16,16,455,297,57,28.44,153.2,0,30,33,2,2,0,0,0,0
+988,11,South Africa,Zubayr Hamza,10973,Right-hand bat,Right-arm legbreak,Test,8,16,307,738,62,19.19,41.6,0,42,2,2,1,0,0,0,0
+989,11,South Africa,Zubayr Hamza,10973,Right-hand bat,Right-arm legbreak,ODI,1,1,56,79,56,56.0,70.89,0,5,1,0,1,0,0,0,0
+990,11,South Africa,Zubayr Hamza,10973,Right-hand bat,Right-arm legbreak,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+991,11,South Africa,Zubayr Hamza,10973,Right-hand bat,Right-arm legbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+992,11,South Africa,Senuran Muthusamy,11432,Left-hand bat,Left-arm orthodox,Test,5,7,173,402,68,43.25,43.04,3,15,2,0,1,0,0,0,0
+993,11,South Africa,Senuran Muthusamy,11432,Left-hand bat,Left-arm orthodox,ODI,2,1,2,3,2,2.0,66.67,0,0,0,0,0,0,0,0,0
+994,11,South Africa,Senuran Muthusamy,11432,Left-hand bat,Left-arm orthodox,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+995,11,South Africa,Senuran Muthusamy,11432,Left-hand bat,Left-arm orthodox,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+996,11,South Africa,Lesego Senokwane,18142,Right-hand bat,Right-arm offbreak,Test,1,1,3,36,3,3.0,8.34,0,0,0,0,0,0,0,0,0
+997,11,South Africa,Lesego Senokwane,18142,Right-hand bat,Right-arm offbreak,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+998,11,South Africa,Lesego Senokwane,18142,Right-hand bat,Right-arm offbreak,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+999,11,South Africa,Lesego Senokwane,18142,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1000,11,South Africa,Marco Jansen,14565,Right-hand bat,Left-arm fast,Test,18,28,506,1009,84,22.0,50.15,5,70,5,3,3,0,0,0,0
+1001,11,South Africa,Marco Jansen,14565,Right-hand bat,Left-arm fast,ODI,29,24,464,436,75,24.42,106.43,5,34,22,2,1,0,0,0,0
+1002,11,South Africa,Marco Jansen,14565,Right-hand bat,Left-arm fast,T20,17,12,166,111,54,18.44,149.55,3,13,11,1,1,0,0,0,0
+1003,11,South Africa,Marco Jansen,14565,Right-hand bat,Left-arm fast,IPL,35,21,141,129,34,12.82,109.31,10,8,6,3,0,0,0,0,0
+1004,11,South Africa,Wiaan Mulder,11200,Right-hand bat,Right-arm medium,Test,21,34,1153,1955,367,38.43,58.98,4,138,17,3,1,3,1,1,0
+1005,11,South Africa,Wiaan Mulder,11200,Right-hand bat,Right-arm medium,ODI,25,20,276,332,64,18.4,83.14,5,27,4,1,2,0,0,0,0
+1006,11,South Africa,Wiaan Mulder,11200,Right-hand bat,Right-arm medium,T20,11,8,105,90,36,17.5,116.67,2,8,3,1,0,0,0,0,0
+1007,11,South Africa,Wiaan Mulder,11200,Right-hand bat,Right-arm medium,IPL,1,1,9,11,9,9.0,81.82,0,1,0,0,0,0,0,0,0
+1008,11,South Africa,Corbin Bosch,9576,Right-hand bat,Right-arm fast-medium,Test,3,4,217,259,100,108.5,83.79,2,29,0,1,1,1,0,0,0
+1009,11,South Africa,Corbin Bosch,9576,Right-hand bat,Right-arm fast-medium,ODI,2,2,55,53,40,0.0,103.78,2,6,1,0,0,0,0,0,0
+1010,11,South Africa,Corbin Bosch,9576,Right-hand bat,Right-arm fast-medium,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1011,11,South Africa,Corbin Bosch,9576,Right-hand bat,Right-arm fast-medium,IPL,3,2,47,32,27,23.5,146.88,0,3,3,0,0,0,0,0,0
+1012,11,South Africa,Prenelan Subrayen,8530,Right-hand bat,Right-arm offbreak,Test,1,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1013,11,South Africa,Prenelan Subrayen,8530,Right-hand bat,Right-arm offbreak,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1014,11,South Africa,Prenelan Subrayen,8530,Right-hand bat,Right-arm offbreak,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1015,11,South Africa,Prenelan Subrayen,8530,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1016,11,South Africa,Codi Yusuf,24546,Right-hand bat,Right-arm medium,Test,2,2,35,66,27,35.0,53.04,1,6,0,0,0,0,0,0,0
+1017,11,South Africa,Codi Yusuf,24546,Right-hand bat,Right-arm medium,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1018,11,South Africa,Codi Yusuf,24546,Right-hand bat,Right-arm medium,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1019,11,South Africa,Codi Yusuf,24546,Right-hand bat,Right-arm medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1020,11,South Africa,David Bedingham,14265,Right-hand bat,,Test,15,26,831,1228,110,36.13,67.68,3,91,17,2,4,1,0,0,0
+1021,11,South Africa,David Bedingham,14265,Right-hand bat,,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1022,11,South Africa,David Bedingham,14265,Right-hand bat,,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1023,11,South Africa,David Bedingham,14265,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1024,11,South Africa,Ryan Rickelton,13070,Left-hand bat,,Test,11,19,638,1169,259,37.53,54.58,2,76,4,1,0,2,1,0,0
+1025,11,South Africa,Ryan Rickelton,13070,Left-hand bat,,ODI,9,9,335,353,103,37.22,94.91,0,33,6,0,1,1,0,0,0
+1026,11,South Africa,Ryan Rickelton,13070,Left-hand bat,,T20,13,13,263,195,76,20.23,134.88,0,18,16,0,1,0,0,0,0
+1027,11,South Africa,Ryan Rickelton,13070,Left-hand bat,,IPL,14,14,388,257,62,29.85,150.98,1,47,17,0,3,0,0,0,0
+1028,11,South Africa,Tristan Stubbs,19243,Right-hand bat,Right-arm offbreak,Test,10,18,510,1014,122,30.0,50.3,1,42,8,1,1,2,0,0,0
+1029,11,South Africa,Tristan Stubbs,19243,Right-hand bat,Right-arm offbreak,ODI,9,9,249,282,112,35.57,88.3,2,13,8,2,1,1,0,0,0
+1030,11,South Africa,Tristan Stubbs,19243,Right-hand bat,Right-arm offbreak,T20,35,29,670,497,76,29.13,134.81,6,57,28,3,2,0,0,0,0
+1031,11,South Africa,Tristan Stubbs,19243,Right-hand bat,Right-arm offbreak,IPL,32,30,705,432,71,41.47,163.2,13,51,37,2,3,0,0,0,0
+1032,11,South Africa,Kyle Verreynne,11209,Right-hand bat,Right-arm offbreak,Test,27,42,1165,2007,136,32.36,58.05,6,122,14,4,3,4,0,0,0
+1033,11,South Africa,Kyle Verreynne,11209,Right-hand bat,Right-arm offbreak,ODI,19,16,533,588,95,38.07,90.65,2,41,11,0,5,0,0,0,0
+1034,11,South Africa,Kyle Verreynne,11209,Right-hand bat,Right-arm offbreak,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1035,11,South Africa,Kyle Verreynne,11209,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1036,11,South Africa,Lhuan-dre Pretorius,50545,Left-hand bat,,Test,2,3,235,253,153,78.33,92.89,0,18,7,0,1,1,0,0,0
+1037,11,South Africa,Lhuan-dre Pretorius,50545,Left-hand bat,,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1038,11,South Africa,Lhuan-dre Pretorius,50545,Left-hand bat,,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1039,11,South Africa,Lhuan-dre Pretorius,50545,Left-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1040,11,South Africa,Matthew Breetzke,13089,Right-hand bat,,Test,2,3,14,55,13,4.67,25.46,0,1,0,1,0,0,0,0,0
+1041,11,South Africa,Matthew Breetzke,13089,Right-hand bat,,ODI,2,2,233,232,150,116.5,100.44,0,21,6,0,1,1,0,0,0
+1042,11,South Africa,Matthew Breetzke,13089,Right-hand bat,,T20,10,10,151,123,51,16.78,122.77,1,13,6,0,1,0,0,0,0
+1043,11,South Africa,Matthew Breetzke,13089,Right-hand bat,,IPL,1,1,14,12,14,14.0,116.67,0,1,1,0,0,0,0,0,0
+1044,11,South Africa,Kagiso Rabada,9585,Left-hand bat,Right-arm fast,Test,71,107,1031,2059,47,11.85,50.08,20,135,16,20,0,0,0,0,0
+1045,11,South Africa,Kagiso Rabada,9585,Left-hand bat,Right-arm fast,ODI,106,45,401,507,31,14.85,79.1,18,30,12,2,0,0,0,0,0
+1046,11,South Africa,Kagiso Rabada,9585,Left-hand bat,Right-arm fast,T20,65,24,156,141,22,17.33,110.64,15,14,5,4,0,0,0,0,0
+1047,11,South Africa,Kagiso Rabada,9585,Left-hand bat,Right-arm fast,IPL,84,33,215,201,44,11.94,106.97,15,16,9,4,0,0,0,0,0
+1048,11,South Africa,Lungi Ngidi,9603,Right-hand bat,Right-arm fast,Test,20,31,97,230,19,4.85,42.18,11,14,1,8,0,0,0,0,0
+1049,11,South Africa,Lungi Ngidi,9603,Right-hand bat,Right-arm fast,ODI,67,27,124,236,20,11.27,52.55,16,8,6,5,0,0,0,0,0
+1050,11,South Africa,Lungi Ngidi,9603,Right-hand bat,Right-arm fast,T20,43,13,41,52,13,8.2,78.85,8,4,0,2,0,0,0,0,0
+1051,11,South Africa,Lungi Ngidi,9603,Right-hand bat,Right-arm fast,IPL,16,1,0,2,0,0.0,0.0,1,0,0,0,0,0,0,0,0
+1052,11,South Africa,Nandre Burger,13630,Left-hand bat,Left-arm fast-medium,Test,3,5,33,113,23,8.25,29.21,1,4,0,2,0,0,0,0,0
+1053,11,South Africa,Nandre Burger,13630,Left-hand bat,Left-arm fast-medium,ODI,5,4,10,61,7,10.0,16.4,3,0,0,0,0,0,0,0,0
+1054,11,South Africa,Nandre Burger,13630,Left-hand bat,Left-arm fast-medium,T20,2,1,1,3,1,1.0,33.34,0,0,0,0,0,0,0,0,0
+1055,11,South Africa,Nandre Burger,13630,Left-hand bat,Left-arm fast-medium,IPL,5,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1056,11,South Africa,Gerald Coetzee,13320,Right-hand bat,Right-arm fast,Test,4,6,67,76,20,13.4,88.16,1,7,2,0,0,0,0,0,0
+1057,11,South Africa,Gerald Coetzee,13320,Right-hand bat,Right-arm fast,ODI,14,7,57,90,22,8.14,63.34,0,4,1,1,0,0,0,0,0
+1058,11,South Africa,Gerald Coetzee,13320,Right-hand bat,Right-arm fast,T20,10,9,81,60,23,11.57,135.0,2,4,6,2,0,0,0,0,0
+1059,11,South Africa,Gerald Coetzee,13320,Right-hand bat,Right-arm fast,IPL,14,7,31,33,12,5.17,93.94,1,2,2,1,0,0,0,0,0
+1060,11,South Africa,Keshav Maharaj,9720,Right-hand bat,Left-arm orthodox,Test,59,91,1292,2107,84,15.38,61.32,7,149,29,17,6,0,0,0,0
+1061,11,South Africa,Keshav Maharaj,9720,Right-hand bat,Left-arm orthodox,ODI,48,24,239,292,40,12.58,81.85,5,29,2,1,0,0,0,0,0
+1062,11,South Africa,Keshav Maharaj,9720,Right-hand bat,Left-arm orthodox,T20,39,15,103,115,41,11.44,89.57,6,6,5,2,0,0,0,0,0
+1063,11,South Africa,Keshav Maharaj,9720,Right-hand bat,Left-arm orthodox,IPL,2,1,1,2,1,1.0,50.0,0,0,0,0,0,0,0,0,0
+1064,11,South Africa,Kwena Maphaka,23346,Left-hand bat,Left-arm fast-medium,Test,2,3,17,28,9,8.5,60.72,1,0,2,1,0,0,0,0,0
+1065,11,South Africa,Kwena Maphaka,23346,Left-hand bat,Left-arm fast-medium,ODI,2,2,1,3,1,0.5,33.34,0,0,0,1,0,0,0,0,0
+1066,11,South Africa,Kwena Maphaka,23346,Left-hand bat,Left-arm fast-medium,T20,5,3,16,19,12,0.0,84.22,3,2,0,0,0,0,0,0,0
+1067,11,South Africa,Kwena Maphaka,23346,Left-hand bat,Left-arm fast-medium,IPL,4,1,8,2,8,0.0,400.0,1,2,0,0,0,0,0,0,0
+1068,11,South Africa,Lizaad Williams,8531,Left-hand bat,Right-arm fast-medium,Test,2,3,25,71,13,8.33,35.22,0,4,0,1,0,0,0,0,0
+1069,11,South Africa,Lizaad Williams,8531,Left-hand bat,Right-arm fast-medium,ODI,7,3,17,23,13,5.67,73.92,0,2,0,0,0,0,0,0,0
+1070,11,South Africa,Lizaad Williams,8531,Left-hand bat,Right-arm fast-medium,T20,15,7,6,17,2,1.5,35.3,3,0,0,3,0,0,0,0,0
+1071,11,South Africa,Lizaad Williams,8531,Left-hand bat,Right-arm fast-medium,IPL,2,1,1,2,1,0.0,50.0,1,0,0,0,0,0,0,0,0
+1072,12,Zimbabwe,Craig Ervine,6334,Left-hand bat,Right-arm offbreak,Test,28,56,1841,3694,160,34.74,49.84,3,200,14,2,7,4,0,0,0
+1073,12,Zimbabwe,Craig Ervine,6334,Left-hand bat,Right-arm offbreak,ODI,128,124,3600,4695,130,33.03,76.68,15,350,47,11,23,4,0,0,0
+1074,12,Zimbabwe,Craig Ervine,6334,Left-hand bat,Right-arm offbreak,T20,71,70,1449,1370,70,21.95,105.77,4,143,30,5,9,0,0,0,0
+1075,12,Zimbabwe,Craig Ervine,6334,Left-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1076,12,Zimbabwe,Ben Curran,13957,Left-hand bat,Right-arm offbreak,Test,6,12,350,653,68,29.17,53.6,0,43,1,0,1,0,0,0,0
+1077,12,Zimbabwe,Ben Curran,13957,Left-hand bat,Right-arm offbreak,ODI,6,6,191,269,118,38.2,71.01,1,20,0,1,0,1,0,0,0
+1078,12,Zimbabwe,Ben Curran,13957,Left-hand bat,Right-arm offbreak,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1079,12,Zimbabwe,Ben Curran,13957,Left-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1080,12,Zimbabwe,Nick Welch,18425,Right-hand bat,Right-arm legbreak,Test,5,10,230,515,90,23.0,44.67,0,19,5,2,3,0,0,0,0
+1081,12,Zimbabwe,Nick Welch,18425,Right-hand bat,Right-arm legbreak,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1082,12,Zimbabwe,Nick Welch,18425,Right-hand bat,Right-arm legbreak,T20,7,7,97,93,25,13.86,104.31,0,12,1,1,0,0,0,0,0
+1083,12,Zimbabwe,Nick Welch,18425,Right-hand bat,Right-arm legbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1084,12,Zimbabwe,Prince Masvaure,11148,Left-hand bat,Left-arm fast-medium,Test,10,19,451,1268,74,25.06,35.57,1,52,1,2,4,0,0,0,0
+1085,12,Zimbabwe,Prince Masvaure,11148,Left-hand bat,Left-arm fast-medium,ODI,2,2,40,60,39,20.0,66.67,0,2,0,0,0,0,0,0,0
+1086,12,Zimbabwe,Prince Masvaure,11148,Left-hand bat,Left-arm fast-medium,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1087,12,Zimbabwe,Prince Masvaure,11148,Left-hand bat,Left-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1088,12,Zimbabwe,Sikandar Raza,9354,Right-hand bat,Right-arm offbreak,Test,19,37,1353,2426,127,36.57,55.78,0,136,17,3,10,1,0,0,0
+1089,12,Zimbabwe,Sikandar Raza,9354,Right-hand bat,Right-arm offbreak,ODI,151,142,4325,5044,141,36.04,85.75,22,360,105,3,22,7,0,0,0
+1090,12,Zimbabwe,Sikandar Raza,9354,Right-hand bat,Right-arm offbreak,T20,105,100,2403,1766,133,25.84,136.08,7,180,117,8,14,1,0,0,0
+1091,12,Zimbabwe,Sikandar Raza,9354,Right-hand bat,Right-arm offbreak,IPL,9,9,182,136,57,26.0,133.83,2,12,8,0,1,0,0,0,0
+1092,12,Zimbabwe,Sean Williams,441,Left-hand bat,Left-arm orthodox,Test,22,43,1875,2922,154,48.08,64.17,4,213,16,0,7,6,0,0,0
+1093,12,Zimbabwe,Sean Williams,441,Left-hand bat,Left-arm orthodox,ODI,162,157,5140,5918,174,37.52,86.86,20,462,63,9,36,8,0,0,0
+1094,12,Zimbabwe,Sean Williams,441,Left-hand bat,Left-arm orthodox,T20,81,80,1691,1338,66,23.49,126.39,8,161,42,6,11,0,0,0,0
+1095,12,Zimbabwe,Sean Williams,441,Left-hand bat,Left-arm orthodox,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1096,12,Zimbabwe,Takudzwanashe Kaitano,19601,Right-hand bat,Right-arm offbreak,Test,6,12,258,818,87,21.5,31.55,0,27,2,3,1,0,0,0,0
+1097,12,Zimbabwe,Takudzwanashe Kaitano,19601,Right-hand bat,Right-arm offbreak,ODI,11,11,157,256,42,15.7,61.33,1,18,2,2,0,0,0,0,0
+1098,12,Zimbabwe,Takudzwanashe Kaitano,19601,Right-hand bat,Right-arm offbreak,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1099,12,Zimbabwe,Takudzwanashe Kaitano,19601,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1100,12,Zimbabwe,Brian Bennett,23616,Right-hand bat,Right-arm offbreak,Test,8,14,479,659,139,36.85,72.69,1,64,5,1,2,2,0,0,0
+1101,12,Zimbabwe,Brian Bennett,23616,Right-hand bat,Right-arm offbreak,ODI,9,9,327,332,169,36.33,98.5,0,39,5,2,0,1,0,0,0
+1102,12,Zimbabwe,Brian Bennett,23616,Right-hand bat,Right-arm offbreak,T20,35,33,784,568,91,25.29,138.03,2,83,28,4,4,0,0,0,0
+1103,12,Zimbabwe,Brian Bennett,23616,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1104,12,Zimbabwe,Wessly Madhevere,11226,Right-hand bat,Right-arm offbreak,Test,8,15,244,495,84,17.43,49.3,1,25,2,6,1,0,0,0,0
+1105,12,Zimbabwe,Wessly Madhevere,11226,Right-hand bat,Right-arm offbreak,ODI,39,36,774,1002,72,21.5,77.25,0,71,5,1,6,0,0,0,0
+1106,12,Zimbabwe,Wessly Madhevere,11226,Right-hand bat,Right-arm offbreak,T20,76,71,1206,1041,73,18.84,115.86,7,133,16,7,7,0,0,0,0
+1107,12,Zimbabwe,Wessly Madhevere,11226,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1108,12,Zimbabwe,Vincent Masekesa,1450665,Right-hand bat,Right-arm legbreak,Test,2,4,24,82,11,8.0,29.27,1,2,0,0,0,0,0,0,0
+1109,12,Zimbabwe,Vincent Masekesa,1450665,Right-hand bat,Right-arm legbreak,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1110,12,Zimbabwe,Vincent Masekesa,1450665,Right-hand bat,Right-arm legbreak,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1111,12,Zimbabwe,Vincent Masekesa,1450665,Right-hand bat,Right-arm legbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1112,12,Zimbabwe,Tafadzwa Tsiga,25331,Right-hand bat,,Test,6,12,94,289,24,9.4,32.53,2,12,0,3,0,0,0,0,0
+1113,12,Zimbabwe,Tafadzwa Tsiga,25331,Right-hand bat,,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1114,12,Zimbabwe,Tafadzwa Tsiga,25331,Right-hand bat,,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1115,12,Zimbabwe,Tafadzwa Tsiga,25331,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1116,12,Zimbabwe,Clive Madande,23761,Right-hand bat,,Test,1,2,10,31,10,5.0,32.26,0,1,0,1,0,0,0,0,0
+1117,12,Zimbabwe,Clive Madande,23761,Right-hand bat,,ODI,16,12,251,344,74,22.82,72.97,1,24,0,2,2,0,0,0,0
+1118,12,Zimbabwe,Clive Madande,23761,Right-hand bat,,T20,40,32,553,460,53,23.04,120.22,8,45,19,2,1,0,0,0,0
+1119,12,Zimbabwe,Clive Madande,23761,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1120,12,Zimbabwe,Kundai Matigimu,11235,Right-hand bat,Right-arm fast,Test,1,2,0,10,0,0.0,0.0,0,0,0,2,0,0,0,0,0
+1121,12,Zimbabwe,Kundai Matigimu,11235,Right-hand bat,Right-arm fast,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1122,12,Zimbabwe,Kundai Matigimu,11235,Right-hand bat,Right-arm fast,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1123,12,Zimbabwe,Kundai Matigimu,11235,Right-hand bat,Right-arm fast,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1124,12,Zimbabwe,Trevor Gwandu,25037,Right-hand bat,Right-arm medium,Test,2,3,23,106,18,11.5,21.7,1,1,0,0,0,0,0,0,0
+1125,12,Zimbabwe,Trevor Gwandu,25037,Right-hand bat,Right-arm medium,ODI,7,5,7,22,3,3.5,31.82,3,0,0,1,0,0,0,0,0
+1126,12,Zimbabwe,Trevor Gwandu,25037,Right-hand bat,Right-arm medium,T20,19,5,14,26,7,14.0,53.85,4,0,0,1,0,0,0,0,0
+1127,12,Zimbabwe,Trevor Gwandu,25037,Right-hand bat,Right-arm medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1128,12,Zimbabwe,Wellington Masakadza,8460,Left-hand bat,Left-arm orthodox,Test,7,14,159,523,57,13.25,30.41,2,16,3,0,1,0,0,0,0
+1129,12,Zimbabwe,Wellington Masakadza,8460,Left-hand bat,Left-arm orthodox,ODI,42,26,243,386,40,11.05,62.96,4,21,2,5,0,0,0,0,0
+1130,12,Zimbabwe,Wellington Masakadza,8460,Left-hand bat,Left-arm orthodox,T20,64,37,242,257,34,9.31,94.17,11,17,5,2,0,0,0,0,0
+1131,12,Zimbabwe,Wellington Masakadza,8460,Left-hand bat,Left-arm orthodox,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1132,12,Zimbabwe,Tanaka Chivanga,11763,Right-hand bat,Right-arm fast,Test,5,10,67,174,22,8.38,38.51,2,6,3,1,0,0,0,0,0
+1133,12,Zimbabwe,Tanaka Chivanga,11763,Right-hand bat,Right-arm fast,ODI,8,6,25,33,8,8.33,75.76,3,4,0,0,0,0,0,0,0
+1134,12,Zimbabwe,Tanaka Chivanga,11763,Right-hand bat,Right-arm fast,T20,3,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1135,12,Zimbabwe,Tanaka Chivanga,11763,Right-hand bat,Right-arm fast,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1136,12,Zimbabwe,Blessing Muzarabani,13316,Right-hand bat,Right-arm fast-medium,Test,15,27,252,481,47,14.0,52.4,9,33,6,5,0,0,0,0,0
+1137,12,Zimbabwe,Blessing Muzarabani,13316,Right-hand bat,Right-arm fast-medium,ODI,55,40,133,269,17,5.12,49.45,14,10,3,14,0,0,0,0,0
+1138,12,Zimbabwe,Blessing Muzarabani,13316,Right-hand bat,Right-arm fast-medium,T20,70,27,43,67,9,3.07,64.18,13,5,1,7,0,0,0,0,0
+1139,12,Zimbabwe,Blessing Muzarabani,13316,Right-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1140,12,Zimbabwe,Newman Nyamhuri,54385,Right-hand bat,Left-arm fast-medium,Test,3,5,45,87,26,9.0,51.73,0,4,1,2,0,0,0,0,0
+1141,12,Zimbabwe,Newman Nyamhuri,54385,Right-hand bat,Left-arm fast-medium,ODI,4,2,8,19,7,4.0,42.11,0,1,0,0,0,0,0,0,0
+1142,12,Zimbabwe,Newman Nyamhuri,54385,Right-hand bat,Left-arm fast-medium,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1143,12,Zimbabwe,Newman Nyamhuri,54385,Right-hand bat,Left-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1144,12,Zimbabwe,Victor Nyauchi,11153,Right-hand bat,Right-arm fast-medium,Test,11,16,77,205,13,7.7,37.57,6,10,0,3,0,0,0,0,0
+1145,12,Zimbabwe,Victor Nyauchi,11153,Right-hand bat,Right-arm fast-medium,ODI,10,6,43,52,26,7.17,82.7,0,5,1,2,0,0,0,0,0
+1146,12,Zimbabwe,Victor Nyauchi,11153,Right-hand bat,Right-arm fast-medium,T20,2,1,1,3,1,0.0,33.34,1,0,0,0,0,0,0,0,0
+1147,12,Zimbabwe,Victor Nyauchi,11153,Right-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1148,13,New Zealand,Kane Williamson,6326,Right-hand bat,Right-arm offbreak,Test,105,186,9276,17913,251,54.89,51.79,17,1031,27,11,37,33,6,0,0
+1149,13,New Zealand,Kane Williamson,6326,Right-hand bat,Right-arm offbreak,ODI,173,165,7236,8853,148,48.89,81.74,17,666,60,5,47,15,0,0,0
+1150,13,New Zealand,Kane Williamson,6326,Right-hand bat,Right-arm offbreak,T20,93,90,2575,2094,95,33.01,122.98,12,245,58,4,18,0,0,0,0
+1151,13,New Zealand,Kane Williamson,6326,Right-hand bat,Right-arm offbreak,IPL,79,77,2128,1694,89,35.47,125.62,17,185,64,2,18,0,0,0,0
+1152,13,New Zealand,Finn Allen,11172,Right-hand bat,,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1153,13,New Zealand,Finn Allen,11172,Right-hand bat,,ODI,22,21,582,624,96,27.71,93.27,0,78,14,3,5,0,0,0,0
+1154,13,New Zealand,Finn Allen,11172,Right-hand bat,,T20,52,52,1285,787,137,25.2,163.28,1,113,89,5,5,2,0,0,0
+1155,13,New Zealand,Finn Allen,11172,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1156,13,New Zealand,Mark Chapman,9976,Left-hand bat,Left-arm orthodox,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1157,13,New Zealand,Mark Chapman,9976,Left-hand bat,Left-arm orthodox,ODI,30,26,868,811,132,39.45,107.03,4,78,30,1,3,3,0,0,0
+1158,13,New Zealand,Mark Chapman,9976,Left-hand bat,Left-arm orthodox,T20,86,77,1739,1299,104,27.6,133.88,14,149,66,3,9,1,0,0,0
+1159,13,New Zealand,Mark Chapman,9976,Left-hand bat,Left-arm orthodox,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1160,13,New Zealand,Henry Nicholls,10694,Left-hand bat,Right-arm offbreak,Test,56,87,2973,5922,200,37.16,50.21,7,322,9,6,12,9,1,0,0
+1161,13,New Zealand,Henry Nicholls,10694,Left-hand bat,Right-arm offbreak,ODI,81,79,2180,2713,124,34.6,80.36,16,198,19,6,15,1,0,0,0
+1162,13,New Zealand,Henry Nicholls,10694,Left-hand bat,Right-arm offbreak,T20,10,9,100,112,36,12.5,89.29,1,9,0,0,0,0,0,0,0
+1163,13,New Zealand,Henry Nicholls,10694,Left-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1164,13,New Zealand,Will Young,8549,Right-hand bat,Right-arm offbreak,Test,20,36,1063,2358,89,31.26,45.09,2,134,5,1,10,0,0,0,0
+1165,13,New Zealand,Will Young,8549,Right-hand bat,Right-arm offbreak,ODI,46,46,1674,1934,120,40.83,86.56,5,189,27,5,10,4,0,0,0
+1166,13,New Zealand,Will Young,8549,Right-hand bat,Right-arm offbreak,T20,20,19,344,338,56,18.11,101.78,0,35,10,0,2,0,0,0,0
+1167,13,New Zealand,Will Young,8549,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1168,13,New Zealand,Muhammad Abbas,41442,Right-hand bat,Left-arm fast-medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1169,13,New Zealand,Muhammad Abbas,41442,Right-hand bat,Left-arm fast-medium,ODI,3,3,104,103,52,34.67,100.98,0,6,4,0,1,0,0,0,0
+1170,13,New Zealand,Muhammad Abbas,41442,Right-hand bat,Left-arm fast-medium,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1171,13,New Zealand,Muhammad Abbas,41442,Right-hand bat,Left-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+1172,13,New Zealand,Michael Bracewell,9551,Left-hand bat,Right-arm offbreak,Test,8,14,259,454,74,19.92,57.05,1,34,2,1,1,0,0,0,0
+1173,13,New Zealand,Michael Bracewell,9551,Left-hand bat,Right-arm offbreak,ODI,34,29,757,656,140,37.85,115.4,9,59,38,1,2,2,0,0,0
+1174,13,New Zealand,Michael Bracewell,9551,Left-hand bat,Right-arm offbreak,T20,32,23,341,246,61,22.73,138.62,8,29,15,4,2,0,0,0,0
+1175,13,New Zealand,Michael Bracewell,9551,Left-hand bat,Right-arm offbreak,IPL,5,4,58,47,26,29.0,123.41,2,6,1,0,0,0,0,0,0
+1176,13,New Zealand,Daryl Mitchell,10713,Right-hand bat,Right-arm medium,Test,31,52,2059,3857,190,43.81,53.39,5,202,38,1,14,5,0,0,0
+1177,13,New Zealand,Daryl Mitchell,10713,Right-hand bat,Right-arm medium,ODI,52,47,2041,2155,134,48.6,94.71,5,156,56,0,9,6,0,0,0
+1178,13,New Zealand,Daryl Mitchell,10713,Right-hand bat,Right-arm medium,T20,75,70,1473,1065,72,26.3,138.31,14,101,55,2,8,0,0,0,0
+1179,13,New Zealand,Daryl Mitchell,10713,Right-hand bat,Right-arm medium,IPL,15,15,351,267,63,27.0,131.47,2,28,10,0,2,0,0,0,0
+1180,13,New Zealand,Glenn Phillips,10693,Right-hand bat,Right-arm offbreak,Test,15,27,728,1005,87,33.09,72.44,5,71,25,2,5,0,0,0,0
+1181,13,New Zealand,Glenn Phillips,10693,Right-hand bat,Right-arm offbreak,ODI,44,36,1112,1091,106,39.71,101.93,8,80,47,1,5,1,0,0,0
+1182,13,New Zealand,Glenn Phillips,10693,Right-hand bat,Right-arm offbreak,T20,83,74,1928,1372,108,31.1,140.53,12,138,91,3,10,2,0,0,0
+1183,13,New Zealand,Glenn Phillips,10693,Right-hand bat,Right-arm offbreak,IPL,8,8,65,55,25,9.29,118.19,1,3,6,1,0,0,0,0,0
+1184,13,New Zealand,Rachin Ravindra,11177,Left-hand bat,Left-arm orthodox,Test,15,30,1057,1882,240,37.75,56.17,2,115,11,1,4,2,1,0,0
+1185,13,New Zealand,Rachin Ravindra,11177,Left-hand bat,Left-arm orthodox,ODI,33,29,1233,1129,123,44.04,109.22,1,132,28,2,4,5,0,0,0
+1186,13,New Zealand,Rachin Ravindra,11177,Left-hand bat,Left-arm orthodox,T20,26,24,309,242,69,17.17,127.69,6,19,14,2,2,0,0,0,0
+1187,13,New Zealand,Rachin Ravindra,11177,Left-hand bat,Left-arm orthodox,IPL,18,18,413,287,65,24.29,143.91,1,40,16,2,2,0,0,0,0
+0,4,Australia,Usman Khawaja,6635,Left-hand bat,Right-arm offbreak,Test,84,152,6053,12464,232,43.55,48.56,13,644,28,9,27,16,1,0,0
+1,4,Australia,Usman Khawaja,6635,Left-hand bat,Right-arm offbreak,ODI,40,39,1554,1848,104,42.0,84.1,2,150,13,2,12,2,0,0,0
+2,4,Australia,Usman Khawaja,6635,Left-hand bat,Right-arm offbreak,T20,9,9,241,182,58,26.78,132.42,0,31,5,0,1,0,0,0,0
+3,4,Australia,Usman Khawaja,6635,Left-hand bat,Right-arm offbreak,IPL,6,6,127,100,30,21.17,127.0,0,14,3,0,0,0,0,0,0
+4,4,Australia,Matthew Short,9456,Right-hand bat,Right-arm offbreak,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+5,4,Australia,Matthew Short,9456,Right-hand bat,Right-arm offbreak,ODI,15,13,280,285,63,21.54,98.25,0,31,9,1,2,0,0,0,0
+6,4,Australia,Matthew Short,9456,Right-hand bat,Right-arm offbreak,T20,14,13,293,179,66,22.54,163.69,0,29,15,1,1,0,0,0,0
+7,4,Australia,Matthew Short,9456,Right-hand bat,Right-arm offbreak,IPL,6,6,117,92,36,19.5,127.18,0,15,4,0,0,0,0,0,0
+8,4,Australia,Cameron Green,12225,Right-hand bat,Right-arm fast-medium,Test,32,51,1565,3241,174,34.78,48.29,6,170,13,4,7,2,0,0,0
+9,4,Australia,Cameron Green,12225,Right-hand bat,Right-arm fast-medium,ODI,28,24,626,756,89,36.82,82.81,7,54,12,1,2,0,0,0,0
+10,4,Australia,Cameron Green,12225,Right-hand bat,Right-arm fast-medium,T20,13,12,263,172,62,26.3,152.91,2,21,16,0,3,0,0,0,0
+11,4,Australia,Cameron Green,12225,Right-hand bat,Right-arm fast-medium,IPL,29,28,707,460,100,41.59,153.7,11,62,32,0,2,1,0,0,0
+12,4,Australia,Sam Konstas,52495,Right-hand bat,Right-arm offbreak,Test,5,10,163,289,60,18.25,56.4,0,17,2,2,1,0,0,0,0
+13,4,Australia,Sam Konstas,52495,Right-hand bat,Right-arm offbreak,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+14,4,Australia,Sam Konstas,52495,Right-hand bat,Right-arm offbreak,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+15,4,Australia,Sam Konstas,52495,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+16,4,Australia,Beau Webster,8646,Right-hand bat,Right-arm medium,Test,7,12,381,646,72,34.64,58.98,1,44,1,0,4,0,0,0,0
+17,4,Australia,Beau Webster,8646,Right-hand bat,Right-arm medium,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+18,4,Australia,Beau Webster,8646,Right-hand bat,Right-arm medium,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+19,4,Australia,Beau Webster,8646,Right-hand bat,Right-arm medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+20,4,Australia,Aaron Hardie,13170,Right-hand bat,Right-arm fast-medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+21,4,Australia,Aaron Hardie,13170,Right-hand bat,Right-arm fast-medium,ODI,13,10,166,199,44,16.6,83.42,0,15,2,1,0,0,0,0,0
+22,4,Australia,Aaron Hardie,13170,Right-hand bat,Right-arm fast-medium,T20,13,8,128,99,28,21.33,129.3,2,15,3,0,0,0,0,0,0
+23,4,Australia,Aaron Hardie,13170,Right-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+24,4,Australia,Glenn Maxwell,7662,Right-hand bat,Right-arm offbreak,Test,7,14,339,570,104,26.08,59.48,1,33,7,0,0,1,0,0,0
+25,4,Australia,Glenn Maxwell,7662,Right-hand bat,Right-arm offbreak,ODI,149,136,3990,3149,201,33.81,126.71,18,382,155,12,23,4,1,0,0
+26,4,Australia,Glenn Maxwell,7662,Right-hand bat,Right-arm offbreak,T20,116,106,2664,1719,145,29.93,154.98,17,224,137,4,11,5,0,0,0
+27,4,Australia,Glenn Maxwell,7662,Right-hand bat,Right-arm offbreak,IPL,141,135,2819,1817,95,23.89,155.15,17,237,161,19,18,0,0,0,0
+28,4,Australia,Mitchell Marsh,6250,Right-hand bat,Right-arm fast-medium,Test,46,80,2083,3700,181,28.53,56.3,7,270,32,9,9,3,0,0,0
+29,4,Australia,Mitchell Marsh,6250,Right-hand bat,Right-arm fast-medium,ODI,93,89,2794,2923,177,35.82,95.59,11,257,94,7,19,3,0,0,0
+30,4,Australia,Mitchell Marsh,6250,Right-hand bat,Right-arm fast-medium,T20,65,62,1629,1203,92,31.94,135.42,11,139,76,2,9,0,0,0,0
+31,4,Australia,Mitchell Marsh,6250,Right-hand bat,Right-arm fast-medium,IPL,55,49,1292,904,117,27.49,142.93,2,104,75,7,9,1,0,0,0
+32,4,Australia,Alex Carey,9200,Left-hand bat,,Test,43,65,2010,3134,156,34.66,64.14,7,217,15,4,11,2,0,0,0
+33,4,Australia,Alex Carey,9200,Left-hand bat,,ODI,80,72,2149,2364,106,35.82,90.91,12,203,24,4,12,1,0,0,0
+34,4,Australia,Alex Carey,9200,Left-hand bat,,T20,38,26,233,215,37,11.1,108.38,5,19,7,2,0,0,0,0,0
+35,4,Australia,Alex Carey,9200,Left-hand bat,,IPL,3,3,32,29,14,16.0,110.35,1,0,1,0,0,0,0,0,0
+36,4,Australia,Josh Inglis,10637,Right-hand bat,,Test,3,4,119,144,102,29.75,82.64,0,10,1,1,0,1,0,0,0
+37,4,Australia,Josh Inglis,10637,Right-hand bat,,ODI,30,27,674,637,120,28.08,105.81,3,67,20,2,3,1,0,0,0
+38,4,Australia,Josh Inglis,10637,Right-hand bat,,T20,29,28,706,450,110,30.7,156.89,5,67,28,2,0,2,0,0,0
+39,4,Australia,Josh Inglis,10637,Right-hand bat,,IPL,11,11,278,171,73,30.89,162.58,2,26,16,0,1,0,0,0,0
+40,4,Australia,Pat Cummins,8095,Right-hand bat,Right-arm fast,Test,71,105,1548,3268,64,17.01,47.37,14,151,32,13,3,0,0,0,0
+41,4,Australia,Pat Cummins,8095,Right-hand bat,Right-arm fast,ODI,90,59,537,703,37,14.51,76.39,22,43,12,8,0,0,0,0,0
+42,4,Australia,Pat Cummins,8095,Right-hand bat,Right-arm fast,T20,57,27,158,133,28,10.53,118.8,12,11,7,4,0,0,0,0,0
+43,4,Australia,Pat Cummins,8095,Right-hand bat,Right-arm fast,IPL,72,50,612,402,66,20.4,152.24,20,39,41,4,3,0,0,0,0
+44,4,Australia,Nathan Lyon,7850,Right-hand bat,Right-arm offbreak,Test,139,177,1638,3221,47,12.8,50.86,49,205,14,19,0,0,0,0,0
+45,4,Australia,Nathan Lyon,7850,Right-hand bat,Right-arm offbreak,ODI,29,14,77,83,30,19.25,92.78,10,7,2,1,0,0,0,0,0
+46,4,Australia,Nathan Lyon,7850,Right-hand bat,Right-arm offbreak,T20,2,1,4,4,4,0.0,100.0,1,0,0,0,0,0,0,0,0
+47,4,Australia,Nathan Lyon,7850,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+48,4,Australia,Mitchell Starc,7710,Left-hand bat,Left-arm fast,Test,100,146,2311,3893,99,20.1,59.36,31,230,49,16,11,0,0,0,0
+49,4,Australia,Mitchell Starc,7710,Left-hand bat,Left-arm fast,ODI,127,75,577,744,52,12.02,77.56,27,42,14,12,1,0,0,0,0
+50,4,Australia,Mitchell Starc,7710,Left-hand bat,Left-arm fast,T20,65,21,98,100,14,9.8,98.0,11,4,2,0,0,0,0,0,0
+51,4,Australia,Mitchell Starc,7710,Left-hand bat,Left-arm fast,IPL,51,23,111,119,29,10.09,93.28,12,11,0,3,0,0,0,0,0
+52,4,Australia,Adam Zampa,8642,Right-hand bat,Right-arm legbreak,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+53,4,Australia,Adam Zampa,8642,Right-hand bat,Right-arm legbreak,ODI,111,55,362,545,36,10.06,66.43,19,31,2,6,0,0,0,0,0
+54,4,Australia,Adam Zampa,8642,Right-hand bat,Right-arm legbreak,T20,95,22,68,76,13,5.67,89.48,10,7,0,3,0,0,0,0,0
+55,4,Australia,Adam Zampa,8642,Right-hand bat,Right-arm legbreak,IPL,22,5,15,24,7,3.0,62.5,0,1,0,1,0,0,0,0,0
+56,4,Australia,Sean Abbott,8136,Right-hand bat,Right-arm fast-medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+57,4,Australia,Sean Abbott,8136,Right-hand bat,Right-arm fast-medium,ODI,28,21,374,388,69,19.68,96.4,2,32,13,1,2,0,0,0,0
+58,4,Australia,Sean Abbott,8136,Right-hand bat,Right-arm fast-medium,T20,20,7,25,27,12,5.0,92.6,2,1,1,2,0,0,0,0,0
+59,4,Australia,Sean Abbott,8136,Right-hand bat,Right-arm fast-medium,IPL,3,3,22,18,14,7.33,122.23,0,1,2,0,0,0,0,0,0
+60,4,Australia,Josh Hazlewood,6258,Left-hand bat,Right-arm fast-medium,Test,76,95,561,1278,39,11.69,43.9,47,79,2,12,0,0,0,0,0
+61,4,Australia,Josh Hazlewood,6258,Left-hand bat,Right-arm fast-medium,ODI,91,35,131,161,23,16.38,81.37,27,14,3,4,0,0,0,0,0
+62,4,Australia,Josh Hazlewood,6258,Left-hand bat,Right-arm fast-medium,T20,52,10,29,27,13,9.67,107.41,7,2,1,2,0,0,0,0,0
+63,4,Australia,Josh Hazlewood,6258,Left-hand bat,Right-arm fast-medium,IPL,39,7,19,29,7,0.0,65.52,7,1,0,0,0,0,0,0,0
+64,4,Australia,Xavier Bartlett,11689,Right-hand bat,Right-arm fast-medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+65,4,Australia,Xavier Bartlett,11689,Right-hand bat,Right-arm fast-medium,ODI,2,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+66,4,Australia,Xavier Bartlett,11689,Right-hand bat,Right-arm fast-medium,T20,7,2,5,10,5,2.5,50.0,0,1,0,1,0,0,0,0,0
+67,4,Australia,Xavier Bartlett,11689,Right-hand bat,Right-arm fast-medium,IPL,4,1,11,15,11,11.0,73.34,0,1,0,0,0,0,0,0,0
+68,4,Australia,Scott Boland,8631,Right-hand bat,Right-arm fast-medium,Test,14,16,82,262,20,9.11,31.3,7,8,0,3,0,0,0,0,0
+69,4,Australia,Scott Boland,8631,Right-hand bat,Right-arm fast-medium,ODI,14,4,9,22,4,3.0,40.91,1,0,0,1,0,0,0,0,0
+70,4,Australia,Scott Boland,8631,Right-hand bat,Right-arm fast-medium,T20,3,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+71,4,Australia,Scott Boland,8631,Right-hand bat,Right-arm fast-medium,IPL,2,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+72,4,Australia,Nathan Ellis,15480,Right-hand bat,Right-arm fast-medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+73,4,Australia,Nathan Ellis,15480,Right-hand bat,Right-arm fast-medium,ODI,12,9,73,68,18,14.6,107.36,4,3,5,1,0,0,0,0,0
+74,4,Australia,Nathan Ellis,15480,Right-hand bat,Right-arm fast-medium,T20,20,6,18,38,11,6.0,47.37,3,0,0,1,0,0,0,0,0
+75,4,Australia,Nathan Ellis,15480,Right-hand bat,Right-arm fast-medium,IPL,17,5,19,25,12,4.75,76.0,1,0,1,2,0,0,0,0,0
+76,4,Australia,Matthew Kuhnemann,13141,Left-hand bat,Left-arm orthodox,Test,5,6,18,67,6,4.5,26.87,2,2,0,1,0,0,0,0,0
+77,4,Australia,Matthew Kuhnemann,13141,Left-hand bat,Left-arm orthodox,ODI,4,2,16,14,15,8.0,114.29,0,3,0,0,0,0,0,0,0
+78,4,Australia,Matthew Kuhnemann,13141,Left-hand bat,Left-arm orthodox,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+79,4,Australia,Matthew Kuhnemann,13141,Left-hand bat,Left-arm orthodox,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+80,4,Australia,Lance Morris,13173,Right-hand bat,Right-arm fast,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+81,4,Australia,Lance Morris,13173,Right-hand bat,Right-arm fast,ODI,3,1,0,2,0,0.0,0.0,0,0,0,1,0,0,0,0,0
+82,4,Australia,Lance Morris,13173,Right-hand bat,Right-arm fast,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+83,4,Australia,Lance Morris,13173,Right-hand bat,Right-arm fast,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+84,4,Australia,Todd Murphy,15146,Left-hand bat,Right-arm offbreak,Test,7,10,122,205,41,13.56,59.52,1,15,3,3,0,0,0,0,0
+85,4,Australia,Todd Murphy,15146,Left-hand bat,Right-arm offbreak,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+86,4,Australia,Todd Murphy,15146,Left-hand bat,Right-arm offbreak,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+87,4,Australia,Todd Murphy,15146,Left-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+88,4,Australia,Jhye Richardson,10280,Right-hand bat,Right-arm fast,Test,3,3,18,14,9,6.0,128.58,0,0,2,0,0,0,0,0,0
+89,4,Australia,Jhye Richardson,10280,Right-hand bat,Right-arm fast,ODI,15,9,93,107,29,18.6,86.92,4,7,0,0,0,0,0,0,0
+90,4,Australia,Jhye Richardson,10280,Right-hand bat,Right-arm fast,T20,18,8,45,51,11,15.0,88.24,5,3,1,1,0,0,0,0,0
+91,4,Australia,Jhye Richardson,10280,Right-hand bat,Right-arm fast,IPL,4,3,17,26,15,5.67,65.39,0,2,0,1,0,0,0,0,0
+92,9,England,Ben Duckett,8502,Left-hand bat,Right-arm offbreak,Test,36,67,2681,3113,182,41.89,86.12,3,342,16,5,14,6,0,0,0
+93,9,England,Ben Duckett,8502,Left-hand bat,Right-arm offbreak,ODI,25,25,1176,1115,165,49.0,105.48,1,134,16,3,8,3,0,0,0
+94,9,England,Ben Duckett,8502,Left-hand bat,Right-arm offbreak,T20,20,20,527,343,84,29.28,153.65,2,69,8,1,3,0,0,0,0
+95,9,England,Ben Duckett,8502,Left-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+96,9,England,Joe Root,8019,Right-hand bat,Right-arm offbreak,Test,156,285,13259,23111,262,50.8,57.37,24,1408,45,13,66,37,6,0,0
+97,9,England,Joe Root,8019,Right-hand bat,Right-arm offbreak,ODI,180,169,7126,8134,166,49.14,87.61,24,575,53,9,42,18,0,0,0
+98,9,England,Joe Root,8019,Right-hand bat,Right-arm offbreak,T20,32,30,893,707,90,35.72,126.31,5,92,16,2,5,0,0,0,0
+99,9,England,Joe Root,8019,Right-hand bat,Right-arm offbreak,IPL,3,1,10,15,10,10.0,66.67,0,1,0,0,0,0,0,0,0
+100,9,England,Harry Brook,12201,Right-hand bat,Right-arm medium,Test,28,47,2653,3048,317,57.67,87.04,1,283,43,3,12,9,1,1,0
+101,9,England,Harry Brook,12201,Right-hand bat,Right-arm medium,ODI,29,29,947,927,110,36.42,102.16,3,92,33,2,6,1,0,0,0
+102,9,England,Harry Brook,12201,Right-hand bat,Right-arm medium,T20,47,40,873,593,81,29.1,147.22,10,70,38,0,4,0,0,0,0
+103,9,England,Harry Brook,12201,Right-hand bat,Right-arm medium,IPL,11,11,190,154,100,21.11,123.38,2,23,4,3,0,1,0,0,0
+104,9,England,Zak Crawley,12770,Right-hand bat,Right-arm medium,Test,57,104,3151,4843,267,30.89,65.06,2,432,11,10,17,5,1,0,0
+105,9,England,Zak Crawley,12770,Right-hand bat,Right-arm medium,ODI,8,8,199,205,58,28.43,97.08,1,23,2,3,2,0,0,0,0
+106,9,England,Zak Crawley,12770,Right-hand bat,Right-arm medium,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+107,9,England,Zak Crawley,12770,Right-hand bat,Right-arm medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+108,9,England,Ben Stokes,6557,Left-hand bat,Right-arm fast-medium,Test,114,205,6891,11647,258,35.16,59.17,9,793,133,16,35,13,1,0,0
+109,9,England,Ben Stokes,6557,Left-hand bat,Right-arm fast-medium,ODI,114,99,3463,3619,182,41.23,95.69,15,282,109,7,24,5,0,0,0
+110,9,England,Ben Stokes,6557,Left-hand bat,Right-arm fast-medium,T20,43,36,585,457,52,21.67,128.01,9,42,22,1,1,0,0,0,0
+111,9,England,Ben Stokes,6557,Left-hand bat,Right-arm fast-medium,IPL,45,44,935,698,107,24.61,133.96,6,81,32,3,2,2,0,0,0
+112,9,England,Jacob Bethell,19636,Left-hand bat,Left-arm orthodox,Test,3,6,260,346,96,52.0,75.15,1,38,5,0,3,0,0,0,0
+113,9,England,Jacob Bethell,19636,Left-hand bat,Left-arm orthodox,ODI,12,10,317,353,82,35.22,89.81,1,26,10,1,3,0,0,0,0
+114,9,England,Jacob Bethell,19636,Left-hand bat,Left-arm orthodox,T20,13,12,281,182,62,40.14,154.4,5,16,19,0,2,0,0,0,0
+115,9,England,Jacob Bethell,19636,Left-hand bat,Left-arm orthodox,IPL,2,2,67,39,55,33.5,171.8,0,9,3,0,1,0,0,0,0
+116,9,England,Will Jacks,12258,Right-hand bat,Right-arm offbreak,Test,2,4,89,90,31,22.25,98.89,0,6,5,0,0,0,0,0,0
+117,9,England,Will Jacks,12258,Right-hand bat,Right-arm offbreak,ODI,18,17,556,547,94,32.71,101.65,0,50,17,2,4,0,0,0,0
+118,9,England,Will Jacks,12258,Right-hand bat,Right-arm offbreak,T20,26,23,399,293,40,17.35,136.18,0,41,15,1,0,0,0,0,0
+119,9,England,Will Jacks,12258,Right-hand bat,Right-arm offbreak,IPL,21,19,463,303,100,27.24,152.81,2,38,29,0,2,1,0,0,0
+120,9,England,Liam Livingstone,10045,Right-hand bat,Right-arm legbreak,Test,1,2,16,18,9,16.0,88.89,1,0,1,0,0,0,0,0,0
+121,9,England,Liam Livingstone,10045,Right-hand bat,Right-arm legbreak,ODI,39,36,932,862,124,31.07,108.13,6,58,50,4,4,1,0,0,0
+122,9,England,Liam Livingstone,10045,Right-hand bat,Right-arm legbreak,T20,60,47,955,641,103,25.13,148.99,9,54,59,3,2,1,0,0,0
+123,9,England,Liam Livingstone,10045,Right-hand bat,Right-arm legbreak,IPL,49,47,1051,662,94,26.28,158.77,7,70,75,3,7,0,0,0,0
+124,9,England,Chris Woakes,6670,Right-hand bat,Right-arm fast-medium,Test,60,97,2030,3826,137,25.38,53.06,17,255,9,11,7,1,0,0,0
+125,9,England,Chris Woakes,6670,Right-hand bat,Right-arm fast-medium,ODI,122,88,1524,1710,95,23.81,89.13,24,118,21,8,6,0,0,0,0
+126,9,England,Chris Woakes,6670,Right-hand bat,Right-arm fast-medium,T20,33,17,146,117,37,16.22,124.79,8,9,7,2,0,0,0,0,0
+127,9,England,Chris Woakes,6670,Right-hand bat,Right-arm fast-medium,IPL,21,12,78,77,18,13.0,101.3,6,7,2,0,0,0,0,0,0
+128,9,England,Sam Curran,10420,Left-hand bat,Left-arm fast-medium,Test,24,38,815,1271,78,24.7,64.13,5,96,21,7,3,0,0,0,0
+129,9,England,Sam Curran,10420,Left-hand bat,Left-arm fast-medium,ODI,35,27,597,649,95,24.88,91.99,3,37,22,1,2,0,0,0,0
+130,9,England,Sam Curran,10420,Left-hand bat,Left-arm fast-medium,T20,58,34,356,286,50,14.24,124.48,9,21,15,0,1,0,0,0,0
+131,9,England,Sam Curran,10420,Left-hand bat,Left-arm fast-medium,IPL,64,53,997,731,88,24.93,136.39,13,85,41,4,6,0,0,0,0
+132,9,England,Ollie Pope,11691,Right-hand bat,,Test,59,104,3487,5398,205,35.22,64.6,5,406,18,5,15,9,1,0,0
+133,9,England,Ollie Pope,11691,Right-hand bat,,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+134,9,England,Ollie Pope,11691,Right-hand bat,,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+135,9,England,Ollie Pope,11691,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+136,9,England,Jamie Smith,13810,Right-hand bat,,Test,13,22,1056,1368,184,55.58,77.19,3,103,26,0,6,2,0,0,0
+137,9,England,Jamie Smith,13810,Right-hand bat,,ODI,13,12,258,228,64,21.5,113.16,0,31,8,2,1,0,0,0,0
+138,9,England,Jamie Smith,13810,Right-hand bat,,T20,5,5,130,67,60,26.0,194.03,0,9,10,0,1,0,0,0,0
+139,9,England,Jamie Smith,13810,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+140,9,England,Jos Buttler,2258,Right-hand bat,,Test,57,100,2907,5365,152,31.95,54.19,9,339,33,9,18,2,0,0,0
+141,9,England,Jos Buttler,2258,Right-hand bat,,ODI,190,163,5274,4566,162,39.07,115.51,28,422,176,15,27,11,0,0,0
+142,9,England,Jos Buttler,2258,Right-hand bat,,T20,137,126,3700,2516,101,35.92,147.06,23,333,160,8,27,1,0,0,0
+143,9,England,Jos Buttler,2258,Right-hand bat,,IPL,121,119,4120,2758,124,40.0,149.39,16,407,185,8,24,7,0,0,0
+144,9,England,Jonny Bairstow,6507,Right-hand bat,Right-arm medium,Test,100,178,6042,10228,167,36.4,59.08,12,721,56,17,26,12,0,0,0
+145,9,England,Jonny Bairstow,6507,Right-hand bat,Right-arm medium,ODI,107,98,3868,3758,141,42.98,102.93,8,437,92,9,17,11,0,0,0
+146,9,England,Jonny Bairstow,6507,Right-hand bat,Right-arm medium,T20,80,72,1671,1215,90,29.84,137.54,16,148,76,6,10,0,0,0,0
+147,9,England,Jonny Bairstow,6507,Right-hand bat,Right-arm medium,IPL,52,52,1674,1146,114,34.88,146.08,4,173,74,3,9,2,0,0,0
+148,9,England,Philip Salt,10479,Right-hand bat,Right-arm offbreak,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+149,9,England,Philip Salt,10479,Right-hand bat,Right-arm offbreak,ODI,33,31,988,861,122,31.87,114.76,0,134,20,1,5,1,0,0,0
+150,9,England,Philip Salt,10479,Right-hand bat,Right-arm offbreak,T20,43,40,1193,726,119,34.09,164.33,5,116,61,4,5,3,0,0,0
+151,9,England,Philip Salt,10479,Right-hand bat,Right-arm offbreak,IPL,34,34,1056,601,89,34.06,175.71,3,122,56,3,10,0,0,0,0
+152,9,England,Sam James Cook,12994,Right-hand bat,Right-arm fast,Test,1,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+153,9,England,Sam James Cook,12994,Right-hand bat,Right-arm fast,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+154,9,England,Sam James Cook,12994,Right-hand bat,Right-arm fast,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+155,9,England,Sam James Cook,12994,Right-hand bat,Right-arm fast,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+156,9,England,Brydon Carse,11436,Right-hand bat,Right-arm fast,Test,8,12,211,281,56,21.1,75.09,2,14,9,1,1,0,0,0,0
+157,9,England,Brydon Carse,11436,Right-hand bat,Right-arm fast,ODI,24,16,215,273,32,19.55,78.76,5,14,5,0,0,0,0,0,0
+158,9,England,Brydon Carse,11436,Right-hand bat,Right-arm fast,T20,11,7,43,34,31,8.6,126.48,2,2,3,2,0,0,0,0,0
+159,9,England,Brydon Carse,11436,Right-hand bat,Right-arm fast,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+160,9,England,Shoaib Bashir,46023,Right-hand bat,Right-arm offbreak,Test,19,28,92,244,13,7.08,37.7,15,12,1,6,0,0,0,0,0
+161,9,England,Shoaib Bashir,46023,Right-hand bat,Right-arm offbreak,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+162,9,England,Shoaib Bashir,46023,Right-hand bat,Right-arm offbreak,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+163,9,England,Shoaib Bashir,46023,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+164,9,England,Josh Tongue,12747,Right-hand bat,Right-arm fast-medium,Test,5,5,33,79,19,6.6,41.78,0,3,0,1,0,0,0,0,0
+165,9,England,Josh Tongue,12747,Right-hand bat,Right-arm fast-medium,ODI,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+166,9,England,Josh Tongue,12747,Right-hand bat,Right-arm fast-medium,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+167,9,England,Josh Tongue,12747,Right-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+168,13,New Zealand,Zakary Foulkes,24391,Right-hand bat,Right-arm medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+169,13,New Zealand,Zakary Foulkes,24391,Right-hand bat,Right-arm medium,ODI,1,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+170,13,New Zealand,Zakary Foulkes,24391,Right-hand bat,Right-arm medium,T20,10,6,58,40,27,19.33,145.0,3,3,2,1,0,0,0,0,0
+171,13,New Zealand,Zakary Foulkes,24391,Right-hand bat,Right-arm medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+172,13,New Zealand,Mitchell Santner,10100,Left-hand bat,Left-arm orthodox,Test,30,43,1066,2270,126,26.0,46.97,2,119,32,3,4,1,0,0,0
+173,13,New Zealand,Mitchell Santner,10100,Left-hand bat,Left-arm orthodox,ODI,118,86,1438,1584,67,26.15,90.79,31,105,41,3,3,0,0,0,0
+174,13,New Zealand,Mitchell Santner,10100,Left-hand bat,Left-arm orthodox,T20,109,74,725,603,77,16.86,120.24,31,55,24,5,1,0,0,0,0
+175,13,New Zealand,Mitchell Santner,10100,Left-hand bat,Left-arm orthodox,IPL,31,19,110,104,22,13.75,105.77,11,6,6,1,0,0,0,0,0
+176,13,New Zealand,Nathan Smith,11170,Right-hand bat,Right-arm fast-medium,Test,2,4,80,120,42,20.0,66.67,0,7,3,0,0,0,0,0,0
+177,13,New Zealand,Nathan Smith,11170,Right-hand bat,Right-arm fast-medium,ODI,10,7,36,59,17,6.0,61.02,1,2,0,2,0,0,0,0,0
+178,13,New Zealand,Nathan Smith,11170,Right-hand bat,Right-arm fast-medium,T20,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+179,13,New Zealand,Nathan Smith,11170,Right-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+180,13,New Zealand,Devon Conway,9838,Left-hand bat,Right-arm medium,Test,27,51,1836,3564,200,36.72,51.52,1,229,12,4,11,4,1,0,0
+181,13,New Zealand,Devon Conway,9838,Left-hand bat,Right-arm medium,ODI,36,35,1431,1631,152,44.72,87.74,3,176,17,2,4,5,0,0,0
+182,13,New Zealand,Devon Conway,9838,Left-hand bat,Right-arm medium,T20,50,46,1408,1102,99,38.05,127.77,9,135,37,1,10,0,0,0,0
+183,13,New Zealand,Devon Conway,9838,Left-hand bat,Right-arm medium,IPL,29,28,1080,773,92,43.2,139.72,3,116,34,3,11,0,0,0,0
+184,13,New Zealand,Tim Seifert,9443,Right-hand bat,,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+185,13,New Zealand,Tim Seifert,9443,Right-hand bat,,ODI,4,3,59,56,26,19.67,105.36,0,3,2,0,0,0,0,0,0
+186,13,New Zealand,Tim Seifert,9443,Right-hand bat,,T20,66,63,1540,1078,97,28.0,142.86,8,131,80,5,10,0,0,0,0
+187,13,New Zealand,Tim Seifert,9443,Right-hand bat,,IPL,3,3,26,23,21,8.67,113.05,0,4,0,0,0,0,0,0,0
+188,13,New Zealand,Tom Blundell,10717,Right-hand bat,Right-arm offbreak,Test,40,69,2138,4013,138,34.48,53.28,7,259,16,6,11,5,0,0,0
+189,13,New Zealand,Tom Blundell,10717,Right-hand bat,Right-arm offbreak,ODI,12,12,266,307,68,29.56,86.65,3,28,2,0,2,0,0,0,0
+190,13,New Zealand,Tom Blundell,10717,Right-hand bat,Right-arm offbreak,T20,9,8,91,94,30,15.17,96.81,2,10,0,0,0,0,0,0,0
+191,13,New Zealand,Tom Blundell,10717,Right-hand bat,Right-arm offbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+192,13,New Zealand,Mitchell Hay,18612,Right-hand bat,,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+193,13,New Zealand,Mitchell Hay,18612,Right-hand bat,,ODI,7,5,166,159,99,41.5,104.41,1,11,8,1,1,0,0,0,0
+194,13,New Zealand,Mitchell Hay,18612,Right-hand bat,,T20,10,8,85,65,41,14.17,130.77,2,5,4,2,0,0,0,0,0
+195,13,New Zealand,Mitchell Hay,18612,Right-hand bat,,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+196,13,New Zealand,Tom Latham,8216,Left-hand bat,Right-arm medium,Test,88,158,5835,12283,264,38.39,47.51,6,665,19,13,31,13,2,0,0
+197,13,New Zealand,Tom Latham,8216,Left-hand bat,Right-arm medium,ODI,157,144,4361,5090,145,34.61,85.68,18,364,60,14,26,8,0,0,0
+198,13,New Zealand,Tom Latham,8216,Left-hand bat,Right-arm medium,T20,26,23,516,474,65,25.8,108.87,3,42,8,1,3,0,0,0,0
+199,13,New Zealand,Tom Latham,8216,Left-hand bat,Right-arm medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+200,13,New Zealand,Lockie Ferguson,10692,Right-hand bat,Right-arm fast,Test,1,2,1,9,1,0.0,11.12,2,0,0,0,0,0,0,0,0
+201,13,New Zealand,Lockie Ferguson,10692,Right-hand bat,Right-arm fast,ODI,65,30,122,235,19,7.18,51.92,13,6,3,4,0,0,0,0,0
+202,13,New Zealand,Lockie Ferguson,10692,Right-hand bat,Right-arm fast,T20,43,15,29,36,14,3.63,80.56,7,0,2,4,0,0,0,0,0
+203,13,New Zealand,Lockie Ferguson,10692,Right-hand bat,Right-arm fast,IPL,49,11,72,47,24,24.0,153.2,8,7,2,1,0,0,0,0,0
+204,13,New Zealand,Adithya Ashok,15195,Right-hand bat,Right-arm legbreak,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+205,13,New Zealand,Adithya Ashok,15195,Right-hand bat,Right-arm legbreak,ODI,2,1,10,12,10,10.0,83.34,0,2,0,0,0,0,0,0,0
+206,13,New Zealand,Adithya Ashok,15195,Right-hand bat,Right-arm legbreak,T20,1,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+207,13,New Zealand,Adithya Ashok,15195,Right-hand bat,Right-arm legbreak,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+208,13,New Zealand,Jacob Duffy,8554,Right-hand bat,Right-arm fast-medium,Test,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+209,13,New Zealand,Jacob Duffy,8554,Right-hand bat,Right-arm fast-medium,ODI,14,7,12,20,4,12.0,60.0,6,2,0,1,0,0,0,0,0
+210,13,New Zealand,Jacob Duffy,8554,Right-hand bat,Right-arm fast-medium,T20,23,5,19,23,8,6.33,82.61,2,2,0,1,0,0,0,0,0
+211,13,New Zealand,Jacob Duffy,8554,Right-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+212,13,New Zealand,Matt Henry,9067,Right-hand bat,Right-arm fast-medium,Test,30,42,649,834,72,18.03,77.82,6,87,20,9,4,0,0,0,0
+213,13,New Zealand,Matt Henry,9067,Right-hand bat,Right-arm fast-medium,ODI,91,38,270,290,48,10.38,93.11,12,22,11,7,0,0,0,0,0
+214,13,New Zealand,Matt Henry,9067,Right-hand bat,Right-arm fast-medium,T20,21,7,24,27,12,6.0,88.89,3,2,1,1,0,0,0,0,0
+215,13,New Zealand,Matt Henry,9067,Right-hand bat,Right-arm fast-medium,IPL,6,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+216,13,New Zealand,Kyle Jamieson,9441,Right-hand bat,Right-arm fast-medium,Test,19,26,432,777,51,19.64,55.6,4,38,10,3,1,0,0,0,0
+217,13,New Zealand,Kyle Jamieson,9441,Right-hand bat,Right-arm fast-medium,ODI,17,7,92,106,25,23.0,86.8,3,6,3,0,0,0,0,0,0
+218,13,New Zealand,Kyle Jamieson,9441,Right-hand bat,Right-arm fast-medium,T20,15,6,49,34,30,16.33,144.12,3,7,0,1,0,0,0,0,0
+219,13,New Zealand,Kyle Jamieson,9441,Right-hand bat,Right-arm fast-medium,IPL,13,9,65,60,16,16.25,108.34,5,5,3,0,0,0,0,0,0
+220,13,New Zealand,William ORourke,15925,Right-hand bat,Right-arm fast-medium,Test,10,18,18,193,5,3.0,9.33,12,1,0,5,0,0,0,0,0
+221,13,New Zealand,William ORourke,15925,Right-hand bat,Right-arm fast-medium,ODI,17,4,6,15,3,3.0,40.0,2,0,0,0,0,0,0,0,0
+222,13,New Zealand,William ORourke,15925,Right-hand bat,Right-arm fast-medium,T20,5,1,0,0,0,0.0,0.0,0,0,0,1,0,0,0,0,0
+223,13,New Zealand,William ORourke,15925,Right-hand bat,Right-arm fast-medium,IPL,3,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0
+224,13,New Zealand,Ben Sears,11178,Right-hand bat,Right-arm fast-medium,Test,1,2,0,4,0,0.0,0.0,2,0,0,0,0,0,0,0,0
+225,13,New Zealand,Ben Sears,11178,Right-hand bat,Right-arm fast-medium,ODI,4,2,11,17,6,11.0,64.71,1,0,0,0,0,0,0,0,0
+226,13,New Zealand,Ben Sears,11178,Right-hand bat,Right-arm fast-medium,T20,20,6,21,23,7,10.5,91.31,4,2,0,0,0,0,0,0,0
+227,13,New Zealand,Ben Sears,11178,Right-hand bat,Right-arm fast-medium,IPL,0,0,0,0,0,0.0,0.0,0,0,0,0,0,0,0,0,0

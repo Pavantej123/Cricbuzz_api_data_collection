@@ -1,0 +1,355 @@
+,Unnamed: 0,teamId,teamName,name,id,battingStyle,bowlingStyle
+0,0,2,India,Shubman Gill,11808,Right-hand bat,Right-arm offbreak
+1,1,2,India,Yashasvi Jaiswal,13940,Left-hand bat,Right-arm legbreak
+2,2,2,India,Sai Sudharsan,13866,Left-hand bat,Right-arm legbreak
+3,3,2,India,Rohit Sharma,576,Right-hand bat,Right-arm offbreak
+4,4,2,India,Virat Kohli,1413,Right-hand bat,Right-arm medium
+5,5,2,India,Suryakumar Yadav,7915,Right-hand bat,Right-arm offbreak
+6,6,2,India,Shreyas Iyer,9428,Right-hand bat,Right-arm legbreak
+7,7,2,India,Rinku Singh,10896,Left-hand bat,Right-arm offbreak
+8,8,2,India,Tilak Varma,14504,Left-hand bat,Right-arm offbreak
+9,9,2,India,Ruturaj Gaikwad,11813,Right-hand bat,Right-arm offbreak
+10,10,2,India,Rajat Patidar,10636,Right-hand bat,Right-arm offbreak
+11,11,2,India,Sarfaraz Khan,9429,Right-hand bat,Right-arm legbreak
+12,12,2,India,Abhimanyu Easwaran,9716,Right-hand bat,Right-arm legbreak
+13,13,2,India,Karun Nair,8257,Right-hand bat,Right-arm offbreak
+14,14,2,India,Nitish Kumar Reddy,14701,Right-hand bat,Right-arm fast-medium
+15,15,2,India,Hardik Pandya,9647,Right-hand bat,Right-arm fast-medium
+16,16,2,India,Shivam Dube,11195,Left-hand bat,Right-arm medium
+17,17,2,India,Abhishek Sharma,12086,Left-hand bat,Left-arm orthodox
+18,18,2,India,Ravindra Jadeja,587,Left-hand bat,Left-arm orthodox
+19,19,2,India,Shardul Thakur,8683,Right-hand bat,Right-arm fast-medium
+20,20,2,India,Washington Sundar,10945,Left-hand bat,Right-arm offbreak
+21,21,2,India,Axar Patel,8808,Left-hand bat,Left-arm orthodox
+22,22,2,India,Rishabh Pant,10744,Left-hand bat,
+23,23,2,India,KL Rahul,8733,Right-hand bat,
+24,24,2,India,Dhruv Jurel,14691,Right-hand bat,
+25,25,2,India,Sanju Samson,8271,Right-hand bat,
+26,26,2,India,Ishan Kishan,10276,Left-hand bat,
+27,27,2,India,Mohammed Siraj,10808,Right-hand bat,Right-arm fast
+28,28,2,India,Jasprit Bumrah,9311,Right-hand bat,Right-arm fast
+29,29,2,India,Prasidh Krishna,10551,Right-hand bat,Right-arm fast
+30,30,2,India,Akash Deep,14726,Right-hand bat,Right-arm fast-medium
+31,31,2,India,Kuldeep Yadav,8292,Left-hand bat,Left-arm wrist-spin
+32,32,2,India,Arshdeep Singh,13217,Left-hand bat,Left-arm fast-medium
+33,33,2,India,Harshit Rana,24729,Right-hand bat,Right-arm fast-medium
+34,34,2,India,Ravi Bishnoi,14659,Right-hand bat,Right-arm legbreak
+35,35,2,India,Mukesh Kumar,10754,Right-hand bat,Right-arm fast-medium
+36,36,2,India,Varun Chakaravarthy,12926,Right-hand bat,Right-arm legbreak
+37,37,96,Afghanistan,Hashmatullah Shahidi,8277,Left-hand bat,Right-arm offbreak
+38,38,96,Afghanistan,Rahmat Shah,8571,Right-hand bat,Right-arm legbreak
+39,39,96,Afghanistan,Riaz Hassan,14200,Right-hand bat,
+40,40,96,Afghanistan,Sediqullah Atal,14204,Left-hand bat,
+41,41,96,Afghanistan,Bahir Shah,15753,Right-hand bat,Right-arm offbreak
+42,42,96,Afghanistan,Darwish Rasooli,12069,Right-hand bat,Right-arm offbreak
+43,43,96,Afghanistan,Hazratullah Zazai,12068,Left-hand bat,Left-arm orthodox
+44,44,96,Afghanistan,Abdul Malik,15752,Right-hand bat,Right-arm offbreak
+45,45,96,Afghanistan,Ismat Alam,1449069,Right-hand bat,Right-arm fast-medium
+46,46,96,Afghanistan,Gulbadin Naib,8030,Right-hand bat,Right-arm fast-medium
+47,47,96,Afghanistan,Azmatullah Omarzai,13214,Right-hand bat,Right-arm fast-medium
+48,48,96,Afghanistan,Zahir Shehzad,14281,Right-hand bat,Left-arm orthodox
+49,49,96,Afghanistan,Rashid Khan,10738,Right-hand bat,Right-arm legbreak
+50,50,96,Afghanistan,Bashir Ahmad,53160,Left-hand bat,Left-arm medium
+51,51,96,Afghanistan,Mohammad Nabi,3007,Right-hand bat,Right-arm offbreak
+52,52,96,Afghanistan,Nangeyalia Kharote,22956,Left-hand bat,Left-arm orthodox
+53,53,96,Afghanistan,Karim Janat,11077,Right-hand bat,Right-arm fast-medium
+54,54,96,Afghanistan,Zubaid Akbari,47000,Left-hand bat,Left-arm orthodox
+55,55,96,Afghanistan,Ikram Alikhil,11071,Left-hand bat,
+56,56,96,Afghanistan,Afsar Zazai,8278,Right-hand bat,
+57,57,96,Afghanistan,Mohammad Ishaq,14195,Right-hand bat,
+58,58,96,Afghanistan,Rahmanullah Gurbaz,13213,Right-hand bat,
+59,59,96,Afghanistan,Zahir Khan,10828,Left-hand bat,Left-arm wrist-spin
+60,60,96,Afghanistan,Zia-ur-Rehman Akbar,9858,Right-hand bat,Left-arm orthodox
+61,61,96,Afghanistan,Yamin Ahmadzai,9609,Right-hand bat,Right-arm fast-medium
+62,62,96,Afghanistan,Naveed Zadran,23106,Right-hand bat,Right-arm medium
+63,63,96,Afghanistan,Fareed Ahmad Malik,9848,Left-hand bat,Left-arm fast-medium
+64,64,96,Afghanistan,AM Ghazanfar,36501,Right-hand bat,Right-arm offbreak
+65,65,96,Afghanistan,Fazalhaq Farooqi,14282,Right-hand bat,Left-arm fast-medium
+66,66,96,Afghanistan,Bilal Sami,22861,Right-hand bat,Right-arm medium
+67,67,96,Afghanistan,Mujeeb Ur Rahman,12071,Right-hand bat,Right-arm offbreak
+68,68,96,Afghanistan,Naveen-ul-Haq,11289,Right-hand bat,Right-arm fast-medium
+69,69,96,Afghanistan,Noor Ahmad,15452,Right-hand bat,Left-arm wrist-spin
+70,70,27,Ireland,Andrew Balbirnie,6710,Right-hand bat,Right-arm offbreak
+71,71,27,Ireland,Cade Carmichael,1451963,Right-hand bat,Right-arm medium
+72,72,27,Ireland,Harry Tector,11130,Right-hand bat,Right-arm offbreak
+73,73,27,Ireland,Ross Adair,36594,Right-hand bat,Left-arm orthodox
+74,74,27,Ireland,Morgan Topping,13310,Right-hand bat,
+75,75,27,Ireland,Paul Stirling,1114,Right-hand bat,Right-arm offbreak
+76,76,27,Ireland,Gareth Delany,13983,Right-hand bat,Right-arm legbreak
+77,77,27,Ireland,George Dockrell,6329,Right-hand bat,Left-arm orthodox
+78,78,27,Ireland,Andy McBrine,9667,Left-hand bat,Right-arm offbreak
+79,79,27,Ireland,Matthew Humphreys,23506,Right-hand bat,Left-arm orthodox
+80,80,27,Ireland,Jordan Neill,54252,Right-hand bat,Right-arm medium
+81,81,27,Ireland,Fionn Hand,29018,Right-hand bat,Right-arm medium
+82,82,27,Ireland,Lorcan Tucker,11131,Right-hand bat,
+83,83,27,Ireland,Stephen Doheny,11127,Right-hand bat,
+84,84,27,Ireland,Peter Moor,10195,Right-hand bat,Right-arm offbreak
+85,85,27,Ireland,Neil Rock,13309,Left-hand bat,
+86,86,27,Ireland,Joshua Little,11128,Right-hand bat,Left-arm fast-medium
+87,87,27,Ireland,Barry McCarthy,10451,Right-hand bat,Right-arm fast-medium
+88,88,27,Ireland,Thomas Mayes,41928,Right-hand bat,Right-arm fast-medium
+89,89,27,Ireland,Liam McCarthy,1451972,Left-hand bat,Right-arm fast-medium
+90,90,27,Ireland,Craig Young,6575,Right-hand bat,Right-arm fast-medium
+91,91,27,Ireland,Mark Adair,10449,Right-hand bat,Right-arm fast
+92,92,27,Ireland,Benjamin White,11124,Right-hand bat,Right-arm legbreak
+93,93,27,Ireland,Graham Hume,19178,Left-hand bat,Right-arm fast-medium
+94,94,27,Ireland,Gavin Hoey,1428460,Right-hand bat,Right-arm legbreak
+95,95,3,Pakistan,Imam-ul-Haq,8364,Left-hand bat,
+96,96,3,Pakistan,Muhammad Hurraira,15847,Right-hand bat,Right-arm offbreak
+97,97,3,Pakistan,Babar Azam,8359,Right-hand bat,Right-arm offbreak
+98,98,3,Pakistan,Shan Masood,9545,Left-hand bat,Right-arm medium
+99,99,3,Pakistan,Saim Ayub,14241,Left-hand bat,Right-arm offbreak
+100,100,3,Pakistan,Fakhar Zaman,10863,Left-hand bat,Left-arm orthodox
+101,101,3,Pakistan,Khushdil Shah,12565,Left-hand bat,Left-arm orthodox
+102,102,3,Pakistan,Hasan Nawaz,41113,Right-hand bat,Right-arm offbreak
+103,103,3,Pakistan,Abdullah Shafique,12139,Right-hand bat,Right-arm offbreak
+104,104,3,Pakistan,Tayyab Tahir,37572,Right-hand bat,Right-arm legbreak
+105,105,3,Pakistan,Omair Yousuf,13239,Right-hand bat,
+106,106,3,Pakistan,Abdul Samad,1433121,Right-hand bat,
+107,107,3,Pakistan,Saud Shakeel,9812,Left-hand bat,Left-arm orthodox
+108,108,3,Pakistan,Kamran Ghulam,9807,Right-hand bat,Left-arm orthodox
+109,109,3,Pakistan,Salman Agha,10101,Right-hand bat,Right-arm offbreak
+110,110,3,Pakistan,Irfan Khan,15460,Right-hand bat,Right-arm fast-medium
+111,111,3,Pakistan,Hussain Talat,9804,Left-hand bat,Right-arm medium
+112,112,3,Pakistan,Noman Ali,14545,Left-hand bat,Left-arm orthodox
+113,113,3,Pakistan,Faheem Ashraf,11265,Left-hand bat,Right-arm medium
+114,114,3,Pakistan,Shadab Khan,11186,Right-hand bat,Right-arm legbreak
+115,115,3,Pakistan,Jahandad Khan,55256,Left-hand bat,Left-arm fast-medium
+116,116,3,Pakistan,Rohail Nazir,13192,Right-hand bat,
+117,117,3,Pakistan,Mohammad Rizwan,9468,Right-hand bat,
+118,118,3,Pakistan,Sahibzada Farhan,13625,Right-hand bat,
+119,119,3,Pakistan,Mohammad Haris,15038,Right-hand bat,Right-arm offbreak
+120,120,3,Pakistan,Usman Khan,19013,Right-hand bat,Right-arm offbreak
+121,121,3,Pakistan,Abrar Ahmed,12555,Right-hand bat,Right-arm legbreak
+122,122,3,Pakistan,Sajid Khan,19066,Right-hand bat,Right-arm offbreak
+123,123,3,Pakistan,Mohammad Ali,35250,Right-hand bat,Right-arm fast-medium
+124,124,3,Pakistan,Khurram Shahzad,19627,Right-hand bat,Right-arm medium
+125,125,3,Pakistan,Kashif Ali,1450089,Right-hand bat,Right-arm medium
+126,126,3,Pakistan,Haris Rauf,14561,Right-hand bat,Right-arm fast
+127,127,3,Pakistan,Naseem Shah,14247,Right-hand bat,Right-arm fast
+128,128,3,Pakistan,Hasan Ali,11320,Right-hand bat,Right-arm fast-medium
+129,129,3,Pakistan,Abbas Afridi,15034,Right-hand bat,Right-arm fast-medium
+130,130,3,Pakistan,Akif Javed,15751,Right-hand bat,Left-arm fast-medium
+131,131,3,Pakistan,Mohammad Wasim Jr,15040,Right-hand bat,Right-arm fast-medium
+132,132,3,Pakistan,Sufiyan Muqeem,41169,Left-hand bat,Left-arm wrist-spin
+133,133,3,Pakistan,Shaheen Afridi,12160,Left-hand bat,Left-arm fast-medium
+134,134,3,Pakistan,Mohammad Hasnain,14248,Right-hand bat,Right-arm fast-medium
+135,135,4,Australia,Steven Smith,2250,Right-hand bat,Right-arm legbreak
+136,136,4,Australia,Marnus Labuschagne,10182,Right-hand bat,Right-arm legbreak
+137,137,4,Australia,Travis Head,8497,Left-hand bat,Right-arm offbreak
+138,138,4,Australia,Usman Khawaja,6635,Left-hand bat,Right-arm offbreak
+139,139,4,Australia,Matthew Short,9456,Right-hand bat,Right-arm offbreak
+140,140,4,Australia,Cameron Green,12225,Right-hand bat,Right-arm fast-medium
+141,141,4,Australia,Sam Konstas,52495,Right-hand bat,Right-arm offbreak
+142,142,4,Australia,Beau Webster,8646,Right-hand bat,Right-arm medium
+143,143,4,Australia,Aaron Hardie,13170,Right-hand bat,Right-arm fast-medium
+144,144,4,Australia,Glenn Maxwell,7662,Right-hand bat,Right-arm offbreak
+145,145,4,Australia,Mitchell Marsh,6250,Right-hand bat,Right-arm fast-medium
+146,146,4,Australia,Alex Carey,9200,Left-hand bat,
+147,147,4,Australia,Josh Inglis,10637,Right-hand bat,
+148,148,4,Australia,Pat Cummins,8095,Right-hand bat,Right-arm fast
+149,149,4,Australia,Nathan Lyon,7850,Right-hand bat,Right-arm offbreak
+150,150,4,Australia,Mitchell Starc,7710,Left-hand bat,Left-arm fast
+151,151,4,Australia,Adam Zampa,8642,Right-hand bat,Right-arm legbreak
+152,152,4,Australia,Sean Abbott,8136,Right-hand bat,Right-arm fast-medium
+153,153,4,Australia,Josh Hazlewood,6258,Left-hand bat,Right-arm fast-medium
+154,154,4,Australia,Xavier Bartlett,11689,Right-hand bat,Right-arm fast-medium
+155,155,4,Australia,Scott Boland,8631,Right-hand bat,Right-arm fast-medium
+156,156,4,Australia,Nathan Ellis,15480,Right-hand bat,Right-arm fast-medium
+157,157,4,Australia,Matthew Kuhnemann,13141,Left-hand bat,Left-arm orthodox
+158,158,4,Australia,Lance Morris,13173,Right-hand bat,Right-arm fast
+159,159,4,Australia,Todd Murphy,15146,Left-hand bat,Right-arm offbreak
+160,160,4,Australia,Jhye Richardson,10280,Right-hand bat,Right-arm fast
+161,161,5,Sri Lanka,Pathum Nissanka,13682,Right-hand bat,
+162,162,5,Sri Lanka,Pavan Rathnayake,15081,Right-hand bat,
+163,163,5,Sri Lanka,Oshada Fernando,11545,Right-hand bat,Right-arm legbreak
+164,164,5,Sri Lanka,Pasindu Sooriyabandara,13884,Right-hand bat,
+165,165,5,Sri Lanka,Avishka Fernando,10939,Right-hand bat,Right-arm fast-medium
+166,166,5,Sri Lanka,Nuwanidu Fernando,13187,Right-hand bat,Right-arm offbreak
+167,167,5,Sri Lanka,Angelo Mathews,1629,Right-hand bat,Right-arm fast-medium
+168,168,5,Sri Lanka,Kamindu Mendis,10940,Left-hand bat,Right-arm offbreak
+169,169,5,Sri Lanka,Dhananjaya de Silva,7872,Right-hand bat,Right-arm offbreak
+170,170,5,Sri Lanka,Charith Asalanka,10934,Left-hand bat,Right-arm offbreak
+171,171,5,Sri Lanka,Janith Liyanage,13694,Right-hand bat,Right-arm fast-medium
+172,172,5,Sri Lanka,Sonal Dinusha,13930,Left-hand bat,Left-arm orthodox
+173,173,5,Sri Lanka,Tharindu Rathnayake,18515,Left-hand bat,Right-arm offbreak
+174,174,5,Sri Lanka,Milan Priyanath Rathnayake,39678,Left-hand bat,Right-arm fast-medium
+175,175,5,Sri Lanka,Dunith Wellalage,14251,Left-hand bat,Left-arm orthodox
+176,176,5,Sri Lanka,Wanindu Hasaranga,10926,Right-hand bat,Right-arm legbreak
+177,177,5,Sri Lanka,Dinesh Chandimal,6245,Right-hand bat,Right-arm offbreak
+178,178,5,Sri Lanka,Kusal Mendis,9494,Right-hand bat,
+179,179,5,Sri Lanka,Lahiru Udara,15586,Right-hand bat,
+180,180,5,Sri Lanka,Nishan Madushka,13236,Right-hand bat,
+181,181,5,Sri Lanka,Sadeera Samarawickrama,9495,Right-hand bat,
+182,182,5,Sri Lanka,Asitha Fernando,10938,Right-hand bat,Right-arm fast-medium
+183,183,5,Sri Lanka,Prabath Jayasuriya,11498,Right-hand bat,Left-arm orthodox
+184,184,5,Sri Lanka,Kasun Rajitha,10472,Right-hand bat,Right-arm fast-medium
+185,185,5,Sri Lanka,Akila Dananjaya,8483,Left-hand bat,Right-arm offbreak
+186,186,5,Sri Lanka,Isitha Wijesundera,41309,Left-hand bat,Right-arm fast-medium
+187,187,5,Sri Lanka,Lahiru Kumara,10928,Left-hand bat,Right-arm fast-medium
+188,188,5,Sri Lanka,Nishan Peiris,13675,Left-hand bat,Right-arm offbreak
+189,189,5,Sri Lanka,Vishwa Fernando,8413,Right-hand bat,Left-arm fast-medium
+190,190,5,Sri Lanka,Jeffrey Vandersay,10469,Right-hand bat,Right-arm legbreak
+191,191,5,Sri Lanka,Mohamed Shiraz,14574,Right-hand bat,Right-arm fast-medium
+192,192,5,Sri Lanka,Eshan Malinga,46926,Left-hand bat,Right-arm fast-medium
+193,193,5,Sri Lanka,Maheesh Theekshana,18504,Right-hand bat,Right-arm offbreak
+194,194,6,Bangladesh,Najmul Hossain Shanto,9864,Left-hand bat,Right-arm offbreak
+195,195,6,Bangladesh,Mominul Haque,8219,Left-hand bat,Left-arm orthodox
+196,196,6,Bangladesh,Towhid Hridoy,13223,Right-hand bat,Right-arm offbreak
+197,197,6,Bangladesh,Shadman Islam,9868,Left-hand bat,Left-arm orthodox
+198,198,6,Bangladesh,Soumya Sarkar,8233,Left-hand bat,Right-arm medium
+199,199,6,Bangladesh,Tanzid Hasan Tamim,14205,Left-hand bat,
+200,200,6,Bangladesh,Mahmudullah,1121,Right-hand bat,Right-arm offbreak
+201,201,6,Bangladesh,Mahedi Hasan,11871,Right-hand bat,Right-arm offbreak
+202,202,6,Bangladesh,Mehidy Hasan Miraz,11081,Right-hand bat,Right-arm offbreak
+203,203,6,Bangladesh,Litton Das,8540,Right-hand bat,
+204,204,6,Bangladesh,Mushfiqur Rahim,394,Right-hand bat,
+205,205,6,Bangladesh,Jaker Ali,11088,Right-hand bat,
+206,206,6,Bangladesh,Anamul Haque,8237,Right-hand bat,
+207,207,6,Bangladesh,Mahidul Islam Ankon,12174,Right-hand bat,
+208,208,6,Bangladesh,Taskin Ahmed,8548,Left-hand bat,Right-arm fast
+209,209,6,Bangladesh,Taijul Islam,8253,Left-hand bat,Left-arm orthodox
+210,210,6,Bangladesh,Mustafizur Rahman,9863,Left-hand bat,Left-arm fast-medium
+211,211,6,Bangladesh,Hasan Mahmud,13226,Right-hand bat,Right-arm fast-medium
+212,212,6,Bangladesh,Nahid Rana,37581,Right-hand bat,Right-arm fast
+213,213,6,Bangladesh,Shoriful Islam,13791,Left-hand bat,Left-arm fast-medium
+214,214,6,Bangladesh,Rishad Hossain,13794,Right-hand bat,Right-arm legbreak
+215,215,6,Bangladesh,Tanzim Hasan Sakib,15274,Right-hand bat,Right-arm fast-medium
+216,216,6,Bangladesh,Nasum Ahmed ,8543,Left-hand bat,Left-arm orthodox
+217,217,6,Bangladesh,Khaled Ahmed,13105,Right-hand bat,Right-arm medium
+218,218,6,Bangladesh,Nayeem Hasan,12081,Right-hand bat,Right-arm offbreak
+219,219,6,Bangladesh,Ebadot Hossain,11786,Right-hand bat,Right-arm fast-medium
+220,220,9,England,Ben Duckett,8502,Left-hand bat,Right-arm offbreak
+221,221,9,England,Joe Root,8019,Right-hand bat,Right-arm offbreak
+222,222,9,England,Harry Brook,12201,Right-hand bat,Right-arm medium
+223,223,9,England,Zak Crawley,12770,Right-hand bat,Right-arm medium
+224,224,9,England,Ben Stokes,6557,Left-hand bat,Right-arm fast-medium
+225,225,9,England,Jacob Bethell,19636,Left-hand bat,Left-arm orthodox
+226,226,9,England,Will Jacks,12258,Right-hand bat,Right-arm offbreak
+227,227,9,England,Liam Livingstone,10045,Right-hand bat,Right-arm legbreak
+228,228,9,England,Chris Woakes,6670,Right-hand bat,Right-arm fast-medium
+229,229,9,England,Sam Curran,10420,Left-hand bat,Left-arm fast-medium
+230,230,9,England,Ollie Pope,11691,Right-hand bat,
+231,231,9,England,Jamie Smith,13810,Right-hand bat,
+232,232,9,England,Jos Buttler,2258,Right-hand bat,
+233,233,9,England,Jonny Bairstow,6507,Right-hand bat,Right-arm medium
+234,234,9,England,Philip Salt,10479,Right-hand bat,Right-arm offbreak
+235,235,9,England,Sam James Cook,12994,Right-hand bat,Right-arm fast
+236,236,9,England,Brydon Carse,11436,Right-hand bat,Right-arm fast
+237,237,9,England,Shoaib Bashir,46023,Right-hand bat,Right-arm offbreak
+238,238,9,England,Josh Tongue,12747,Right-hand bat,Right-arm fast-medium
+239,239,9,England,Jamie Overton,8512,Right-hand bat,Right-arm fast
+240,240,9,England,Gus Atkinson,13681,Right-hand bat,Right-arm fast-medium
+241,241,9,England,Mark Wood,8383,Right-hand bat,Right-arm fast
+242,242,9,England,Rehan Ahmed,19767,Right-hand bat,Right-arm legbreak
+243,243,9,England,Jofra Archer,11540,Right-hand bat,Right-arm fast
+244,244,9,England,Jack Leach,8578,Left-hand bat,Left-arm orthodox
+245,245,9,England,Matthew Potts,12777,Right-hand bat,Right-arm fast-medium
+246,246,9,England,Adil Rashid,1742,Right-hand bat,Right-arm legbreak
+247,247,9,England,Olly Stone,8022,Right-hand bat,Right-arm fast
+248,248,9,England,Reece Topley,8349,Right-hand bat,Left-arm fast-medium
+249,249,9,England,Josh Hull,42740,Left-hand bat,Left-arm fast-medium
+250,250,9,England,John Turner,19587,Right-hand bat,Right-arm fast-medium
+251,251,10,West Indies,Brandon King,9791,Right-hand bat,
+252,252,10,West Indies,Alick Athanaze,13352,Left-hand bat,Right-arm offbreak
+253,253,10,West Indies,Kraigg Brathwaite,1984,Right-hand bat,Right-arm offbreak
+254,254,10,West Indies,Kavem Hodge,8434,Right-hand bat,Left-arm orthodox
+255,255,10,West Indies,Rovman Powell,11445,Right-hand bat,Right-arm fast-medium
+256,256,10,West Indies,Shimron Hetmyer,9789,Left-hand bat,
+257,257,10,West Indies,Evin Lewis,8579,Left-hand bat,
+258,258,10,West Indies,Keacy Carty,11217,Right-hand bat,Right-arm medium
+259,259,10,West Indies,Justin Greaves,8433,Right-hand bat,Right-arm medium
+260,260,10,West Indies,Sherfane Rutherford,13748,Left-hand bat,Right-arm fast-medium
+261,261,10,West Indies,John Campbell,8431,Left-hand bat,Right-arm offbreak
+262,262,10,West Indies,Gudakesh Motie,9793,Left-hand bat,Left-arm orthodox
+263,263,10,West Indies,Roston Chase,11543,Right-hand bat,Right-arm offbreak
+264,264,10,West Indies,Romario Shepherd,13646,Right-hand bat,Right-arm fast-medium
+265,265,10,West Indies,Jason Holder,8313,Right-hand bat,Right-arm fast-medium
+266,266,10,West Indies,Andre Russell,7736,Right-hand bat,Right-arm fast
+267,267,10,West Indies,Shai Hope,10384,Right-hand bat,
+268,268,10,West Indies,Joshua Da Silva,16414,Right-hand bat,
+269,269,10,West Indies,Johnson Charles,8101,Right-hand bat,
+270,270,10,West Indies,Andre Fletcher,1394,Right-hand bat,
+271,271,10,West Indies,Jewel Andrew,54287,Right-hand bat,
+272,272,10,West Indies,Amir Jangoo,12674,Left-hand bat,
+273,273,10,West Indies,Alzarri Joseph,11220,Right-hand bat,Right-arm fast
+274,274,10,West Indies,Shamar Joseph,50458,Left-hand bat,Right-arm fast
+275,275,10,West Indies,Jayden Seales,15817,Left-hand bat,Right-arm medium
+276,276,10,West Indies,Akeal Hosein,8435,Left-hand bat,Left-arm orthodox
+277,277,10,West Indies,Terrance Hinds,13958,Right-hand bat,Right-arm fast-medium
+278,278,10,West Indies,Obed McCoy,11221,Left-hand bat,Left-arm fast-medium
+279,279,10,West Indies,Shamar Springer,11223,Right-hand bat,Right-arm fast-medium
+280,280,10,West Indies,Matthew Forde,15809,Right-hand bat,Right-arm fast-medium
+281,281,10,West Indies,Jediah Blades,1429041,Right-hand bat,Left-arm medium
+282,282,11,South Africa,David Miller,6349,Left-hand bat,
+283,283,11,South Africa,Aiden Markram,9582,Right-hand bat,Right-arm offbreak
+284,284,11,South Africa,Rassie van der Dussen,9554,Right-hand bat,Right-arm legbreak
+285,285,11,South Africa,Temba Bavuma,8583,Right-hand bat,Right-arm medium
+286,286,11,South Africa,Tony de Zorzi,11196,Left-hand bat,Right-arm offbreak
+287,287,11,South Africa,Reeza Hendricks,9491,Right-hand bat,Right-arm offbreak
+288,288,11,South Africa,Dewald Brevis,20538,Right-hand bat,Right-arm legbreak
+289,289,11,South Africa,Zubayr Hamza,10973,Right-hand bat,Right-arm legbreak
+290,290,11,South Africa,Senuran Muthusamy,11432,Left-hand bat,Left-arm orthodox
+291,291,11,South Africa,Lesego Senokwane,18142,Right-hand bat,Right-arm offbreak
+292,292,11,South Africa,Marco Jansen,14565,Right-hand bat,Left-arm fast
+293,293,11,South Africa,Wiaan Mulder,11200,Right-hand bat,Right-arm medium
+294,294,11,South Africa,Corbin Bosch,9576,Right-hand bat,Right-arm fast-medium
+295,295,11,South Africa,Prenelan Subrayen,8530,Right-hand bat,Right-arm offbreak
+296,296,11,South Africa,Codi Yusuf,24546,Right-hand bat,Right-arm medium
+297,297,11,South Africa,David Bedingham,14265,Right-hand bat,
+298,298,11,South Africa,Ryan Rickelton,13070,Left-hand bat,
+299,299,11,South Africa,Tristan Stubbs,19243,Right-hand bat,Right-arm offbreak
+300,300,11,South Africa,Kyle Verreynne,11209,Right-hand bat,Right-arm offbreak
+301,301,11,South Africa,Lhuan-dre Pretorius,50545,Left-hand bat,
+302,302,11,South Africa,Matthew Breetzke,13089,Right-hand bat,
+303,303,11,South Africa,Kagiso Rabada,9585,Left-hand bat,Right-arm fast
+304,304,11,South Africa,Lungi Ngidi,9603,Right-hand bat,Right-arm fast
+305,305,11,South Africa,Nandre Burger,13630,Left-hand bat,Left-arm fast-medium
+306,306,11,South Africa,Gerald Coetzee,13320,Right-hand bat,Right-arm fast
+307,307,11,South Africa,Keshav Maharaj,9720,Right-hand bat,Left-arm orthodox
+308,308,11,South Africa,Kwena Maphaka,23346,Left-hand bat,Left-arm fast-medium
+309,309,11,South Africa,Lizaad Williams,8531,Left-hand bat,Right-arm fast-medium
+310,310,12,Zimbabwe,Craig Ervine,6334,Left-hand bat,Right-arm offbreak
+311,311,12,Zimbabwe,Ben Curran,13957,Left-hand bat,Right-arm offbreak
+312,312,12,Zimbabwe,Nick Welch,18425,Right-hand bat,Right-arm legbreak
+313,313,12,Zimbabwe,Prince Masvaure,11148,Left-hand bat,Left-arm fast-medium
+314,314,12,Zimbabwe,Sikandar Raza,9354,Right-hand bat,Right-arm offbreak
+315,315,12,Zimbabwe,Sean Williams,441,Left-hand bat,Left-arm orthodox
+316,316,12,Zimbabwe,Takudzwanashe Kaitano,19601,Right-hand bat,Right-arm offbreak
+317,317,12,Zimbabwe,Brian Bennett,23616,Right-hand bat,Right-arm offbreak
+318,318,12,Zimbabwe,Wessly Madhevere,11226,Right-hand bat,Right-arm offbreak
+319,319,12,Zimbabwe,Vincent Masekesa,1450665,Right-hand bat,Right-arm legbreak
+320,320,12,Zimbabwe,Tafadzwa Tsiga,25331,Right-hand bat,
+321,321,12,Zimbabwe,Clive Madande,23761,Right-hand bat,
+322,322,12,Zimbabwe,Kundai Matigimu,11235,Right-hand bat,Right-arm fast
+323,323,12,Zimbabwe,Trevor Gwandu,25037,Right-hand bat,Right-arm medium
+324,324,12,Zimbabwe,Wellington Masakadza,8460,Left-hand bat,Left-arm orthodox
+325,325,12,Zimbabwe,Tanaka Chivanga,11763,Right-hand bat,Right-arm fast
+326,326,12,Zimbabwe,Blessing Muzarabani,13316,Right-hand bat,Right-arm fast-medium
+327,327,12,Zimbabwe,Newman Nyamhuri,54385,Right-hand bat,Left-arm fast-medium
+328,328,12,Zimbabwe,Victor Nyauchi,11153,Right-hand bat,Right-arm fast-medium
+329,329,13,New Zealand,Kane Williamson,6326,Right-hand bat,Right-arm offbreak
+330,330,13,New Zealand,Finn Allen,11172,Right-hand bat,
+331,331,13,New Zealand,Mark Chapman,9976,Left-hand bat,Left-arm orthodox
+332,332,13,New Zealand,Henry Nicholls,10694,Left-hand bat,Right-arm offbreak
+333,333,13,New Zealand,Will Young,8549,Right-hand bat,Right-arm offbreak
+334,334,13,New Zealand,Muhammad Abbas,41442,Right-hand bat,Left-arm fast-medium
+335,335,13,New Zealand,Michael Bracewell,9551,Left-hand bat,Right-arm offbreak
+336,336,13,New Zealand,Daryl Mitchell,10713,Right-hand bat,Right-arm medium
+337,337,13,New Zealand,Glenn Phillips,10693,Right-hand bat,Right-arm offbreak
+338,338,13,New Zealand,Rachin Ravindra,11177,Left-hand bat,Left-arm orthodox
+339,339,13,New Zealand,Zakary Foulkes,24391,Right-hand bat,Right-arm medium
+340,340,13,New Zealand,Mitchell Santner,10100,Left-hand bat,Left-arm orthodox
+341,341,13,New Zealand,Nathan Smith,11170,Right-hand bat,Right-arm fast-medium
+342,342,13,New Zealand,Devon Conway,9838,Left-hand bat,Right-arm medium
+343,343,13,New Zealand,Tim Seifert,9443,Right-hand bat,
+344,344,13,New Zealand,Tom Blundell,10717,Right-hand bat,Right-arm offbreak
+345,345,13,New Zealand,Mitchell Hay,18612,Right-hand bat,
+346,346,13,New Zealand,Tom Latham,8216,Left-hand bat,Right-arm medium
+347,347,13,New Zealand,Lockie Ferguson,10692,Right-hand bat,Right-arm fast
+348,348,13,New Zealand,Adithya Ashok,15195,Right-hand bat,Right-arm legbreak
+349,349,13,New Zealand,Jacob Duffy,8554,Right-hand bat,Right-arm fast-medium
+350,350,13,New Zealand,Matt Henry,9067,Right-hand bat,Right-arm fast-medium
+351,351,13,New Zealand,Kyle Jamieson,9441,Right-hand bat,Right-arm fast-medium
+352,352,13,New Zealand,William ORourke,15925,Right-hand bat,Right-arm fast-medium
+353,353,13,New Zealand,Ben Sears,11178,Right-hand bat,Right-arm fast-medium
